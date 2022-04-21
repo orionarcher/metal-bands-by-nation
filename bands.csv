@@ -563,7 +563,7 @@ id,name,country,status,formed_in,genre,theme,active
 562,Arduous Task,United States,Active,2008,Death Metal,History| War| Anti-Religion,2008 (as Subhuman Slaughter)| 2008-present
 563,Argentry,Netherlands,Split-up,N/A,Death Metal,N/A,N/A
 564,Arhat,Mexico,Split-up,N/A,Death Metal,N/A,N/A
-565,Arhont,Macedonia (FYROM),On hold,2005,Death Metal,Occultism| Lovecraft/Cthulhu Mythos,2005-present
+565,Arhont,Macedonia,On hold,2005,Death Metal,Occultism| Lovecraft/Cthulhu Mythos,2005-present
 566,Aries Vehemens,Poland,Active,2002,Death Metal,Necrosodomy,2002-present
 567,Arioch,United States,Split-up,N/A,Death Metal,N/A,N/A
 568,Arise,Denmark,Split-up,N/A,Death Metal,N/A,N/A
@@ -747,7 +747,7 @@ id,name,country,status,formed_in,genre,theme,active
 746,Awareness,Canada,Changed name,1995,Death Metal,Poverty| Death| World Downfall,1995-?
 747,Awkward,Italy,Split-up,1994,Death Metal,Violence| Death| Murder,1994-?
 748,Awoken by Death,Australia,Active,2010,Death Metal,N/A,2010-present
-749,Axcutor,Korea| South,Active,2007,Death Metal,Gore| Death,2007-present
+749,Axcutor,South Korea,Active,2007,Death Metal,Gore| Death,2007-present
 750,Axe of Vengeance,United States,Active,1999,Death Metal,Paranormal| Life| Religion| Terrorism,1999-present
 751,Axis Powers,Sweden,Active,1997,Death Metal,War| Slaughter| Blitzkrieg,1997-present
 752,Axon,Mexico,Active,2001,Death Metal,War| Death| Gore,2001-present
@@ -1402,7 +1402,7 @@ id,name,country,status,formed_in,genre,theme,active
 1401,Carnage,Sweden,Split-up,1988,Death Metal,Death| Armageddon| Anti-Christianity,1988-1990
 1402,Carnage,United States,Split-up,1989,Death Metal,Dismemberment| Gore| Suffering,1989
 1403,Carnage,Venezuela,Active,2003,Death Metal,Philosophy| Death| Hatred,2003-present
-1404,Carnage Dominion,Macedonia (FYROM),Active,2008,Death Metal,Nature| Anti-Religion| Anti-Capitalism,2008-2012 (as Carnage)| 2012-present
+1404,Carnage Dominion,Macedonia,Active,2008,Death Metal,Nature| Anti-Religion| Anti-Capitalism,2008-2012 (as Carnage)| 2012-present
 1405,Carnage Hell,Brazil,Active,2005,Death Metal,War| Death| Destruction,2005-present
 1406,Carnage of Humans,Mexico,Active,2007,Death Metal,N/A,2007-present
 1407,Carnagoth,Venezuela,Unknown,2005,Death Metal,Gore| Death| Suffering,2005-?
@@ -1860,7 +1860,7 @@ id,name,country,status,formed_in,genre,theme,active
 1859,Corruption,Switzerland,Split-up,N/A,Death Metal,N/A,N/A
 1860,Corruption of Virtue,South Africa,Split-up,2001,Death Metal,War| Betrayal| Honour| Violence,2001-?
 1861,Cortege,Poland,Active,1996,Death Metal,Abstract Concept| Death,1996-2005| 2009-present
-1862,Cortex,Macedonia (FYROM),Active,2012,Death Metal,N/A,2012-present
+1862,Cortex,Macedonia,Active,2012,Death Metal,N/A,2012-present
 1863,Corugator,Indonesia,Active,1999,Death Metal,Evil,1999-present
 1864,Cothurnus,Hungary,Unknown,1997,Death Metal,N/A,1997-?
 1865,Cottus,Canada,Active,2011,Death Metal,N/A,2011-present
@@ -2292,7 +2292,7 @@ id,name,country,status,formed_in,genre,theme,active
 2291,Deadman's Blood,United Kingdom,Active,2011,Death Metal,Horror| Gore| Zombies,2011-present
 2292,DeadMoon,United States,Active,N/A,Death Metal,N/A,N/A
 2293,Deadness,Poland,Split-up,1994,Death Metal,N/A,1994-?
-2294,Deadpoint,Korea| South,Unknown,1996,Death Metal,N/A,1996-?
+2294,Deadpoint,South Korea,Unknown,1996,Death Metal,N/A,1996-?
 2295,Deadriver Wasteland,Canada,Split-up,2001,Death Metal,Brotherhood| Battle| Death,2001-2011
 2296,DeadSoulAlliance,Canada,Active,2010,Death Metal,Anti post modernism| Human disgust| Misanthropy,2010-present
 2297,Deadspawn,Australia,Split-up,1995,Death Metal,Death| Darkness| Satanism| Anti-Christianity,1995-2001
@@ -2810,7 +2810,7 @@ id,name,country,status,formed_in,genre,theme,active
 2809,Devilish Mill,Poland,Active,2010,Death Metal,Antitheism,2010-present
 2810,Devilived,Brazil,Active,2013,Death Metal,Mythology| Witchcraft| Satanism| Gore,2013-present
 2811,Devilyn,Poland,Split-up,1996,Death Metal,Darkness| Death,1992-1996 (as Cerebral Concussion)| 1996 (as Uncrown)| 1996-2007
-2812,Devitalized,Macedonia (FYROM),Split-up,2004,Death Metal,Gore| Murder| Torture,2004-?
+2812,Devitalized,Macedonia,Split-up,2004,Death Metal,Gore| Murder| Torture,2004-?
 2813,Devoid,United Kingdom,Split-up,1988,Death Metal,Human Wrongs,1988-?
 2814,Devoid of Grace,Russia,Active,2001,Death Metal,Society| Personality| Nihilism| Evil,2001-present
 2815,Devolish,Mexico,Active,2009,Death Metal,Anti-religious| Sadistic,2009-present
@@ -3022,7 +3022,7 @@ id,name,country,status,formed_in,genre,theme,active
 3021,Dismal,United States,Unknown,N/A,Death Metal,N/A,N/A
 3022,Dismal Chant,Greece,Active,2015,Death Metal,Occultism| Religion| Illumination| Darkness,2015-present
 3023,Dismal Insanity,Belarus,Split-up,N/A,Death Metal,N/A,N/A
-3024,Dismay,Macedonia (FYROM),Split-up,N/A,Death Metal,Darkness| Occultism| Anti-Christianity,N/A
+3024,Dismay,Macedonia,Split-up,N/A,Death Metal,Darkness| Occultism| Anti-Christianity,N/A
 3025,Dismay,Norway,Split-up,N/A,Death Metal,N/A,N/A
 3026,Dismember,Mexico,Split-up,2004,Death Metal,Death| Hate| Torture,2004-?
 3027,Dismember,Sweden,Split-up,1988,Death Metal,Death| War| Anti-Religion| Hatred| Gore,1988-2011
@@ -3308,7 +3308,7 @@ id,name,country,status,formed_in,genre,theme,active
 3307,Embryectomy,Germany,Split-up,N/A,Death Metal,N/A,N/A
 3308,Embryo,Sweden,Split-up,1989,Death Metal,Life| Religion,1989-1992
 3309,Embryonic,Norway,Changed name,1990,Death Metal,Darkness| Morbidity| Death,?-1990 (as Dark Device)| 1990 (as Xerasia)| 1990-1991| 1991-? (as Thou Shalt Suffer)
-3310,Embryotomy,Macedonia (FYROM),Split-up,2000,Death Metal,Blasphemy,2000-?
+3310,Embryotomy,Macedonia,Split-up,2000,Death Metal,Blasphemy,2000-?
 3311,Emböm,Canada,Split-up,1994,Death Metal,N/A,1994-2001
 3312,Emerged from Darkness,United States,Split-up,2001,Death Metal,N/A,2001-2003
 3313,Emesis,United States,Split-up,1995,Death Metal,Life| Death| Gore,1995-?| 2002-?
@@ -6157,7 +6157,7 @@ id,name,country,status,formed_in,genre,theme,active
 6156,Mortal Void,Greece,Split-up,1998,Death Metal,N/A,1998-?
 6157,Mortalchrist,Philippines,Active,2011,Death Metal,N/A,2011-present
 6158,Mortalem,Colombia,Active,2006,Death Metal,Misanthropy| Nihilism| Existentialism,2006-present
-6159,Mortality,Macedonia (FYROM),Split-up,2002,Death Metal,N/A,2002-?
+6159,Mortality,Macedonia,Split-up,2002,Death Metal,N/A,2002-?
 6160,Mortals' Dream,Greece,Split-up,1995,Death Metal,N/A,1995-?
 6161,Mortdant,United States,Split-up,1993,Death Metal,N/A,1993-?
 6162,Mortem,Colombia,Active,1999,Death Metal,Death| Evil| Society| Darkness,1999-2001 (as ZikiZ)| 2001-present
@@ -6190,7 +6190,7 @@ id,name,country,status,formed_in,genre,theme,active
 6189,Mortis Dei,Poland,Active,1992,Death Metal,Anti-Christianity| Death| Life| Pain,1992-present
 6190,Mortis Nex,Germany,Split-up,1995,Death Metal,N/A,1995-2006
 6191,Morto,Brazil,Split-up,2002,Death Metal,Nuclear Disaster| Death| Violence,2002-2004
-6192,Morto Kacho,Curaçao,Active,2005,Death Metal,Drugs| Horror| Gore,2005-present
+6192,Morto Kacho,Curacao,Active,2005,Death Metal,Drugs| Horror| Gore,2005-present
 6193,Mortofobia,Bolivia,Active,1992,Death Metal,Sicknesses| Death,1992-present
 6194,Mortor Rahm,Denmark,Split-up,N/A,Death Metal,N/A,N/A
 6195,Mortos,Brazil,Active,2001,Death Metal,Death,2001-present
@@ -7195,7 +7195,7 @@ id,name,country,status,formed_in,genre,theme,active
 7194,Predatory,Singapore,Active,2002,Death Metal,Spirituality| Life,2002-present
 7195,Preferred Member,United States,Unknown,1999,Death Metal,Sex| Death| Perversion,1999-?
 7196,Premithon,United Kingdom,Split-up,2004,Death Metal,Death| Gore,2004-2007
-7197,Premonition,Macedonia (FYROM),Split-up,2004,Death Metal,Heathen and Philosophical Themes,2004-?
+7197,Premonition,Macedonia,Split-up,2004,Death Metal,Heathen and Philosophical Themes,2004-?
 7198,Preprophecy,Finland,Changed name,1992,Death Metal,N/A,1992-1996| 1996-? (as Ravensfall)| ?-? (as Cryhavoc)
 7199,Pretorius,United States,Split-up,2005,Death Metal,Horror| Gore| Murder| Satan| Anti-Christian,2005-2007
 7200,Prevail,Denmark,Active,2009,Death Metal,N/A,2009-present
@@ -7731,7 +7731,7 @@ id,name,country,status,formed_in,genre,theme,active
 7730,Sacrum,Poland,Split-up,1991,Death Metal,N/A,1991-?
 7731,Sacza,Poland,Active,2012,Death Metal,Inner struggles| War,2012-present
 7732,Sad Eyes,Spain,Active,N/A,Death Metal,N/A,N/A
-7733,Sadhu,Korea| South,Split-up,1992,Death Metal,N/A,1992-?
+7733,Sadhu,South Korea,Split-up,1992,Death Metal,N/A,1992-?
 7734,Sadica,Guatemala,Active,1993,Death Metal,Death| Violence,1992-1994| 2013-present
 7735,Sadism,Chile,Active,1988,Death Metal,Hate| Human Fears| Mental Decline| Terror,1988-present
 7736,Sadismo,Bosnia and Herzegovina,Split-up,1991,Death Metal,War| Hell,1991-1992
@@ -8628,7 +8628,7 @@ id,name,country,status,formed_in,genre,theme,active
 8627,Tears of Misery,Colombia,Active,2002,Death Metal,Nihilism,2000-2002 (as Lágrimas de Miseria)| 2002-present
 8628,Tehom,Sweden,Active,2010,Death Metal,Tehom,2010-present
 8629,Temisto,Sweden,Active,N/A,Death Metal,N/A,N/A
-8630,Temjan,Macedonia (FYROM),On hold,2000,Death Metal,Death| Rituals| Nightmares,2000-?
+8630,Temjan,Macedonia,On hold,2000,Death Metal,Death| Rituals| Nightmares,2000-?
 8631,Tempano,Chile,Active,2008,Death Metal,Destruction| Society,2008-present
 8632,Tempestas,Brazil,Split-up,1993,Death Metal,Vices| Death| Inner Struggles| Blood/Gore,1993-?
 8633,Tempestilence,Brazil,Active,2003,Death Metal,Death| Religious Opposition,2003-present
@@ -8880,7 +8880,7 @@ id,name,country,status,formed_in,genre,theme,active
 8879,Tlartza,Poland,Active,2008,Death Metal,N/A,2008-present
 8880,Tod,Mexico,Split-up,1990,Death Metal,Death,1990-?
 8881,Toforgive,Germany,Active,2006,Death Metal,N/A,2006-present
-8882,Tokkaebi,Korea| South,Active,1997,Death Metal,N/A,1997-present
+8882,Tokkaebi,South Korea,Active,1997,Death Metal,N/A,1997-present
 8883,Tomb,Russia,Active,1995,Death Metal,Death| Society| Philosophy,1995-present
 8884,Tomb Mold,Canada,Active,N/A,Death Metal,N/A,N/A
 8885,Tomb of Death,Germany,Active,2007,Death Metal,Death| Gore| Rituals| Psychotic illness,2007-present
@@ -10052,7 +10052,7 @@ id,name,country,status,formed_in,genre,theme,active
 10051,Apostles of Perversion,Spain,Active,2002,Brutal Death Metal,Philosophy| Gore,2002-present
 10052,Apostol,Tunisia,Active,2007,Melodic Death Metal,N/A,2007-present
 10053,Apotasy,Slovakia,Active,2010,Melodic Death Metal,Life| Depression| Disease| Pain,2010-present
-10054,Apotheosis,Macedonia (FYROM),Active,2013,Melodic Death Metal,N/A,2010-2013 (as Executor)| 2013-present
+10054,Apotheosis,Macedonia,Active,2013,Melodic Death Metal,N/A,2010-2013 (as Executor)| 2013-present
 10055,Apotheosis,United States,Unknown,2004,Melodic Death Metal,N/A,2004-?
 10056,Apothys,United States,Split-up,2004,Blackened Progressive Death Metal,Power of the Mind| Acceptance of Loss| Reality,2004-2012
 10057,Apparatus,Denmark,Active,2012,Experimental Blackened Death Metal,H. P. Lovecraft mythology,2012-present
@@ -10350,7 +10350,7 @@ id,name,country,status,formed_in,genre,theme,active
 10349,Bethledeign,United States,Split-up,2001,Melodic Death Metal,Evil| Chaos,2001-2006
 10350,Betraeus,United Kingdom,Active,2009,Progressive Death Metal,N/A,2009-present
 10351,Betray the Emissary,South Africa,Active,2006,Melodic Death Metal,Death| Struggles| Society,2002-2006 (as N.E.M.F)| 2006-present
-10352,Better Decision,Macedonia (FYROM),Split-up,2006,Melodic Death Metal,Death,2006-2012
+10352,Better Decision,Macedonia,Split-up,2006,Melodic Death Metal,Death,2006-2012
 10353,Beyond Chronicles,France,Active,2013,Melodic Death Metal,N/A,2012-2013 (as Chronicles)| 2013-present
 10354,Beyond Death,Canada,Active,2000,Progressive Death Metal,Anti-Religious| Forests| Winter,2000-present
 10355,Beyond Fatal,United States,On hold,1998,Brutal Death Metal,N/A,1998-present
@@ -11472,7 +11472,7 @@ id,name,country,status,formed_in,genre,theme,active
 11471,Deluvium,Philippines,Active,2005,Brutal Death Metal,Death,2005-present
 11472,Demacretia,South Africa,Active,1994,Industrial Death Metal,Evil,1994-present
 11473,Demencia,Argentina,Changed name,1995,Melodic Death Metal,States of mind| different points of view,1995-present
-11474,Demency,Macedonia (FYROM),Active,2005,Brutal Death Metal,Chaos| Suffering| Death| Misanthropy,2005-present
+11474,Demency,Macedonia,Active,2005,Brutal Death Metal,Chaos| Suffering| Death| Misanthropy,2005-present
 11475,Demenseed,France,Active,2010,Progressive Death Metal,Death| Dementia,2007-2010 (as Dreams Reflection)| 2010-present
 11476,Demental,Canada,Split-up,1999,Technical Brutal Death Metal,War| Possession| Annihilation,1999-2007
 11477,Demented Heart,Indonesia,Active,2000,Technical Death Metal,Death| Hatred| Error,2000-present
@@ -11815,7 +11815,7 @@ id,name,country,status,formed_in,genre,theme,active
 11814,Down Under,Finland,Active,2003,Melodic Death Metal,Disease| Vengeance,2003-2006| 2010-present
 11815,Downstream,Germany,Split-up,2006,Melodic Death Metal,N/A,2006-?
 11816,Downthroat,Portugal,Split-up,N/A,Brutal Death Metal,Gore,1997-? (as Putrescent)| ?-2003
-11817,Doxology,Korea| South,Active,2000,Brutal Death Metal,N/A,2000-present
+11817,Doxology,South Korea,Active,2000,Brutal Death Metal,N/A,2000-present
 11818,Dracaris,United States,Active,N/A,Blackened Death Metal,N/A,N/A
 11819,Drachenblut,Italy,Active,2011,Symphonic Death Metal,N/A,2011-present
 11820,Dragging Entrails,International,Active,2011,Brutal Death Metal,Gore,2011-present
@@ -11946,7 +11946,7 @@ id,name,country,status,formed_in,genre,theme,active
 11945,Ejaculation,Indonesia,Active,2011,Brutal Death Metal,Murder| Gore| Revenge,2011-present
 11946,Ekser,United States,Split-up,2003,Technical Death Metal,Violence| Death| Chaos,2003-2008
 11947,El Amo de las Putas,Ecuador,Active,2009,Technical Brutal Death Metal,Gore| Misogyny| Torture| Sexual Diseases| Prostitutes,2009-present
-11948,El Patron,Korea| South,Active,2001,Brutal Death Metal,Social Issues| Life,2001-present
+11948,El Patron,South Korea,Active,2001,Brutal Death Metal,Social Issues| Life,2001-present
 11949,Elaine Easom,United Kingdom,Active,2005,Melodic Death Metal,N/A,2005-present
 11950,Elchwut,Germany,Active,2007,Melodic Death Metal,N/A,2007-present
 11951,Eldowraith,Germany,Active,2003,Melodic Death Metal,N/A,2003-present
@@ -12355,7 +12355,7 @@ id,name,country,status,formed_in,genre,theme,active
 12354,Feast,United States,On hold,2009,Brutal Death Metal,Food| Meat| Splatter| Cannibalism,2008-2009 (as Necromantic Decay)| 2009-2013
 12355,Fecal God,International,Active,2013,Brutal Death Metal,Feces| Gore| Sickness| Killings,2013-present
 12356,Fecaloma,Chile,Split-up,2004,Brutal Death Metal,Excrements| Gore| Pornography,2004-?
-12357,Fecundation,Korea| South,Active,2013,Technical Death Metal,N/A,2013-present
+12357,Fecundation,South Korea,Active,2013,Technical Death Metal,N/A,2013-present
 12358,Feed Us Fetus,United States,Unknown,2003,Brutal Death Metal,Gore| Murder| Infanticide,2003-?
 12359,Feel a Curse,Slovakia,Active,2013,Melodic Death Metal,N/A,2013-present
 12360,Feelsick,Thailand,Split-up,1998,Brutal Death Metal,N/A,1998-2003
@@ -12474,7 +12474,7 @@ id,name,country,status,formed_in,genre,theme,active
 12473,Forlorn Legacy,Croatia,Split-up,1995,Melodic Death Metal,Death| Insanity,1995-2009
 12474,Formaline,Russia,Active,2004,Brutal Death Metal,Gore| Sickness| Mutilation| Death| Sexual sadism,2002-? (as Gutslasher)| ?-?| 2006-? (as Formalin)| ?-present
 12475,Formless,United States,Split-up,2009,Technical Death Metal,Gore| Adversity| Personal Conflict| Philosophy,2009-2016
-12476,Formless Terror,Macedonia (FYROM),Active,2006,Brutal Death Metal,Demonology| Chaos| Satanism,2006-present
+12476,Formless Terror,Macedonia,Active,2006,Brutal Death Metal,Demonology| Chaos| Satanism,2006-present
 12477,Fornication,Brazil,Split-up,1996,Brutal Death Metal,Wrath| Hate,1996-2005
 12478,Forodwaith,Belarus,Active,2006,Melodic Death Metal,Fantasy| Mythology,2006-2010 (as Minas Morgul)| 2010-present
 12479,Fortress,United States,Active,2015,Progressive Death Metal,Murder| Serial killers,2015-present
@@ -12537,7 +12537,7 @@ id,name,country,status,formed_in,genre,theme,active
 12536,Funeral Feast,Finland,Active,1998,Blackened Death Metal,Blasphemy| Death| Violence| War,1998 (as Phlegethon)| 1998-present
 12537,Funeral Home,Finland,Active,2009,Melodic Death Metal,N/A,2009-present
 12538,Funeral Inception,Indonesia,Active,2002,Brutal Death Metal,Blasphemy| Horror| Death,1996-2002 (as Bloody Gore)| 2002-present
-12539,Funeral of August,Korea| South,Unknown,2008,Melodic Death Metal,N/A,2008-?
+12539,Funeral of August,South Korea,Unknown,2008,Melodic Death Metal,N/A,2008-?
 12540,Funeral of Life,Germany,Changed name,N/A,Melodic Death Metal,N/A,?-?| ?-? (as Mad Majesty)
 12541,Funeral Revolt,Greece,Active,1989,Industrial Death Metal,Death| Occultism| Ancient Greek Pride,1989-present
 12542,Funeral Speech,Russia,Split-up,1994,Progressive Death Metal,N/A,1994-2014
@@ -12649,7 +12649,7 @@ id,name,country,status,formed_in,genre,theme,active
 12648,Golah,Italy,Active,N/A,Progressive Death Metal,N/A,N/A
 12649,Goldenseed,Italy,Active,1999,Progressive Death Metal,N/A,1999-present
 12650,Golem,Italy,Active,1999,Melodic Death Metal,Death| Fear| Darkness| Hate,1999-present
-12651,Golgota,Macedonia (FYROM),Active,2012,Brutal Death Metal,Blasphemy| War,2012-present
+12651,Golgota,Macedonia,Active,2012,Brutal Death Metal,Blasphemy| War,2012-present
 12652,Golgotha,United States,Split-up,1992,Industrial Death Metal,N/A,1992-?
 12653,Gollum,United States,Changed name,1998,Experimental Death Metal,N/A,1998-2013| 2013-present (as Hadea)
 12654,Gomorra,Germany,Split-up,1990,Melodic Death Metal,N/A,1990-?
@@ -12926,7 +12926,7 @@ id,name,country,status,formed_in,genre,theme,active
 12925,Holocaust of Blood,Colombia,Active,2007,Melodic Death Metal,Mankind| Death| Blood,2007-present
 12926,Holocausto,Colombia,Active,1988,Progressive Death Metal,Death| Violence| Mental illnesses,1988-1989 (as Sacramento)| 1989-present
 12927,Holy Gore,Indonesia,Active,2000,Brutal Death Metal,N/A,2000-present
-12928,Holymarsh,Korea| South,Split-up,2000,Melodic Death Metal,Life| Emotions| Tragedy| Darkness,2000-?
+12928,Holymarsh,South Korea,Split-up,2000,Melodic Death Metal,Life| Emotions| Tragedy| Darkness,2000-?
 12929,Homesick for Heaven,United States,Active,N/A,Melodic Death Metal,N/A,N/A
 12930,Homicidal Raptus,Italy,Active,2013,Brutal Death Metal,Gore| Torture| Madness| Porn,2013-present
 12931,Homicidal Violence,Germany,Active,2000,Brutal Death Metal,Hate| Death| Violence| Murder,2000-2004| 2016-present
@@ -13747,7 +13747,7 @@ id,name,country,status,formed_in,genre,theme,active
 13746,Maggottholamia,Finland,Active,2001,Brutal Death Metal,Gore| Exploitation| Serial Killers| Anti-Christian,2001-present
 13747,Magnificência,Brazil,Split-up,2002,Melodic Death Metal,Melancholy| Personal Issues,2002-?
 13748,Magvood,Ukraine,Unknown,2006,Melodic Death Metal,N/A,2005-2006 (as Aggressor)| 2006-?
-13749,Magwi,Korea| South,Split-up,1999,Brutal Death Metal,Anti-Christianity| Death,1999-?
+13749,Magwi,South Korea,Split-up,1999,Brutal Death Metal,Anti-Christianity| Death,1999-?
 13750,Maimer,Russia,On hold,2011,Progressive Death Metal,Ancient civilizations| Egyptian mythology| Destruction| Death| Chaos,2011-2015
 13751,Majestic Decay,Poland,Active,2012,Blackened Death Metal,N/A,2012-present
 13752,Makaria,Canada,On hold,2009,Progressive Death Metal,Inner Struggles| Politics| Current Events| Mythology,2009-2012
@@ -13907,7 +13907,7 @@ id,name,country,status,formed_in,genre,theme,active
 13906,Microcosm,United Kingdom,Split-up,1993,Technical Death Metal,N/A,1993-?
 13907,Midgard,Austria,Changed name,1999,Melodic Death Metal,N/A,1999-2006| 2006-present (as Sole Method)
 13908,Midgard,United States,Active,2000,Melodic Death Metal,Darkness| Despair| social critique/political angle,2000-present
-13909,Midian,Korea| South,Active,2009,Melodic Death Metal,Despair| Salvation| Duality,2009-present
+13909,Midian,South Korea,Active,2009,Melodic Death Metal,Despair| Salvation| Duality,2009-present
 13910,Midmortemtorment,Canada,Split-up,N/A,Technical Death Metal,N/A,N/A
 13911,Midnight Cries,Greece,Split-up,N/A,Atmospheric Death Metal,N/A,N/A
 13912,Midnight Realm,United Kingdom,Active,2007,Melodic Death Metal,N/A,2007-present
@@ -13930,7 +13930,7 @@ id,name,country,status,formed_in,genre,theme,active
 13929,Mind Whispers,France,Active,2002,Melodic Death Metal,N/A,2002-present
 13930,Mindaleth,Italy,Split-up,1998,Melodic Death Metal,N/A,1998-?
 13931,Mindfall,Finland,Active,2014,Melodic Death Metal,N/A,2014-present
-13932,Mindfist,Macedonia (FYROM),Active,2002,Melodic Death Metal,Death| Pain| Evil| Philosophy,2002-present
+13932,Mindfist,Macedonia,Active,2002,Melodic Death Metal,Death| Pain| Evil| Philosophy,2002-present
 13933,Mindful of Pripyat,Italy,Active,2014,Grindcore| Death Metal,Nuclear Disasters,2014-present
 13934,Mindlapse,United Kingdom,Active,1996,Melodic Death Metal,N/A,1996-present
 13935,Mindly Rotten,Colombia,Active,2003,Technical Brutal Death Metal,Gore| Splatter| Murder| Death,2003-present
@@ -15152,7 +15152,7 @@ id,name,country,status,formed_in,genre,theme,active
 15151,Sceptic,Poland,Active,1994,Technical Death Metal,Philosophy| Life| Humanity,1994-present
 15152,Schaliach,Norway,Split-up,1995,Melodic Death Metal,Christianity| Light,1995-?
 15153,Schierling,Germany,Split-up,2001,Melodic Death Metal,N/A,2001-2008
-15154,Schleim,Macedonia (FYROM),Unknown,2011,Progressive Death Metal,Horror,2011-?
+15154,Schleim,Macedonia,Unknown,2011,Progressive Death Metal,Horror,2011-?
 15155,Schtephan,Romania,Split-up,1998,Melodic Death Metal,Surreal,1998-?
 15156,SCID,Germany,Unknown,2004,Brutal Death Metal,Gore| Sexual Perversion| Death,2004-?
 15157,Scion,Finland,Split-up,2002,Melodic Death Metal,Christianity,2002-?
@@ -15196,7 +15196,7 @@ id,name,country,status,formed_in,genre,theme,active
 15195,Secularity,New Zealand,Active,N/A,Technical Brutal Death Metal,N/A,N/A
 15196,Seducer's Embrace,Russia,Active,1998,Melodic Death Metal,Philosophy| Universe| Human mind| Nature,1998-present
 15197,See My Solution,Netherlands,Split-up,2000,Melodic Death Metal,N/A,2000-?
-15198,Seed,Korea| South,Active,1996,Brutal Death Metal,N/A,1996-2002| 2006-present
+15198,Seed,South Korea,Active,1996,Brutal Death Metal,N/A,1996-2002| 2006-present
 15199,Seelenschmerz,Germany,Active,1996,Melodic Death Metal,N/A,1996-present
 15200,Seismic Breach,Canada,Active,N/A,Melodic Death Metal,N/A,?-2010 (as Sysmic Breach)| 2010-present
 15201,Seized of Darkness,United States,Split-up,2006,Melodic Death Metal,Christianity,2006-2008
@@ -15314,7 +15314,7 @@ id,name,country,status,formed_in,genre,theme,active
 15313,Shadows of Immortality,United States,Split-up,2005,Melodic Death Metal,N/A,2005-2008
 15314,Shall Be the Conqueror,United States,Active,2008,Progressive Death Metal,N/A,2008-present
 15315,Shallow Grave,Australia,Split-up,2004,Melodic Death Metal,Dark themes,2004-2006
-15316,Shaman,Korea| South,Split-up,1995,Brutal Death Metal,Gore,1995| 2005-?
+15316,Shaman,South Korea,Split-up,1995,Brutal Death Metal,Gore,1995| 2005-?
 15317,Shamash,Denmark,Active,2012,Blackened Death Metal,Thelema| Occultism| War| Mesopotamian gods,2012-present
 15318,Shamash,Mexico,Split-up,1994,Blackened Atmospheric Death Metal,Darkness| Mortality| The False Religious Hopes,1994-?
 15319,Shamed,Finland,Active,2001,Melodic Death Metal,N/A,2001-present
@@ -15833,7 +15833,7 @@ id,name,country,status,formed_in,genre,theme,active
 15832,Terrible Wizard,Russia,Active,2005,Symphonic Death Metal,Revolution,2005-present
 15833,Terror Messiah,Argentina,Active,2011,Melodic Death Metal,Biblical Apocalypse (Early)| Vikings| Death (Later),2011-present| 2011-present
 15834,Terrordrome,Greece,Active,2000,Technical Brutal Death Metal,Sexual Sadism| Perversion| Misogyny,2000-present
-15835,Terrormight,Korea| South,Active,2006,Melodic Death Metal,N/A,2006 (as Kage)| 2006-present
+15835,Terrormight,South Korea,Active,2006,Melodic Death Metal,N/A,2006 (as Kage)| 2006-present
 15836,Terrorspawn,Spain,Split-up,2003,Progressive Death Metal,N/A,2003-?
 15837,Terrorthrone,Finland,Split-up,2001,Brutal Death Metal,Death| Gore| Violence,2001-?
 15838,Terrorust,Australia,Split-up,2006,Brutal Death Metal,Politics| Social Issues| Hate,1989-2004 (as Damaged)| 2006-2009
@@ -16726,7 +16726,7 @@ id,name,country,status,formed_in,genre,theme,active
 16725,Metacrose,Brazil,Active,1998,Brutal Death Metal (early)| Progressive Death Metal (later),Philosophy| Political| Fear| Social issues,1998-present
 16726,Miseration,Sweden,Active,2006,Melodic Death Metal (early)| Death Metal (later),Inner struggles| Religious wars,2006-present
 16727,Morbus Chron,Sweden,Split-up,2007,Death Metal (early)| Progressive Death Metal (later),Gore| Zombies| The Unknown,2007-2015
-16728,Off,Korea| South,Active,1994,Melodic Death Metal (early)| Brutal Death Metal (later),N/A,1994-1998| 2006-present
+16728,Off,South Korea,Active,1994,Melodic Death Metal (early)| Brutal Death Metal (later),N/A,1994-1998| 2006-present
 16729,Orodreth,Italy,Changed name,2007,Death Metal (early)| Technical Death Metal (later),N/A,2007-2012| 2012-present (as Suicidal Causticity)
 16730,Parthak,Brazil,Active,2007,Progressive Death Metal (early)| Melodic Death Metal (later),Science| Free Will,2007-present
 16731,Resurrecturis,Italy,Active,1990,Death Metal (early)| Progressive Death Metal (later),Dejection| Disillusionment,1990-present
@@ -16980,7 +16980,7 @@ id,name,country,status,formed_in,genre,theme,active
 16979,ADF,Mexico,Active,2011,Metalcore/Death Metal,N/A,2011-present
 16980,Adherent,Poland,Split-up,1995,Doom/Death Metal,Decadence| Suffering,1995-?
 16981,Adnauseam,United States,Split-up,1987,Death Metal/Grindcore,N/A,1987-? (as Decimation)| ?-2002
-16982,Adokhsiny,Korea| South,Changed name,2000,Black/Death Metal,Satan| Darkness,2000-2012| 2012-present (as Goatphomet)
+16982,Adokhsiny,South Korea,Changed name,2000,Black/Death Metal,Satan| Darkness,2000-2012| 2012-present (as Goatphomet)
 16983,Adonay,Poland,Split-up,1998,Thrash/Death Metal,Hate| Wrath| Sorrow,1998-?
 16984,Adorior,United Kingdom,Active,1994,Death/Black Metal,Evil| Blood| Sacrifices,1994-present
 16985,Adorned Graves,Germany,Unknown,1993,Thrash/Death Metal,Christianity,1993-?
@@ -17164,7 +17164,7 @@ id,name,country,status,formed_in,genre,theme,active
 17163,Ambivalence,Australia,Split-up,1997,Doom/Death Metal,N/A,1996-1997 (as Argonath)| 1997-1998
 17164,Ambivalence,Japan,Split-up,N/A,Death Metal/Grindcore,N/A,N/A
 17165,Ambivalency,Czech Republic,Split-up,1993,Death Metal/Hardcore,N/A,1993-?
-17166,Ambroz,Macedonia (FYROM),Active,2004,Death/Black Metal,Death| Misanthropy,2004-present
+17166,Ambroz,Macedonia,Active,2004,Death/Black Metal,Death| Misanthropy,2004-present
 17167,Amduscias,Bolivia,Split-up,1997,Black/Death Metal,Satanism| Anti-Christ| Darkness,1997-1998 (as Anestecia)| 1998-1999 (as Dark Millenium)| 1999-?
 17168,Amduscias,Japan,Split-up,1990,Death/Black Metal,Darkness| Evil| Depression,1990-1998
 17169,Amenthes,Germany,Unknown,1994,Gothic/Death Metal,N/A,1994-?
@@ -17588,7 +17588,7 @@ id,name,country,status,formed_in,genre,theme,active
 17587,Asphyxiation,United States,Active,2008,Thrash/Death Metal,Gore| Sodomy| Satanic,2008-present
 17588,Ass Ache,Italy,Split-up,1989,Grindcore/Death Metal,Human Exploitation| World's Decadence,1989-1993
 17589,Ass Flavour,Brazil,Active,2002,Death Metal/Grindcore,Torture| Gore| Sickness,2002-present
-17590,Assassin,Korea| South,Split-up,1994,Death/Thrash Metal,Freedom| Oppression| Ideology,1994-?
+17590,Assassin,South Korea,Split-up,1994,Death/Thrash Metal,Freedom| Oppression| Ideology,1994-?
 17591,Assassin Empire,United States,Split-up,2002,Death/Thrash Metal,War| Post war,2002-?| 2016-?
 17592,Assault,Chile,Split-up,2002,Death/Thrash Metal,Death| Destruction| War,2002-2006
 17593,Assault,Sweden,Active,2007,Black/Death Metal,N/A,? (as Arsch Havarie)| 2007-present
@@ -19632,7 +19632,7 @@ id,name,country,status,formed_in,genre,theme,active
 19631,Deathpeed,Japan,Split-up,1986,Death Metal/Grindcore,N/A,1986-?
 19632,Deathrace,Colombia,Active,2007,Death/Thrash Metal,Death| War,2007-present
 19633,Deathraid,Italy,Split-up,1997,Death/Thrash Metal,N/A,1997-2001
-19634,Deathrasher,Korea| South,Changed name,1993,Death Metal/Grindcore,Gore| Death,1993-1996| 1996-present (as Moonshine)
+19634,Deathrasher,South Korea,Changed name,1993,Death Metal/Grindcore,Gore| Death,1993-1996| 1996-present (as Moonshine)
 19635,Deathrite,Germany,Active,2010,Grindcore/Death Metal,N/A,2010-present
 19636,Deathroner,Canada,Active,2004,Death/Thrash Metal,Satan| War| Elitism,2004-present
 19637,Deathrow Six,Canada,Active,2006,Death/Thrash Metal,N/A,2006-present
@@ -19803,7 +19803,7 @@ id,name,country,status,formed_in,genre,theme,active
 19802,Demented Mutation,United Kingdom,Active,2007,Death Metal/Grindcore,Obliteration| Mutilation| Comedy Violence,2007-present
 19803,Demented Retarded,Czech Republic,Active,1996,Death Metal/Grindcore,N/A,1996-present
 19804,Dementia,Greece,Split-up,N/A,Thrash/Death Metal,N/A,N/A
-19805,Dementia,Korea| South,Split-up,N/A,Death/Thrash Metal,N/A,N/A
+19805,Dementia,South Korea,Split-up,N/A,Death/Thrash Metal,N/A,N/A
 19806,Dementia,Poland,Split-up,1991,Doom/Death Metal,N/A,1991-?
 19807,Dementium,Puerto Rico,Active,2010,Thrash/Death Metal,Social issues| Violence,2010-present
 19808,Dementors,Chile,Active,2010,Death/Thrash Metal,Blasphemy| Violence| Dementia,2010-present
@@ -20209,7 +20209,7 @@ id,name,country,status,formed_in,genre,theme,active
 20208,Dissector,United States,Active,2001,Death Metal/Grindcore,Zombies| Evil| Corruption of the World,2001-present
 20209,Dissectrophy,United Kingdom,Active,2011,Death/Thrash Metal,N/A,2011-present
 20210,Disseized,Canada,Split-up,2004,Death Metal/Grindcore,N/A,2004-?
-20211,Dissektist,Korea| South,Active,2012,Death Metal/Grindcore,N/A,2012-2014 (as Ignite a Fire)| 2014-present
+20211,Dissektist,South Korea,Active,2012,Death Metal/Grindcore,N/A,2012-2014 (as Ignite a Fire)| 2014-present
 20212,Dissektor,Colombia,Active,2001,Death/Thrash Metal,Human power,2001-present
 20213,Dissent,United States,Active,2004,Death/Groove Metal,N/A,2004-present
 20214,Dissent,United States,Split-up,1995,Death/Thrash Metal,N/A,1995-2001
@@ -21538,7 +21538,7 @@ id,name,country,status,formed_in,genre,theme,active
 21537,Gomora,Germany,Split-up,2006,Thrash/Death Metal,N/A,2006-?
 21538,Gomorra,Germany,Split-up,2003,Death/Thrash Metal,N/A,2003-?
 21539,Gomorrah,United States,Split-up,1992,Doom/Death Metal,Apocalyptic| Occult,1992-?
-21540,Gonguri,Korea| South,Active,2014,Sludge/Death Metal,N/A,2014-2015| 2016-present
+21540,Gonguri,South Korea,Active,2014,Sludge/Death Metal,N/A,2014-2015| 2016-present
 21541,Gooseflesh,Sweden,Split-up,1995,Death/Thrash Metal,Life| Society| Personal Thoughts,1995-2001
 21542,Gorath,Spain,Split-up,N/A,Black/Death Metal,Satanism,N/A
 21543,Gore,Germany,Split-up,2005,Death Metal/Grindcore,Gore| Splatter| Weasles,2005-?
@@ -21591,7 +21591,7 @@ id,name,country,status,formed_in,genre,theme,active
 21590,Gory Inhumane Genocide,Indonesia,Unknown,N/A,Death Metal/Grindcore,N/A,N/A
 21591,Gory Melanoma,United States,Split-up,1994,Death Metal/Grindcore,Gore| Sickness| Necrophilia| Morbid Humor,1994-2003
 21592,Gorysaint,Brazil,On hold,2003,Death/Black Metal,Anti-Christian| Death| Satan,2003-present
-21593,Gorzb,Korea| South,Split-up,2005,Death Metal/Grindcore,Gore| Horror| Humor,2005-2006
+21593,Gorzb,South Korea,Split-up,2005,Death Metal/Grindcore,Gore| Horror| Humor,2005-2006
 21594,Gothic Castle,Russia,Active,1991,Doom/Death Metal,N/A,1991 (as Exgumator)| 1991-1999| 2013-present
 21595,Gout,Australia,Active,2007,Death Metal/Grindcore,Disease| Death| John Tardy,2007-present
 21596,Gozerk,Spain,Active,2005,Death/Groove Metal,N/A,2005-present
@@ -22151,7 +22151,7 @@ id,name,country,status,formed_in,genre,theme,active
 22150,Hypnosis,Canada,Split-up,1989,Speed/Death Metal,Human Destiny| Technology| World Crisis,1989-?
 22151,Hypnosis,France,Split-up,1993,Death/Industrial Metal,Hybrid Themes/Modernity,1993-2010
 22152,Hypnotic Scenery,Czech Republic,Active,1991,Doom/Death Metal,Life| Horror| Mystic,1991-present
-22153,Hypocaust,Macedonia (FYROM),Split-up,2003,Thrash/Death Metal,N/A,2003-?
+22153,Hypocaust,Macedonia,Split-up,2003,Thrash/Death Metal,N/A,2003-?
 22154,Hypochondria,Germany,Split-up,N/A,Thrash/Death Metal,N/A,N/A
 22155,Hypocrite,Norway,Split-up,N/A,Death/Thrash Metal,N/A,N/A
 22156,Hypokras,France,Active,1997,Thrash/Death Metal,Horror| Death| Violence,1997-present
@@ -23051,7 +23051,7 @@ id,name,country,status,formed_in,genre,theme,active
 23050,Law of the Plague,United States,On hold,2000,Death/Thrash Metal,N/A,2000-2005
 23051,Lazarus,Netherlands,Split-up,N/A,Death/Thrash Metal,N/A,N/A
 23052,Lazarus Entombed,United Kingdom,Split-up,2005,Death/Thrash Metal,N/A,2005-?
-23053,Lazarus Vendetta,Korea| South,Active,2005,Death Metal/Grindcore,N/A,2005-present
+23053,Lazarus Vendetta,South Korea,Active,2005,Death Metal/Grindcore,N/A,2005-present
 23054,Le Géniteur,France,Active,2013,Death/Thrash Metal,N/A,2013-present
 23055,Le Mars,Brazil,Active,2011,Death Metal/Grindcore,N/A,2011-present
 23056,Lead Farmer,United States,Active,2008,Death Metal/Grindcore,Anger| hate| violence| political corruption,2008-present
@@ -24135,7 +24135,7 @@ id,name,country,status,formed_in,genre,theme,active
 24134,Nebular Moon,Germany,On hold,1996,Death/Black Metal,Death| Despair| Desolation,1996-present
 24135,Necare,United States,Split-up,1997,Death/Doom Metal,Desperation| Melancholy,1997-?
 24136,Necnon Mortuss,Czech Republic,Active,2007,Black/Death Metal,War| Contamination| Nuclear Weapons| Zombies,2007-present
-24137,Necramyth,Korea| South,Split-up,2001,Black/Death Metal,N/A,2001-2009
+24137,Necramyth,South Korea,Split-up,2001,Black/Death Metal,N/A,2001-2009
 24138,Necrass,Italy,Active,2007,Grindcore/Death Metal,Pornography| Gore| Splatter,2007-present
 24139,Necrhorror,Brazil,Active,2008,Black/Death Metal,Anti-religion| War| Perversion,2008-present
 24140,Necro,Dominican Republic,Active,1995,Death/Thrash Metal,N/A,1995-2001| ?-present
@@ -24445,7 +24445,7 @@ id,name,country,status,formed_in,genre,theme,active
 24444,Nocturnal Art,Kazakhstan,Active,2013,Black/Death Metal,Mysticism| Darkness,2013-present
 24445,Nocturnal Blasphemy,Chile,Changed name,2003,Black/Death Metal,Anti-Christian| Humanity| Insanity,2003-2004| 2004-2012 (as Perpetuum)
 24446,Nocturnal Blood,United States,Active,2008,Black/Death Metal,Evil| Rituals| Spirits| Chaos| Holy Mockery,2008-present
-24447,Nocturnal Damnation,Korea| South,Active,2010,Death/Black Metal,Blasphemy| Desecration| War| Satanism,2010-present
+24447,Nocturnal Damnation,South Korea,Active,2010,Death/Black Metal,Blasphemy| Desecration| War| Satanism,2010-present
 24448,Nocturnal Death,Greece,Split-up,1989,Death/Black Metal,Evil| Darkness| Blasphemy,1989-1992
 24449,Nocturnal Doom,Poland,Split-up,1992,Doom/Death Metal,Night| Darkness| Fantasy,1992-?
 24450,Nocturnal Emission,Czech Republic,On hold,2007,Death Metal/Grindcore,Gore| Dark Humor,2007-?
@@ -24778,7 +24778,7 @@ id,name,country,status,formed_in,genre,theme,active
 24777,Original Chaotic Addiction,France,Active,2007,Death/Thrash Metal,N/A,2007-present
 24778,Original Sin,United Kingdom,Active,2005,Death/Thrash Metal,N/A,2005-present
 24779,Orion,Chile,Active,2001,Thrash/Death Metal,Evil| War| Death,2001-present
-24780,Orion,Macedonia (FYROM),Split-up,1989,Death/Thrash Metal,Darkness| Death| Hate,1989-1993| 2012
+24780,Orion,Macedonia,Split-up,1989,Death/Thrash Metal,Darkness| Death| Hate,1989-1993| 2012
 24781,Orion Nightfall,Finland,Active,2003,Black/Death Metal,Filth| Sadism| Satanism| Misanthropy,2003-present
 24782,Orlag,France,Active,2003,Black/Death Metal,Occult| Battles| Satanism| Serial Killers,2003-present
 24783,Orphan Execution,Germany,Active,2011,Groove/Death Metal,N/A,2011-present
@@ -28727,7 +28727,7 @@ id,name,country,status,formed_in,genre,theme,active
 28726,Aenigma,Germany,Active,2005,Melodic Death/Black Metal,Philosophy| Death,2005-present
 28727,Aenomy,France,Active,2010,Progressive Death Metal/Metalcore,N/A,2010-present
 28728,Aeon Aethereal,Estonia,Split-up,2004,Melodic Death/Thrash/Black Metal,N/A,2004 (as BloodForge)| 2004-2011
-28729,Aeon Arcanum,Macedonia (FYROM),Active,2008,Melodic Black/Death Metal,Chaos| Philosophy| Cosmos,2003-2008 (as Arcanum)| 2008-present
+28729,Aeon Arcanum,Macedonia,Active,2008,Melodic Black/Death Metal,Chaos| Philosophy| Cosmos,2003-2008 (as Arcanum)| 2008-present
 28730,Aeon of Death,Moldova,Active,2004,Melodic Death/Black Metal,Darkness,2004-present
 28731,Aeon of Horus,Australia,Active,2006,Progressive/Technical Death Metal,Mythology| Science Fiction,2006-present
 28732,Aeons Confer,Germany,Active,1997,Symphonic Black/Death Metal,Universe| Wisdom| Slavery of Mankind,1997-present
@@ -30055,7 +30055,7 @@ id,name,country,status,formed_in,genre,theme,active
 30054,Darc Mutcer,France,Split-up,2003,Brutal Death Metal/Grindcore,N/A,2003-?
 30055,Dark Adaption,Canada,Active,2007,Melodic Death Metal/Metalcore,N/A,2007-present
 30056,Dark Age,Germany,On hold,1994,Power/Melodic Death Metal,N/A,1994-present
-30057,Dark Ambition,Korea| South,Split-up,2002,Melodic Folk/Black/Death Metal,History| Legends,2002-2013
+30057,Dark Ambition,South Korea,Split-up,2002,Melodic Folk/Black/Death Metal,History| Legends,2002-2013
 30058,Dark Arrival,United States,Active,2006,Melodic Death Metal/Metalcore,N/A,2006-present
 30059,Dark Autumn,United States,Active,2001,Black/Death/Industrial Metal,War| History| Occultism| Mythology| Politics,2001-present
 30060,Dark Awake,Spain,Active,1998,Melodic Thrash/Death Metal,N/A,1998-2009| 2011-present
@@ -30079,7 +30079,7 @@ id,name,country,status,formed_in,genre,theme,active
 30078,Dark Man Shadow,Germany,Active,1998,Melodic Death/Black Metal,N/A,1998-present
 30079,Dark Mighty Thought,Greece,Split-up,N/A,Atmospheric Death/Black Metal,N/A,N/A
 30080,Dark Millennium,Germany,Active,1989,Progressive Death/Doom Metal,Depression,1989-1993| 2016-present
-30081,Dark Mirror ov Tragedy,Korea| South,Active,2003,Symphonic Black/Gothic/Death Metal,Suicide| Death,2003-present
+30081,Dark Mirror ov Tragedy,South Korea,Active,2003,Symphonic Black/Gothic/Death Metal,Suicide| Death,2003-present
 30082,Dark Mist,Portugal,Split-up,1994,Black/Death/Thrash Metal,Social Critics and Relation Between Love and Death,1994-?
 30083,Dark Mutation,Netherlands,Split-up,1998,Melodic Black/Death Metal,Anti-religion| Hatred| Misanthropy,1998-1999 (as Tumor)| 1999-2000 (as Mortyr)| 2000-2002
 30084,Dark Passenger,United States,Active,N/A,Black/Death/Doom Metal,N/A,N/A
@@ -30369,7 +30369,7 @@ id,name,country,status,formed_in,genre,theme,active
 30368,Desospheres,Canada,Active,2009,Melodic Death Metal/Metalcore,N/A,2009-present
 30369,Despair Tears,Germany,Split-up,1991,Progressive/Death/Thrash Metal,N/A,1991-1994
 30370,Despectus,Ukraine,Active,2006,Symphonic/Melodic Death Metal,N/A,2006-present
-30371,Desperado,Korea| South,Unknown,2003,Thrash/Death Metal| Metalcore,N/A,2003-?
+30371,Desperado,South Korea,Unknown,2003,Thrash/Death Metal| Metalcore,N/A,2003-?
 30372,Despoiler,United Kingdom,Active,2006,Death/Thrash/Groove Metal,N/A,2006-present
 30373,Despond,France,Split-up,1995,Funeral Doom/Death Metal,Death| Solitude| Astral Experience,1995-2004
 30374,Dessiderium,United States,Active,N/A,Melodic/Progressive Death Metal,N/A,N/A
@@ -30771,7 +30771,7 @@ id,name,country,status,formed_in,genre,theme,active
 30770,End of All,United States,Active,2000,Melodic Death Metal| Melodic Hardcore,Death| Killing| Loss,2000-present
 30771,Endaymynion,Italy,Split-up,1992,Symphonic Doom/Death Metal,Sadness,1992-?
 30772,Endelecheia,Czech Republic,Split-up,2001,Black/Death/Doom Metal,Sadness| Mysteries| After-Life| Faith,2001-2005
-30773,Ending,Macedonia (FYROM),Split-up,2009,Melodic Death Metal/Deathcore,Hate| Devastation,2009-?
+30773,Ending,Macedonia,Split-up,2009,Melodic Death Metal/Deathcore,Hate| Devastation,2009-?
 30774,Ending Atrophy,Australia,Active,N/A,Melodic Death Metal/Metalcore,N/A,N/A
 30775,Endiryah,Austria,Split-up,2005,Metalcore/Melodic Death Metal,N/A,2005-2014
 30776,Endless,France,Active,2013,Death/Melodic Black Metal,N/A,2013-present
@@ -30990,7 +30990,7 @@ id,name,country,status,formed_in,genre,theme,active
 30989,Exonis,Poland,Split-up,2010,Melodic Death/Thrash Metal,Life| Death,2010-2013
 30990,Exordium,United States,Split-up,2005,Progressive Death/Symphonic Black Metal,Fantasy,2005-?
 30991,Exordium Mors,New Zealand,Active,2004,Black/Thrash/Death Metal,Death| Pagan/Roman| Anti-Religious,2004-present
-30992,Exotist,Macedonia (FYROM),Active,2007,Progressive Death/Thrash Metal,Mostly Instrumental,2007-present
+30992,Exotist,Macedonia,Active,2007,Progressive Death/Thrash Metal,Mostly Instrumental,2007-present
 30993,Expain,Canada,Active,2012,Progressive/Melodic Death Metal,N/A,2012-present
 30994,Expiration Date,United States,Split-up,2000,Melodic Death/Thrash Metal,Socio-Political| Poetry Concepts,2000-?
 30995,Expletive,United States,Active,N/A,Brutal Death Metal/Grindcore,Drugs| Sex| Gore,N/A
@@ -31070,7 +31070,7 @@ id,name,country,status,formed_in,genre,theme,active
 31069,Fashion Time,Ukraine,Unknown,1999,Heavy/Thrash/Death Metal,N/A,1999-?
 31070,Fatal Cause,United States,Split-up,1989,Progressive Death/Thrash Metal,N/A,1989-1995
 31071,Fatal Cure,Finland,Active,2006,Melodic Death/Thrash Metal,N/A,2006-present
-31072,Fatal Fear,Korea| South,Active,2003,Melodic Death Metal/Metalcore,Socio-spiritual philosophy| Zombies| Illumination,2003-present
+31072,Fatal Fear,South Korea,Active,2003,Melodic Death Metal/Metalcore,Socio-spiritual philosophy| Zombies| Illumination,2003-present
 31073,Fate of Pyre,Germany,Split-up,2004,Melodic Black/Death Metal,N/A,2004-2006 (as The Annihilation)| 2006-2011
 31074,Fate Shall Spurn,Germany,Active,2006,Metalcore/Melodic Death Metal,N/A,2006-present
 31075,FateScorn,Russia,Active,2009,Industrial/Melodic Death Metal,N/A,2007-2008 (as Enverseath)| 2008-2009 (as Tanatomic)| 2009 (as Artificial Intelligence)| 2009-present
@@ -31288,7 +31288,7 @@ id,name,country,status,formed_in,genre,theme,active
 31287,GATT,Indonesia,Active,2007,Death Metal/Grindcore/Crust,Social Politics,2007-present
 31288,Gauntlet,Germany,Active,2004,Death/Thrash/Groove Metal,N/A,2004-present
 31289,Gayang Kulintangan Revolt,Malaysia,Active,N/A,Brutal Death Metal/Grindcore,N/A,N/A
-31290,Gears,Macedonia (FYROM),Active,2011,Melodic Death Metal/Metalcore,N/A,2011-present
+31290,Gears,Macedonia,Active,2011,Melodic Death Metal/Metalcore,N/A,2011-present
 31291,Geist of Trinity,Japan,Active,2007,Melodic Death Metal/Metalcore,N/A,2007-present
 31292,Geistkrieg,United States,Unknown,N/A,Symphonic Black/Death Metal,Christianity,N/A
 31293,Gelidus Nox,Sweden,Split-up,2005,Thrash/Death/Black Metal,N/A,2005-?
@@ -31340,7 +31340,7 @@ id,name,country,status,formed_in,genre,theme,active
 31339,God Eat God,International,Active,2012,Funeral Doom/Death Metal,N/A,2012-present
 31340,God in Ruins,Poland,Active,2000,Death/Black/Thrash Metal,N/A,1996-1998 (as Incarnatus)| 1998-2000 (as Gorenhaatad)| 2000-present
 31341,God Made Filth,Brazil,Active,2003,Brutal Death Metal/Grindcore,Rape| Torture| Gore| Anti-Christianity,2003-present
-31342,God of Emptiness,Korea| South,Unknown,2003,Melodic Death Metal/Metalcore,N/A,2003-?
+31342,God of Emptiness,South Korea,Unknown,2003,Melodic Death Metal/Metalcore,N/A,2003-?
 31343,God Shaped Devil,United Kingdom,Active,2014,Groove/Melodic Death Metal,N/A,2014-present
 31344,God-Mechanic,Ukraine,Split-up,2007,Brutal Death Metal/Deathcore,N/A,2007-?
 31345,God.Fear.None,Greece,Active,2003,Melodic Death Metal/Metalcore,N/A,2003-present
@@ -31861,7 +31861,7 @@ id,name,country,status,formed_in,genre,theme,active
 31860,Inferior,Sweden,Changed name,2001,Melodic Death/Thrash Metal,N/A,2001-2004| 2004 (as Aggressive Art)| 2004-? (as Arte Agresivo)
 31861,Infernaeon,United States,Active,2004,Melodic Death/Black/Thrash Metal,Armageddon| Chaos| Destruction| Disease,2004-present
 31862,Infernal Blasphemy,Germany,Split-up,1996,Melodic Black/Death Metal,Blasphemy| Anti-Christian,1996-2007
-31863,Infernal Chaos,Korea| South,Unknown,2004,Melodic Death/Power Metal,Hope| Emotions,? (as Inferno)| 2004-?
+31863,Infernal Chaos,South Korea,Unknown,2004,Melodic Death/Power Metal,Hope| Emotions,? (as Inferno)| 2004-?
 31864,Infernal Chaos,Taiwan,Active,2004,Melodic Death Metal/Metalcore,Murder| Betrayal| Social Politics,2004-?| ?-present
 31865,Infernal Cry,Russia,Active,2007,Gothic/Doom/Death Metal,N/A,2007-present
 31866,Infernal Damnation,United States,Active,2005,Death/Thrash/Speed Metal,N/A,2005-present
@@ -31894,7 +31894,7 @@ id,name,country,status,formed_in,genre,theme,active
 31893,Inhuman Agency,Ukraine,Split-up,2006,Melodic Death/Groove Metal,Mysticism (early)| Individual experiences,2006-2011
 31894,Inhuman Visions,United States,Split-up,1991,Melodic Death/Thrash Metal,Personal Struggles| Social Commentary,1991-2002
 31895,Inhume,Netherlands,Active,1994,Brutal Death Metal/Grindcore,Gore| Sex| Violence,1994-present
-31896,Inion,Macedonia (FYROM),Split-up,2005,Melodic Death/Thrash Metal,War| Violence| Anti-Christianity,2005-?
+31896,Inion,Macedonia,Split-up,2005,Melodic Death/Thrash Metal,War| Violence| Anti-Christianity,2005-?
 31897,Iniquety,United States,Changed name,2004,Black/Death/Thrash Metal,N/A,2004-?| ?-present (as Ashes of Icons)
 31898,Iniuria,Germany,Active,N/A,Melodic Death/Thrash Metal,N/A,N/A
 31899,Injected Sufferage,Indonesia,Active,1995,Brutal Death Metal/Grindcore,Gore| Bacteria| Humour,1995-2001| 2013-present
@@ -32392,7 +32392,7 @@ id,name,country,status,formed_in,genre,theme,active
 32391,Mangler,Russia,Split-up,1998,Brutal Death Metal/Grindcore,Death| Gore| Horror,1998-?
 32392,Manias,United States,Active,1993,Brutal Death Metal/Grindcore,N/A,1993-present
 32393,Manipulated Slaves,Japan,Active,1994,Melodic Death/Thrash Metal,Tales| Nature,1994-present
-32394,Manixive,Korea| South,Active,2013,Melodic Groove/Death Metal,N/A,2013-present
+32394,Manixive,South Korea,Active,2013,Melodic Groove/Death Metal,N/A,2013-present
 32395,Manos,Germany,Active,1987,Death Metal/Grindcore/Punk,Humor| Alcohol| Women| Metal,1984-1987 (as Löwenherz)| 1987-present
 32396,Manslaughter,Poland,Active,2007,Thrash/Death/Black Metal,Social| Religion| Life| Death,2007-present
 32397,Manslaughter,United States,Changed name,2006,Thrash/Black/Death Metal,N/A,2006| 2006-present (as Dreaming Dead)
@@ -32497,7 +32497,7 @@ id,name,country,status,formed_in,genre,theme,active
 32496,Mercy Brown,United States,Active,2010,Groove/Death/Black Metal,N/A,2010-present
 32497,Merde Baise,Indonesia,On hold,2007,Melodic Death Metal/Metalcore,N/A,2007-?
 32498,Meridian,Australia,Split-up,2011,Melodic Death/Groove Metal,N/A,2011-2013
-32499,Meridies,Korea| South,Active,2015,Symphonic Black/Death Metal,Life experiences| Despair,2013-2015 (as Methad)| 2015-present
+32499,Meridies,South Korea,Active,2015,Symphonic Black/Death Metal,Life experiences| Despair,2013-2015 (as Methad)| 2015-present
 32500,Merzah,United States,Changed name,2005,Progressive Death/Black Metal,N/A,2005-2011| 2012-present (as Everthrone)
 32501,Mesmerized by Misery,Germany,Active,2011,Melodic Death Metal/Metalcore,N/A,2011-present
 32502,Mesopotamia Inc.,Russia,Active,N/A,Symphonic Death/Doom Metal,N/A,N/A
@@ -32512,11 +32512,11 @@ id,name,country,status,formed_in,genre,theme,active
 32511,MetalTower,New Zealand,Active,2004,Progressive Black/Death Metal,Cosmos| Cataclysm| Doom| Mind Space| Beer| Idiocy,2004-present
 32512,Metamedic,Denmark,Unknown,2004,Melodic Death Metal/Metalcore,N/A,2004-?
 32513,Metamorphosis,Germany,Active,1994,Atmospheric Black/Death Metal,Satanism| Occultism,1994-present
-32514,Metamorphosis,Korea| South,Active,2012,Melodic Death Metal/Metalcore,N/A,2012-present
+32514,Metamorphosis,South Korea,Active,2012,Melodic Death Metal/Metalcore,N/A,2012-present
 32515,Metatron,Netherlands,Active,N/A,Melodic Death/Gothic Metal,N/A,N/A
 32516,Metatron,United Kingdom,Split-up,2000,Melodic Death/Thrash Metal,N/A,2000-?
 32517,Metferal,Italy,Split-up,2003,Progressive Death/Black Metal,N/A,2003-?
-32518,Method,Korea| South,Active,2002,Thrash/Melodic Death Metal,Anger| Hardships| Struggles| History,2002-present
+32518,Method,South Korea,Active,2002,Thrash/Melodic Death Metal,Anger| Hardships| Struggles| History,2002-present
 32519,Meticulous Despoilment,Australia,Split-up,2009,Brutal Death Metal/Grindcore,Sex| Beer| Humour,2009-2011
 32520,Metranks,Brazil,Split-up,1996,Death/Thrash/Black Metal,Death| Torture,1996-?
 32521,Meza Virs,Singapore,Split-up,2002,Symphonic Black/Death Metal,Love| Life| Human emotions,2002-2014
@@ -32929,7 +32929,7 @@ id,name,country,status,formed_in,genre,theme,active
 32928,Nightworld,United States,Split-up,1995,Black/Death/Doom Metal,Darkness| Death| Horror,1995-1998
 32929,Nihil Obstat,Germany,Split-up,2002,Melodic Death Metal/Metalcore,N/A,2002-?
 32930,Nihili Locus,Italy,Active,1991,Atmospheric Death/Black Metal,N/A,1989-1991 (as Omicidio)| 1991-1996| 2001-2003| 2008-present
-32931,Nihilist,Macedonia (FYROM),Active,1996,Death/Thrash/Groove Metal,Hatred| Destruction| Mayhem,1996-present
+32931,Nihilist,Macedonia,Active,1996,Death/Thrash/Groove Metal,Hatred| Destruction| Mayhem,1996-present
 32932,Nihilium,Italy,Split-up,2003,Pagan Death/Black Metal,History of Lucania Country| Nihilism| Pagan Pride,2003-2013
 32933,Nikolai Kamren,United States,Active,N/A,Melodic Death/Power Metal,N/A,N/A
 32934,Nile,United States,Active,1993,Brutal/Technical Death Metal,Egyptian Mythology| Death| Rituals| H.P. Lovecraft,1993-present
@@ -33036,7 +33036,7 @@ id,name,country,status,formed_in,genre,theme,active
 33035,Oak,United States,Active,2005,Drone/Doom/Death Metal,Death| Anti-Christianity| Madness,2005-present
 33036,Oath of an Exile,United States,Active,N/A,Metalcore/Melodic Death Metal,N/A,2008-present
 33037,Oath to Vanquish,Lebanon,On hold,2001,Technical Death Metal/Grindcore,Political| Societal Conflicts| Death,2001-present
-33038,Oathean,Korea| South,Unknown,1993,Melodic Black/Death Metal,Sorrow| Sadness,1993-1996 (as Odin)| 1996-?
+33038,Oathean,South Korea,Unknown,1993,Melodic Black/Death Metal,Sorrow| Sadness,1993-1996 (as Odin)| 1996-?
 33039,Obastra,United States,Active,2013,Progressive Brutal Death Metal/Deathcore,Depression| Fear| Insanity| Loss,2013-present
 33040,Obedient Chaos,Finland,Active,2007,Melodic Death Metal/Metalcore,State of the World,2007-present
 33041,Oberion,Sweden,Active,2010,Melodic Black/Death Metal,N/A,2010-present
@@ -33588,7 +33588,7 @@ id,name,country,status,formed_in,genre,theme,active
 33587,Remembrance,France,Active,2004,Funeral Doom/Death Metal,Disease| Hopelessness| Pain| Death,2004-present
 33588,Remission,Australia,Active,2014,Melodic Death/Thrash Metal,N/A,2014-present
 33589,Remnants of Autumn,Italy,Active,2012,Gothic/Doom/Death Metal,N/A,2012-present
-33590,Remnants of the Fallen,Korea| South,Active,2009,Melodic Death Metal/Metalcore,Society| Religion| Inner Struggles| Apocalypse,2009-present
+33590,Remnants of the Fallen,South Korea,Active,2009,Melodic Death Metal/Metalcore,Society| Religion| Inner Struggles| Apocalypse,2009-present
 33591,Remorse,France,Active,1998,Brutal Death Metal/Grindcore,N/A,1998-present
 33592,Renaissance,Belgium,Changed name,1991,Progressive Death/Doom Metal,Abstract Concepts,1991-1995| 1995-present (as Rinascimento)
 33593,Rendan Tluin,Germany,Split-up,N/A,Symphonic/Melodic Death Metal,Depression| Fear| Anger| Suicide,N/A
@@ -33647,7 +33647,7 @@ id,name,country,status,formed_in,genre,theme,active
 33646,Ritual,Czech Republic,Split-up,1994,Melodic Black/Death Metal,N/A,1994-?
 33647,Ritual Disfigurement,United Kingdom,Unknown,2009,Brutal Death Metal/Grindcore,Gore| Self-mutilation| Horror,2009-?
 33648,Ritual Stroim,Chile,Active,2014,Progressive/Death/Thrash Metal,N/A,2010-2014 (as Sinadvertencia)| 2014-present
-33649,Rituality,Korea| South,Active,2013,Metalcore/Melodic Death Metal,N/A,2013-present
+33649,Rituality,South Korea,Active,2013,Metalcore/Melodic Death Metal,N/A,2013-present
 33650,Ritus,Germany,Unknown,2003,Atmospheric Doom/Death Metal,N/A,2003-?
 33651,Rixiler,Mexico,Active,2000,Gothic/Doom/Death Metal,Darkness,2000-present
 33652,Roadkill,Australia,Split-up,1992,Power/Speed/Death Metal,N/A,1992-1996
@@ -33915,7 +33915,7 @@ id,name,country,status,formed_in,genre,theme,active
 33914,Seracs,United States,On hold,2012,Death/Black/Thrash Metal,Death| Zombies| Northern Life,2012-present
 33915,Seraph in Travail,United States,Active,2008,Symphonic Death/Black Metal,N/A,2008-present
 33916,Seraphim,Germany,Split-up,N/A,Doom/Death/Gothic Metal,N/A,N/A
-33917,Serdaroth,Macedonia (FYROM),Active,2012,Melodic Death/Power Metal,Conceptual storylines| Cosmos| Fantasy| Space,2012-present
+33917,Serdaroth,Macedonia,Active,2012,Melodic Death/Power Metal,Conceptual storylines| Cosmos| Fantasy| Space,2012-present
 33918,Serenade in Darkness,Brazil,Active,2000,Symphonic Doom/Death Metal,Christianity,2000-2007| ?-present| 2014-present
 33919,Sergent Slaughter,France,Split-up,2001,Brutal Death Metal/Grindcore,N/A,2001-?
 33920,Sermonize,Peru,Active,1995,Blackened Death/Doom Metal,Revenge| Incan History| Myths| Philosophy| War,1995-2001| 2016-present
@@ -34315,7 +34315,7 @@ id,name,country,status,formed_in,genre,theme,active
 34314,Stonecreep,United States,Split-up,2001,Melodic Death/Thrash Metal,N/A,2001-2013
 34315,Stoned God,Germany,Active,2013,Progressive/Death/Groove Metal,Society| Life| Personal| Environment,2013-present
 34316,Stonehenge,Poland,Split-up,1996,Gothic/Death/Doom Metal,Pain| Suffering,1996-?
-34317,Storm,Macedonia (FYROM),Split-up,2005,Symphonic Black/Death Metal,War| Anti-religion| Darkness,2005-2009
+34317,Storm,Macedonia,Split-up,2005,Symphonic Black/Death Metal,War| Anti-religion| Darkness,2005-2009
 34318,Storm King,United States,Active,2006,Progressive Thrash/Death Metal,N/A,2006-present
 34319,Stormchoir,Russia,Active,2006,Atmospheric/Progressive Death Metal,N/A,2006-present
 34320,Stormtide,Australia,Active,2013,Symphonic Folk/Death Metal,N/A,2013-present
@@ -34572,7 +34572,7 @@ id,name,country,status,formed_in,genre,theme,active
 34571,The Crashing Falcon,United States,Active,N/A,Progressive Death Metal/Metalcore,N/A,N/A
 34572,The Creatures from the Tomb,Germany,Active,2012,Goregrind/Brutal Death Metal,Horror,2012-present
 34573,The Crescent and the Cross,United States,Active,2005,Death/Black/Thrash Metal,Death| Anti-Religion,2005-present
-34574,The Crescents,Korea| South,Active,2004,Melodic Death/Black Metal,Gothic| Fantasy| Esoteric,2004-present
+34574,The Crescents,South Korea,Active,2004,Melodic Death/Black Metal,Gothic| Fantasy| Esoteric,2004-present
 34575,The Crimson,Austria,Split-up,2008,Melodic Death Metal/Metalcore,N/A,2008-2014
 34576,The Crimson Brigade,United Kingdom,Active,2013,Black/Death/Gothic Metal,N/A,2013-present
 34577,The Crown,Sweden,Active,1998,Melodic Death/Thrash Metal,Death| Anti-religion| Satan,1990-1998 (as Crown of Thorns)| 1998-2004| 2008-2009 (as Dobermann)| 2009-present
@@ -35008,7 +35008,7 @@ id,name,country,status,formed_in,genre,theme,active
 35007,Unhuman,Canada,Active,1995,Technical/Progressive Death Metal,Philosophy| Polemology| Equilibrium| Chaos,1995-present
 35008,Unicrons,Sweden,Active,2006,Progressive Death/Thrash Metal,N/A,2006-present
 35009,Univertigo,France,Active,2014,Electronic/Melodic Death Metal,Reality| Space trips| Ancient aliens,2014-present
-35010,Univerzum,Macedonia (FYROM),Split-up,2003,Melodic Death/Thrash Metal,Death,2003-?
+35010,Univerzum,Macedonia,Split-up,2003,Melodic Death/Thrash Metal,Death,2003-?
 35011,Unkempt,United States,Active,2002,Melodic Death Metal/Metalcore,N/A,2002-present
 35012,Unknown Fear,Germany,Active,2005,Melodic Death/Thrash Metal,N/A,2005-present
 35013,Unknown Serenity,Malta,Split-up,N/A,Death/Doom/Black Metal,N/A,1995-? (as Anopheles)| ?-?
@@ -35121,7 +35121,7 @@ id,name,country,status,formed_in,genre,theme,active
 35120,Via Dolorosa,Ukraine,Split-up,1998,Death/Thrash/Doom Metal,Death| Hatred| War,1993-1998 (as Fatal Dread)| 1998-2000
 35121,Viaticum,United States,Active,2006,Brutal Death Metal/Grindcore,N/A,2006-present
 35122,Victim of Rage,Indonesia,Active,1995,Brutal Death Metal/Grindcore,Gore| Carnage| Mass murder,1995-present
-35123,Victim Yield,Macedonia (FYROM),Split-up,2004,Technical Death/Thrash Metal,N/A,2004-?
+35123,Victim Yield,Macedonia,Split-up,2004,Technical Death/Thrash Metal,N/A,2004-?
 35124,Victimas,United States,Split-up,2002,Brutal Death Metal/Grindcore,Gore| Death| Torture,2002-2009
 35125,Victims of Creation,Malta,Active,1992,Funeral Doom/Death Metal,End of the World| Blasphemy| Despair,1992-present
 35126,Vidar,Germany,Active,2008,Melodic Death/Folk Metal,Hate| Spiritualism| Religion| War,2008-present
@@ -36023,7 +36023,7 @@ id,name,country,status,formed_in,genre,theme,active
 36022,Beton,Slovakia,Active,2004,D-Beat (early)| Death Metal (later),N/A,2004-2006| 2008-present
 36023,Beyond Dawn,Norway,On hold,1990,Death/Doom Metal (early)| Electronic (later),Life| Sadness,1990-present
 36024,Beyond Infinity,Austria,Active,2012,Metalcore/Melodic Power/Death Metal,N/A,2012-present
-36025,Beyond the Horizon,Macedonia (FYROM),Active,2008,Melodic Black/Death Metal/Metalcore,Philosophy| Nature,2008-present
+36025,Beyond the Horizon,Macedonia,Active,2008,Melodic Black/Death Metal/Metalcore,Philosophy| Nature,2008-present
 36026,Billy Boy in Poison,Denmark,Active,2006,Death/Groove Metal/Metalcore,N/A,2006-present
 36027,Bioeraser,Italy,Active,1999,Death/Groove Metal/Industrial,Social Disharmonies| Problems of the Real World,1999-present
 36028,Black Alliance,United States,Active,N/A,Grindcore/Death Metal/Experimental,N/A,N/A
@@ -36211,7 +36211,7 @@ id,name,country,status,formed_in,genre,theme,active
 36210,Dirty Brown Eye,United States,Split-up,1997,Thrash/Death Metal/Rock,N/A,1997-?
 36211,Diseased Ghoul,Germany,Active,2005,Death/Thrash Metal/Grindcore,Death| Zombies| Ghouls,2005-present
 36212,Disentury,Germany,Active,2003,Death/Thrash Metal/Metalcore,N/A,2003-present
-36213,Disfigure,Korea| South,Active,2011,Experimental Death/Thrash Metal/Metalcore,N/A,2011-present
+36213,Disfigure,South Korea,Active,2011,Experimental Death/Thrash Metal/Metalcore,N/A,2011-present
 36214,Disgrace,Finland,Split-up,1987,Death Metal (early)| Punk Rock (later),Death| Depression (1987-96)| Life (1997-),1987-2014
 36215,Diskreet,United States,Active,1999,Deathcore (early)| Technical Death Metal (later),Darkness| Evil| Gore,1999-present
 36216,Dislike,Croatia,Active,1997,Grindcore/Death Metal/Crust,N/A,1997-?
@@ -36598,7 +36598,7 @@ id,name,country,status,formed_in,genre,theme,active
 36597,My Inner Kingdom,Germany,Active,2010,Melodic Death/Thrash Metal/Metalcore,Social Topics| Dark Side of the Soul,2010-present
 36598,Mysteria,Poland,On hold,2003,Black/Death Metal with Folk Influences,N/A,2003-?
 36599,MZRCDXVL,United States,Active,2006,Death/Thrash Metal/Grindcore/Crossover,N/A,2006-present
-36600,Nahu,Korea| South,Active,1999,Hardcore (early)| Death Metal/Grindcore (later),Tough Life,1999-present
+36600,Nahu,South Korea,Active,1999,Hardcore (early)| Death Metal/Grindcore (later),Tough Life,1999-present
 36601,Nailed Shut,United States,Active,2005,Black/Death Metal/Grindcore,Violence,2005-present
 36602,Napalm Christ,United States,Active,2010,Death/Doom Metal/Grindcore,N/A,2010-present
 36603,Native FX,Germany,Unknown,N/A,Electronic Gothic/Death Metal/Rock,N/A,N/A
@@ -37140,7 +37140,7 @@ id,name,country,status,formed_in,genre,theme,active
 37139,Antim Grahan,Nepal,Active,2004,Symphonic Black Metal (early)| Black/Death Metal/Grindcore (later),Pain| Suffering| Darkness| Mystical Themes,2004-present
 37140,Apofigeus,United States,Active,2004,Death Metal/Grindcore with Melodic and Power Metal elements,N/A,2004-present
 37141,Apollyon Mechanicus,Russia,Active,2009,Black/Death Metal (early)| Atmospheric Black Metal (later),History| Occultism| Antireligion,2009-present
-37142,Arcanum,Macedonia (FYROM),Changed name,2003,Melodic Power/Black Metal (early)| Melodic Death Metal (later),Death| Suffering| Pain,2003-2008| 2008-present (as Aeon Arcanum)
+37142,Arcanum,Macedonia,Changed name,2003,Melodic Power/Black Metal (early)| Melodic Death Metal (later),Death| Suffering| Pain,2003-2008| 2008-present (as Aeon Arcanum)
 37143,Archaea,Australia,Active,2000,Death Metal (early)| Groove Metal/Metalcore (later),N/A,2000-present
 37144,Arenaris,Germany,Split-up,1998,Black Metal (early)| Gothic/Dark/Death Metal (later),Pain| Loss| Depression,1998-?
 37145,Arkadia,Finland,Active,2003,Melodic Heavy Metal (early)| Melodic Death Metal/Metalcore (later),N/A,2002-2003 (as My Cathedral)| 2003-present
@@ -37594,7 +37594,7 @@ id,name,country,status,formed_in,genre,theme,active
 37593,Crisis,United States,Split-up,1994,Death/Thrash Metal (early)| Hardcore/Metalcore (later),Religion| Politics| Sex| Violence,1994-2006
 37594,D.T.A.L,Sweden,Split-up,1983,Hardcore Punk (early)| Death/Thrash Metal/Crust (later),N/A,1983-1990
 37595,Dead in the Water,Finland,Active,2000,Hardcore (early)| Melodic Doom/Death Metal (later),Sadness| Emptiness| Corruption,2000-present
-37596,Dedicated for Life,Macedonia (FYROM),Active,2001,Hardcore (early)| Melodic Death Metal/Metalcore (later),Life| Anger,2001-present
+37596,Dedicated for Life,Macedonia,Active,2001,Hardcore (early)| Melodic Death Metal/Metalcore (later),Life| Anger,2001-present
 37597,Delayed Action Bomb,France,Split-up,1990,Hardcore Punk/Grindcore (early)| Death Metal (later),N/A,1990-?
 37598,Discordant,France,Active,2005,Thrash/Death Metal with Grindcore/Crust Influences,Politics| Class Struggles| Dissidence,2005-present
 37599,Disphere,Italy,Active,2006,Death Metal (early)| Alternative/Post-Rock (later),N/A,2006-present
