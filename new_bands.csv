@@ -304,7 +304,6 @@
 1130,1131,Bokluk,Spain,Active,2011.0,Death Metal,Plagues,2011-2022,2022
 1131,1132,Bokrag,Armenia,Active,2010.0,Death Metal,Violence,2010-2022,2022
 1133,1134,Bolt Thrower,United Kingdom,Split-up,1986.0,Death Metal,War,1986-2016,2016
-1136,1137,Bone Gnawer,International,Split-up,2001.0,Death Metal,Cannibalism,2001-2015,2015
 1139,1140,Bone Sickness,United States,Active,2009.0,Death Metal,Gore,2010-2022,2022
 1142,1143,Bones,Belgium,Active,2010.0,Death Metal,Death,2010-2022,2022
 1144,1145,Bonesaw,United Kingdom,Split-up,2000.0,Death Metal,Death,2000-2014,2014
@@ -2794,10 +2793,10 @@
 9612,9613,שְׁאוֹל,United Kingdom,Active,2012.0,Death Metal,Death,2012-2022,2022
 9613,9614,兀突骨,Japan,Active,2000.0,Death Metal,Samurai history and folklore,2000-2022,2022
 9619,9620,猿轡,Japan,Active,2010.0,Death Metal,Gore,2010-2022,2022
-9623,9624,Abominant,United States,Active,1993.0,Death Metal,Anti-Christianity,1993-2022,2022
-9624,9625,Aberration,Germany,Active,2001.0,Death 'n' Roll,Violence,2001-2022,2022
+9623,9624,Abominant,United States,Active,1993.0,Death Metal| Melodic Death Metal,Anti-Christianity,1993-2022,2022
+9624,9625,Aberration,Germany,Active,2001.0,Death 'n' Roll| Death Metal,Violence,2001-2022,2022
 9626,9627,Los Cochinos,Russia,Active,2013.0,Death Metal/Death'n'Roll,Alcoholism,2013-2022,2022
-9627,9628,Melissa,Russia,Active,1992.0,Death Metal,Death,1992-2022,2022
+9627,9628,Melissa,Russia,Active,1992.0,Death Metal| Death 'n' Roll,Death,1992-2022,2022
 9631,9632,(Psychoparalysis),Finland,Active,2009.0,Progressive Death Metal,Psychology,2009-2022,2022
 9632,9633,100 Knives Inside,Denmark,Split-up,2006.0,Progressive Death Metal,Society,2006-2012,2012
 9634,9635,13th Embodiment,Spain,Split-up,2004.0,Melodic Death Metal,Darkness,2004-2005,2005
@@ -2820,7 +2819,7 @@
 9665,9666,A Soul Called Perdition,Finland,Active,2013.0,Melodic Death Metal,Hatred,2013-2022,2022
 9668,9669,A Thousand Dead,United States,Active,2010.0,Progressive Death Metal,Instrumental,2010-2022,2022
 9669,9670,A Thousand Shall Fall,United States,Active,2010.0,Melodic Death Metal,Death,2010-2022,2022
-9670,9671,A Thousand Times Repent,United States,Split-up,2006.0,Death Metal,Christianity,2006-2011,2011
+9670,9671,A Thousand Times Repent,United States,Split-up,2006.0,Death Metal| Metalcore,Christianity,2006-2011,2011
 9673,9674,Aaarghhh,Indonesia,Active,1995.0,Technical Brutal Death Metal,Psychosis,1995-2022,2022
 9675,9676,Ababil,Indonesia,Active,1997.0,Brutal Death Metal,Mystery,1997-2022,2022
 9676,9677,Abandoned Agony,India,Split-up,2006.0,Brutal Death Metal,Death,2006-2011,2011
@@ -3153,7 +3152,7 @@
 10540,10541,Borrowers,Poland,Active,2000.0,Melodic Death Metal,Life,2000-2022,2022
 10542,10543,Bound,Finland,Split-up,2004.0,Melodic Death Metal,Reflections,2004-2005,2005
 10543,10544,Bound and Gagged,United States,Active,1999.0,Brutal Death Metal,Murder,1999-2022,2022
-10545,10546,Bound in Entrails,United States,Split-up,2006.0,Death Metal,Hate,2006-2007,2007
+10545,10546,Bound in Entrails,United States,Split-up,2006.0,Death Metal| Grindcore,Hate,2006-2007,2007
 10548,10549,Brain Ass,Indonesia,Active,2003.0,Brutal Death Metal,Religion,2003-2022,2022
 10549,10550,Brain Collapse,France,Active,2012.0,Technical Death Metal,Instrumental,2012-2022,2022
 10555,10556,Brain Xcavator,Turkey,Active,2004.0,Brutal Death Metal,Gore,2004-2022,2022
@@ -3318,7 +3317,7 @@
 10982,10983,Corporal Punishment,Canada,Active,2008.0,Melodic Death Metal,Life,2008-2022,2022
 10983,10984,Corporal Sores,Brazil,Split-up,2001.0,Brutal Death Metal,Gore,2001-2009,2009
 10985,10986,Corps-sans-Organes,Colombia,Active,2011.0,Technical Death Metal,Death,2011-2022,2022
-10986,10987,Corpse Arise,United States,Active,2012.0,Death Metal,Gore,2012-2022,2022
+10986,10987,Corpse Arise,United States,Active,2012.0,Death Metal| Grindcore,Gore,2012-2022,2022
 10987,10988,Corpse Brigade,Canada,Active,2006.0,Progressive Melodic Death Metal,End of human existence,2006-2022,2022
 10989,10990,Corpse Grinder,Croatia,Split-up,1992.0,Brutal Death Metal,Gore,1992-2008,2008
 10993,10994,Corpse Stove,United States,Active,2015.0,Brutal Death Metal,Cannibalism,2015-2022,2022
@@ -3334,7 +3333,7 @@
 11011,11012,Cosmic Sea,United States,Active,2010.0,Progressive Death Metal,Philosophy,2010-2022,2022
 11014,11015,Cotard Syndrome,Peru,Active,2009.0,Brutal Death Metal,Sickness,2009-2022,2022
 11019,11020,Coup de Grace,Philippines,Active,2000.0,Melodic Death Metal,Occult,2000-2022,2022
-11020,11021,Course Death,Germany,Split-up,2003.0,Death Metal,Christianity,2003-2013,2013
+11020,11021,Course Death,Germany,Split-up,2003.0,Death Metal| Metalcore,Christianity,2003-2013,2013
 11025,11026,Covered in Shit,New Zealand,Active,2010.0,Brutal Death Metal,Violence,2010-2022,2022
 11026,11027,Craneo,Guatemala,Active,2012.0,Brutal Death Metal,Gore,2012-2022,2022
 11027,11028,Cranial Blowout,Spain,Active,2014.0,Brutal Death Metal,Misanthropy,2014-2022,2022
@@ -3804,7 +3803,7 @@
 12441,12442,Flying,Ukraine,Split-up,1998.0,Melodic Death Metal,Feelings,1998-2011,2011
 12442,12443,Flying Corpse,Puerto Rico,Active,2008.0,Technical Death Metal,Mental,2008-2022,2022
 12447,12448,Fonthill,United States,Active,2009.0,Technical Melodic Death Metal,Spiritual Awakening,2009-2022,2022
-12451,12452,Force Fed Trauma,New Zealand,Split-up,2007.0,Death Metal,Anti-Religion,2007-2008,2008
+12451,12452,Force Fed Trauma,New Zealand,Split-up,2007.0,Death Metal| Deathcore,Anti-Religion,2007-2008,2008
 12453,12454,Forced Asphyxiation,United States,Active,2007.0,Brutal Death Metal,Cannabis,2007-2022,2022
 12456,12457,ForChristSake,United Kingdom,Split-up,2001.0,Melodic Death Metal,Christianity,2001-2016,2016
 12465,12466,Forged,Mexico,Active,2008.0,Melodic Death Metal,Existentialism,2008-2022,2022
@@ -3886,7 +3885,7 @@
 12681,12682,Gorestorm,International,Active,2014.0,Technical Death Metal,Science Fiction,2014-2022,2022
 12683,12684,Goretrade,Colombia,Active,1999.0,Brutal Death Metal,Perversion (early),1999-2022,2022
 12684,12685,Gorevent,Japan,Active,2004.0,Brutal Death Metal,Death,2004-2022,2022
-12688,12689,Gorgatron,United States,Active,2005.0,Death Metal,Zombies,2005-2022,2022
+12688,12689,Gorgatron,United States,Active,2005.0,Death Metal| Grindcore,Zombies,2005-2022,2022
 12689,12690,Gorge of IX,Russia,Active,2014.0,Melodic Death Metal,North,2014-2022,2022
 12691,12692,Gorging,Indonesia,Active,2007.0,Brutal Death Metal,Gore,2007-2022,2022
 12692,12693,Gormathon,Sweden,Active,2009.0,Melodic Death Metal,Death,2009-2022,2022
@@ -3936,7 +3935,7 @@
 12802,12803,Harlequin Ichthyosis,United States,Active,2008.0,Melodic Death Metal,Death,2008-2022,2022
 12805,12806,Harmony Dies,Germany,Active,1992.0,Brutal Death Metal,Violence,1992-2022,2022
 12810,12811,Harvest the Infection,Canada,Split-up,2010.0,Technical Death Metal,Death,2010-2015,2015
-12811,12812,Harvester,Hungary,Split-up,2006.0,Grindcore,Social Issues,2006-2012,2012
+12811,12812,Harvester,Hungary,Split-up,2006.0,Grindcore| Death Metal,Social Issues,2006-2012,2012
 12819,12820,Hate Inclination,United States,Active,2014.0,Brutal Death Metal,Cosmic horror,2014-2022,2022
 12821,12822,Hatebrazen,Colombia,Active,2009.0,Progressive Death Metal,Violence,2009-2022,2022
 12822,12823,Hatecraft,Russia,Active,2001.0,Melodic Death Metal,Dark emotions,2001-2022,2022
@@ -4055,7 +4054,7 @@
 13121,13122,Impure Violation,International,Active,2012.0,Brutal Death Metal,Gore,2012-2022,2022
 13124,13125,In Cold Blood,Chile,Active,2008.0,Melodic Death Metal,Politics,2008-2022,2022
 13127,13128,In Demise,Germany,Active,2005.0,Progressive Brutal Death Metal,Politics,2005-2022,2022
-13128,13129,In Dire Need,United States,Split-up,2004.0,Death Metal,Sea,2004-2008,2008
+13128,13129,In Dire Need,United States,Split-up,2004.0,Death Metal| Hardcore,Sea,2004-2008,2008
 13130,13131,In Dread Response,New Zealand,Active,2005.0,Melodic Death Metal,War,2005-2022,2022
 13133,13134,In Fury,Germany,Active,2013.0,Melodic Death Metal,Destruction,2013-2022,2022
 13141,13142,In Peril,United States,Split-up,2009.0,Melodic Death Metal,Personal Struggles,2009-2016,2016
@@ -4345,7 +4344,7 @@
 13924,13925,Mind Factory,Finland,Active,2001.0,Melodic Death Metal,Relationships,2001-2022,2022
 13925,13926,Mind Holocaust,Spain,Active,2008.0,Brutal Death Metal,Death,2008-2022,2022
 13931,13932,Mindfist,Macedonia,Active,2002.0,Melodic Death Metal,Death,2002-2022,2022
-13932,13933,Mindful of Pripyat,Italy,Active,2014.0,Grindcore,Nuclear Disasters,2014-2022,2022
+13932,13933,Mindful of Pripyat,Italy,Active,2014.0,Grindcore| Death Metal,Nuclear Disasters,2014-2022,2022
 13934,13935,Mindly Rotten,Colombia,Active,2003.0,Technical Brutal Death Metal,Gore,2003-2022,2022
 13937,13938,Minus 273,Belgium,Active,2005.0,Melodic Death Metal,Reality/Personal Topics,2005-2022,2022
 13938,13939,Misanthrophi,Mexico,Active,2014.0,Melodic Death Metal,Misanthropy,2014-2022,2022
@@ -4486,7 +4485,7 @@
 14335,14336,Northern,Poland,Active,2015.0,Melodic Death Metal,History,2015-2022,2022
 14337,14338,Nostalia,United States,Active,2005.0,Progressive Death Metal,War,2005-2022,2022
 14338,14339,Not Under Sin,El Salvador,Active,2006.0,Brutal Death Metal,Christianity,2006-2022,2022
-14341,14342,Nothing More to Eat,Finland,Split-up,2007.0,Grindcore,Zombies,2007-2016,2016
+14341,14342,Nothing More to Eat,Finland,Split-up,2007.0,Grindcore| Death Metal,Zombies,2007-2016,2016
 14342,14343,Nothnegal,Maldives,Active,2006.0,Melodic Death Metal,Sci-Fi,2006-2022,2022
 14343,14344,Noumena,Finland,Active,1998.0,Melodic Death Metal,Darkness,1998-2022,2022
 14345,14346,Novembers Fall,Germany,Split-up,2003.0,Melodic Death Metal,Solitude,2003-2008,2008
@@ -4629,7 +4628,7 @@
 14721,14722,Procaos,Mexico,Active,2000.0,Melodic Death Metal,War,2000-2022,2022
 14722,14723,Process of Suffocation,United States,Active,2004.0,Blackened Death Metal,Apocalyptic,2004-2022,2022
 14734,14735,Project Eternity,Finland,Active,2001.0,Melodic Death Metal,Suicide,2001-2022,2022
-14736,14737,Project: Born on 666,Germany,Active,2012.0,Death Metal,Blasphemy,2012-2022,2022
+14736,14737,Project: Born on 666,Germany,Active,2012.0,Death Metal| Grindcore,Blasphemy,2012-2022,2022
 14737,14738,Projectile Vomit,Philippines,Active,2012.0,Brutal Death Metal,Death,2012-2022,2022
 14742,14743,Promise Me Hell,United States,Split-up,2008.0,Blackened Death Metal,Apocalyptical,2008-2010,2010
 14743,14744,Propaganda,Indonesia,Active,2009.0,Brutal Death Metal,Gore,2009-2022,2022
@@ -4679,7 +4678,7 @@
 14847,14848,Radical Artery,Indonesia,Active,2008.0,Brutal Death Metal,Gore,2008-2022,2022
 14849,14850,Ragad Getih,Indonesia,Active,2012.0,Brutal Death Metal,Morality,2012-2022,2022
 14853,14854,Ragnell,Mexico,Active,2011.0,Blackened Death Metal,Anti-religion,2011-2022,2022
-14856,14857,Raised by Owls,United Kingdom,Active,2016.0,Death Metal,Humour,2016-2022,2022
+14856,14857,Raised by Owls,United Kingdom,Active,2016.0,Death Metal| Grindcore,Humour,2016-2022,2022
 14858,14859,Rancid Nut Sauce,United States,Active,2008.0,Brutal Death Metal,Gore,2008-2022,2022
 14860,14861,Range of Mutilated,Indonesia,Active,2004.0,Brutal Death Metal,Death,2004-2022,2022
 14862,14863,Rannoch,United Kingdom,Active,2004.0,Progressive Death Metal,Heathenism,2004-2022,2022
@@ -4826,7 +4825,7 @@
 15263,15264,Serpents Rise,United States,Active,2007.0,Technical Death Metal,Instrumental,2007-2022,2022
 15265,15266,Serpentspire,United States,Active,2013.0,Technical Death Metal,Science fiction,2013-2022,2022
 15271,15272,Settimosenso,Italy,Split-up,2009.0,Melodic Death Metal,Internal Struggle,2009-2012,2012
-15275,15276,Seven Sides,Argentina,Active,2006.0,Death Metal,Introspection,2006-2022,2022
+15275,15276,Seven Sides,Argentina,Active,2006.0,Death Metal| Metalcore,Introspection,2006-2022,2022
 15276,15277,Seven Sins,Mexico,Active,2004.0,Brutal Death Metal,Murder,2004-2022,2022
 15282,15283,Seventh Torture,Philippines,Active,2012.0,Brutal Death Metal,Death,2012-2022,2022
 15287,15288,Severed Serenity,Canada,Active,2001.0,Melodic Death Metal,True Metal,2001-2022,2022
@@ -4844,7 +4843,7 @@
 15320,15321,Shantak,Italy,Active,2013.0,Melodic Death Metal,Death,2013-2022,2022
 15321,15322,Shatter Silence,Japan,Active,2008.0,Melodic Death Metal,Revenge,2008-2022,2022
 15322,15323,Shattered,Germany,Active,2013.0,Technical Death Metal,Conspiracy theories,2013-2022,2022
-15328,15329,Sheer Mutilation,United States,Split-up,2009.0,Death Metal,Anti-Religion,2009-2012,2012
+15328,15329,Sheer Mutilation,United States,Split-up,2009.0,Death Metal| Deathcore,Anti-Religion,2009-2012,2012
 15334,15335,Shoreborn,Italy,Active,2000.0,Melodic Death Metal,Aggressive & Introspective Lyrics,2000-2022,2022
 15335,15336,Shores of Tundra,Canada,Split-up,2003.0,Blackened Death Metal,War,2003-2007,2007
 15336,15337,Short Fuse,United States,Active,2004.0,Melodic Death Metal,Anger,2004-2022,2022
@@ -4872,14 +4871,14 @@
 15397,15398,Sinners Bleed,Germany,Active,1997.0,Technical Death Metal,Death,1997-2022,2022
 15398,15399,Sinnerstesy,Colombia,Active,2009.0,Melodic Death Metal,Life,2009-2022,2022
 15400,15401,Sinskids,Thailand,Active,2002.0,Brutal Death Metal,Gore,2002-2022,2022
-15403,15404,Sit at My Right Hand,United States,Active,2008.0,Death Metal,Christianity,2008-2022,2022
+15403,15404,Sit at My Right Hand,United States,Active,2008.0,Death Metal| Grindcore,Christianity,2008-2022,2022
 15408,15409,Skelfir,Germany,Active,2009.0,Viking Death Metal,Norse Mythology,2009-2022,2022
 15411,15412,Skies of Obsidian,United States,Active,2010.0,Progressive Death Metal,Life,2010-2022,2022
 15416,15417,Skinned,United States,Active,1995.0,Brutal Death Metal,Gore,1995-2022,2022
 15426,15427,Skyless,United States,Active,2013.0,Melodic Death Metal,Battles,2013-2022,2022
 15430,15431,Slamentation,International,Active,2009.0,Brutal Death Metal,Gore,2009-2022,2022
 15432,15433,Slaughter Brute,Ukraine,Active,2007.0,Brutal Death Metal,Death,2007-2022,2022
-15433,15434,Slaughter of Souls,United Kingdom,Split-up,2000.0,Death,Evil,2000-2003,2003
+15433,15434,Slaughter of Souls,United Kingdom,Split-up,2000.0,Death| Black Metal,Evil,2000-2003,2003
 15435,15436,Slaughter Thou,Australia,Active,1999.0,Brutal Death Metal,War,1999-2022,2022
 15440,15441,Slaughtery,Belgium,Split-up,2005.0,Technical Death Metal,Psychology,2005-2014,2014
 15444,15445,Slaves of Death,Mexico,Active,2005.0,Melodic Death Metal,Death,2005-2022,2022
@@ -4977,7 +4976,7 @@
 15773,15774,Syndrome XP,Russia,Active,2006.0,Melodic Death Metal,Philosophy,2006-2022,2022
 15777,15778,Synthetic,United Kingdom,Active,2013.0,Melodic Death Metal,Inner struggles,2013-2022,2022
 15778,15779,Synthetic Breed,Australia,Active,2001.0,Industrial Death Metal,Cyberpunk,2001-2022,2022
-15779,15780,Synthetic Torture,Denmark,Active,2005.0,Death Metal,Torture,2005-2022,2022
+15779,15780,Synthetic Torture,Denmark,Active,2005.0,Death Metal| Grindcore,Torture,2005-2022,2022
 15782,15783,Syphilectomy,India,Active,2011.0,Brutal Death Metal,Gore,2011-2022,2022
 15783,15784,Syphilic,United States,Active,2005.0,Brutal Death Metal,Sick Humour,2005-2022,2022
 15784,15785,Syrebris,United States,Active,2006.0,Progressive Death Metal,Consciousness and Transformation,2006-2022,2022
@@ -5037,7 +5036,7 @@
 15980,15981,The Skullthrone,Italy,Split-up,2007.0,Blackened Death Metal,Anti-Christian,2007-2012,2012
 15983,15984,The Spektrum,Portugal,Active,2005.0,Melodic Death Metal,Darkness,2005-2022,2022
 15992,15993,The Trousers,Finland,Active,2007.0,Melodic Death Metal,Pants (Trousers),2007-2022,2022
-15995,15996,The Undivine,Finland,Split-up,2005.0,Death Metal,Irregularities,2005-2012,2012
+15995,15996,The Undivine,Finland,Split-up,2005.0,Death Metal| Hardcore,Irregularities,2005-2012,2012
 15998,15999,The Wakening,United States,Active,2008.0,Melodic Death Metal,Revolution,2008-2022,2022
 15999,16000,The Watcher,Germany,Active,2013.0,Progressive Death Metal,Dystopia,2013-2022,2022
 16004,16005,The YTriple Corporation,Spain,Split-up,2002.0,Melodic Death Metal,Sixth Generation Warfare,2002-2013,2013
@@ -5111,7 +5110,7 @@
 16192,16193,Umbral Torturer,United States,Active,2007.0,Brutal Death Metal,Gore,2007-2022,2022
 16195,16196,Unauthorized,Colombia,Active,2002.0,Melodic Death Metal,Social Issues,2002-2022,2022
 16199,16200,Unbirth,Italy,Active,2005.0,Technical Brutal Death Metal,Darkness,2005-2022,2022
-16200,16201,UnbornGeneration,Finland,Active,2002.0,Death Metal,Society,2002-2022,2022
+16200,16201,UnbornGeneration,Finland,Active,2002.0,Death Metal| Grindcore,Society,2002-2022,2022
 16201,16202,Unbreakable Hatred,Canada,Active,2008.0,Technical Death Metal,War,2008-2022,2022
 16203,16204,Unburied,United States,Active,1994.0,Brutal Death Metal,Death,1994-2022,2022
 16216,16217,Under Threat,Colombia,Active,1997.0,Melodic Death Metal,Destiny,1997-2022,2022
@@ -5198,7 +5197,7 @@
 16438,16439,Votary,Russia,Active,2012.0,Melodic Death Metal,Post Apocalypse,2012-2022,2022
 16441,16442,Vulnus,Greece,Active,1999.0,Brutal Death Metal,Gore (early),1999-2022,2022
 16443,16444,Vulvectomy,Italy,Active,2007.0,Brutal Death Metal,Dismemberment,2007-2022,2022
-16447,16448,Wake,United States,On hold,2003.0,Death Metal,Destruction,2003-2006,2006
+16447,16448,Wake,United States,On hold,2003.0,Death Metal| Grindcore,Destruction,2003-2006,2006
 16448,16449,Wakeful,Netherlands,Split-up,2006.0,Progressive Death Metal,Insomnia,2006-2012,2012
 16451,16452,Wale of Souls,Colombia,Split-up,2002.0,Melodic Death Metal,Pain,2002-2009,2009
 16452,16453,Walking Dead Suicide,Finland,Active,2011.0,Progressive Death Metal,Wickedness,2011-2022,2022
@@ -5216,7 +5215,7 @@
 16498,16499,When You Scream,Germany,Active,2010.0,Melodic Death Metal,Inner Conflicts,2010-2022,2022
 16504,16505,Whorelord,United States,Split-up,2003.0,Brutal Death Metal,Death,2003-2010,2010
 16508,16509,Wild Dances,Ukraine,Split-up,2009.0,Brutal Death Metal,Metal as a Tribal Culture,2009-2010,2010
-16511,16512,Wilt,United States,Active,2010.0,Death Metal,Cold and Worn,2010-2022,2022
+16511,16512,Wilt,United States,Active,2010.0,Death Metal| Grindcore,Cold and Worn,2010-2022,2022
 16513,16514,Winds of Torment,France,Split-up,2000.0,Melodic Death Metal,Human Stupidity,2000-2012,2012
 16519,16520,Winter Nights,United States,Active,2007.0,Melodic Death Metal,Apocalyptic future,2007-2022,2022
 16522,16523,Wintersun,Finland,Active,2003.0,Symphonic Melodic Death Metal,Winter,2003-2022,2022
@@ -5276,22 +5275,22 @@
 16682,16683,苔藓,China,Active,1997.0,Melodic Death Metal,War,1997-2022,2022
 16683,16684,败血症,China,Active,2008.0,Brutal Death Metal,Death,2008-2022,2022
 16685,16686,陈尸,China,Split-up,1998.0,Brutal Death Metal,Death,1998-2003,2003
-16689,16690,Body Part Trophy Case,United States,Active,2001.0,Death Metal,Death,2001-2022,2022
-16697,16698,The Awakening,Switzerland,Active,2000.0,Death Metal,World Views,2000-2022,2022
-16700,16701,Archaic Decapitator,United States,Active,2007.0,Death Metal ,Gore,2007-2022,2022
-16701,16702,Betalmand,Germany,Active,2005.0,Progressive Death Metal ,War,2005-2022,2022
-16708,16709,Dementor,Slovakia,Active,1988.0,Death Metal ,Anti-Christianity,1988-2022,2022
-16711,16712,Devouring Swarm,United States,Split-up,2012.0,Technical Death Metal ,Madness,2012-2014,2014
-16715,16716,Embedded,Germany,Active,1994.0,Death Metal ,Violence,1994-2022,2022
-16716,16717,Enraged,Netherlands,Active,1997.0,Brutal Death Metal ,Politics,1997-2022,2022
-16720,16721,Human Waste,Spain,Split-up,1990.0,Technical Death Metal ,Pessimism,1990-2000,2000
-16723,16724,Kataklysm,Canada,Active,1991.0,Death Metal ,Mysticism,1991-2022,2022
-16724,16725,Metacrose,Brazil,Active,1998.0,Brutal Death Metal ,Philosophy,1998-2022,2022
-16725,16726,Miseration,Sweden,Active,2006.0,Melodic Death Metal ,Inner struggles,2006-2022,2022
-16726,16727,Morbus Chron,Sweden,Split-up,2007.0,Death Metal ,Gore,2007-2015,2015
-16729,16730,Parthak,Brazil,Active,2007.0,Progressive Death Metal ,Science,2007-2022,2022
-16730,16731,Resurrecturis,Italy,Active,1990.0,Death Metal ,Dejection,1990-2022,2022
-16732,16733,Vile,United States,Active,1996.0,Brutal Death Metal ,Gore (early),1996-2022,2022
+16689,16690,Body Part Trophy Case,United States,Active,2001.0,Death Metal| Thrash Metal,Death,2001-2022,2022
+16697,16698,The Awakening,Switzerland,Active,2000.0,Death Metal| Thrash Metal,World Views,2000-2022,2022
+16700,16701,Archaic Decapitator,United States,Active,2007.0,Death Metal (early)| Melodic Death Metal (later),Gore,2007-2022,2022
+16701,16702,Betalmand,Germany,Active,2005.0,Progressive Death Metal (early)| Death Metal (later),War,2005-2022,2022
+16708,16709,Dementor,Slovakia,Active,1988.0,Death Metal (early)| Brutal Death Metal (later),Anti-Christianity,1988-2022,2022
+16711,16712,Devouring Swarm,United States,Split-up,2012.0,Technical Death Metal (early)| Death Metal (later),Madness,2012-2014,2014
+16715,16716,Embedded,Germany,Active,1994.0,Death Metal (early)| Brutal Death Metal (later),Violence,1994-2022,2022
+16716,16717,Enraged,Netherlands,Active,1997.0,Brutal Death Metal (early)| Melodic Death Metal (later),Politics,1997-2022,2022
+16720,16721,Human Waste,Spain,Split-up,1990.0,Technical Death Metal (early)| Progressive Death Metal (later),Pessimism,1990-2000,2000
+16723,16724,Kataklysm,Canada,Active,1991.0,Death Metal (early)| Melodic Death Metal (later),Mysticism,1991-2022,2022
+16724,16725,Metacrose,Brazil,Active,1998.0,Brutal Death Metal (early)| Progressive Death Metal (later),Philosophy,1998-2022,2022
+16725,16726,Miseration,Sweden,Active,2006.0,Melodic Death Metal (early)| Death Metal (later),Inner struggles,2006-2022,2022
+16726,16727,Morbus Chron,Sweden,Split-up,2007.0,Death Metal (early)| Progressive Death Metal (later),Gore,2007-2015,2015
+16729,16730,Parthak,Brazil,Active,2007.0,Progressive Death Metal (early)| Melodic Death Metal (later),Science,2007-2022,2022
+16730,16731,Resurrecturis,Italy,Active,1990.0,Death Metal (early)| Progressive Death Metal (later),Dejection,1990-2022,2022
+16732,16733,Vile,United States,Active,1996.0,Brutal Death Metal (early)| Melodic Death Metal (later),Gore (early),1996-2022,2022
 16733,16734,!úl..,Czech Republic,Split-up,2002.0,Death/Black Metal,Destiny,2002-2011,2011
 16735,16736,...Do Fundo... Abismo,Brazil,Active,2007.0,Death/Doom Metal,Depression,2007-2022,2022
 16738,16739,0 Zone,Greece,Active,2013.0,Death/Thrash Metal,Social,2013-2022,2022
@@ -5319,7 +5318,7 @@
 16806,16807,Abaddon,Serbia,Active,2007.0,Thrash/Death Metal,Chaos,2007-2022,2022
 16808,16809,Abandon All Hope,Australia,Split-up,2005.0,Death Metal/Hardcore,Hate,2005-2013,2013
 16812,16813,Abasbaron,Brazil,Active,1996.0,Black/Death Metal,Battle,1996-2022,2022
-16815,16816,Abated Mass of Flesh,United States,Active,2011.0,Brutal Death Metal,Christianity,2011-2022,2022
+16815,16816,Abated Mass of Flesh,United States,Active,2011.0,Brutal Death Metal| Deathcore,Christianity,2011-2022,2022
 16816,16817,Abattoir,Spain,Active,1990.0,Death Metal/Grindcore,Hate,1990-2022,2022
 16818,16819,Abatuar,Panama,Active,2013.0,Black/Death Metal,Politics,2013-2022,2022
 16820,16821,Abdominal Cavity,Finland,Split-up,2002.0,Death Metal/Grindcore,Gore,2002-2007,2007
@@ -5370,7 +5369,7 @@
 16937,16938,Accursed,United States,Split-up,1993.0,Death/Black Metal,Profligacy,1993-1995,1995
 16938,16939,Accursed Dawn,United States,Split-up,2002.0,Death/Thrash Metal,Philosophy,2002-2006,2006
 16945,16946,Acidity Regulator,Hungary,Split-up,2004.0,Death Metal/Grindcore,Gore,2004-2006,2006
-16949,16950,Acranius,Germany,Active,2009.0,Brutal Death Metal,Gore,2009-2022,2022
+16949,16950,Acranius,Germany,Active,2009.0,Brutal Death Metal| Hardcore,Gore,2009-2022,2022
 16951,16952,Acrimonia,Colombia,Active,2001.0,Thrash/Death Metal,Society,2001-2022,2022
 16956,16957,Acrotomofilia,Chile,Active,2012.0,Death Metal/Grindcore,Pathologies,2012-2022,2022
 16957,16958,Acrucé Mortem,United States,Active,2007.0,Black/Death Metal,Death,2007-2022,2022
@@ -5895,7 +5894,7 @@
 18561,18562,Carcinogen,United States,Split-up,2009.0,Thrash/Death Metal,Insanity,2009-2015,2015
 18562,18563,Carcinogen,United States,Split-up,1990.0,Death Metal/Grindcore,Misanthropy,1990-1996,1996
 18565,18566,Carignan,Austria,Split-up,2006.0,Death Metal/Grindcore,Violence,2006-2011,2011
-18566,18567,Cariosus,United States,Active,2014.0,Melodic Death Metal,Pathology,2014-2022,2022
+18566,18567,Cariosus,United States,Active,2014.0,Melodic Death Metal| Deathcore,Pathology,2014-2022,2022
 18569,18570,Carnage,Brazil,Active,2010.0,Death/Black Metal,Blasphemy,2010-2022,2022
 18574,18575,Carnage Valley,Brazil,Split-up,2000.0,Death/Black Metal,Destruction,2000-2008,2008
 18586,18587,Carnicero,Brazil,Split-up,2004.0,Death Metal/Grindcore,Horror,2004-2007,2007
@@ -5939,7 +5938,7 @@
 18736,18737,Chainsaw Slaughter,Paraguay,Active,2008.0,Death/Thrash Metal,Satanism,2008-2022,2022
 18739,18740,Chalice,Belgium,Active,1998.0,Thrash/Death Metal,Personal Struggle,1998-2022,2022
 18741,18742,Chamber of Farts,Canada,Split-up,2006.0,Death Metal/Grindcore,Gore,2005-2008,2008
-18742,18743,Chamber of Malice,Germany,Active,2012.0,Brutal Death Metal,Murder,2012-2022,2022
+18742,18743,Chamber of Malice,Germany,Active,2012.0,Brutal Death Metal| Hardcore,Murder,2012-2022,2022
 18743,18744,Change Over,Germany,Active,2004.0,Thrash/Death Metal,Death,2004-2022,2022
 18748,18749,Chaos Echœs,France,Active,2011.0,Death/Doom Metal,Mysticism,2011-2022,2022
 18753,18754,Chaos Legions,France,Active,2005.0,Thrash/Death Metal,Death,2005-2022,2022
@@ -6000,7 +5999,7 @@
 18903,18904,Comitatus,Netherlands,Active,2007.0,Death/Thrash Metal,History,2007-2022,2022
 18905,18906,Command Warhammer,Brazil,Active,2015.0,Black/Death Metal,War,2015-2022,2022
 18909,18910,Complicity,Sweden,Split-up,1992.0,Death/Thrash Metal,Death,1992-1993,1993
-18911,18912,Compost,Italy,Active,2007.0,Goregrind,Vegetables Putrefaction,2007-2022,2022
+18911,18912,Compost,Italy,Active,2007.0,Goregrind| Brutal Death Metal,Vegetables Putrefaction,2007-2022,2022
 18917,18918,Conception of Being,United States,Active,2010.0,Death/Thrash Metal,War,2010-2022,2022
 18918,18919,Concrete Earth,Netherlands,Split-up,1993.0,Death/Thrash Metal,Frustration,1993-1998,1998
 18919,18920,Concrete Icon,Finland,Split-up,2007.0,Death/Sludge Metal,Death,2007-2016,2016
@@ -6024,7 +6023,7 @@
 18972,18973,Contemplating Murder,United States,Active,2014.0,Death/Doom Metal,Horror,2014-2022,2022
 18974,18975,Contempty,Brazil,Active,2012.0,Death/Doom Metal,Sorrow,2012-2022,2022
 18979,18980,Contrary,Germany,Active,2002.0,Death/Thrash Metal,Anger,2002-2022,2022
-18984,18985,Controversial,Germany,Active,2013.0,Melodic Death Metal,Misanthropy,2013-2022,2022
+18984,18985,Controversial,Germany,Active,2013.0,Melodic Death Metal| Deathcore,Misanthropy,2013-2022,2022
 18986,18987,Contusio,Bosnia and Herzegovina,Active,2007.0,Thrash/Death Metal,War,2007-2022,2022
 18989,18990,Conviction,Costa Rica,Split-up,1996.0,Death/Thrash Metal,War/Anti-religion,1996-2000,2000
 18993,18994,Coprofagia,Peru,Split-up,1991.0,Death/Thrash Metal,Anarchy,1991-1992,1992
@@ -6213,7 +6212,7 @@
 19646,19647,Deathtrap,Germany,Split-up,1989.0,Death/Thrash Metal,Social issues,1989-1991,1991
 19652,19653,Deathwork,Italy,Active,2002.0,Death/Thrash Metal,War,2002-2022,2022
 19653,19654,Debauch,United States,On hold,2011.0,Death/Doom Metal,Sex,2011-2022,2022
-19657,19658,Debility,United States,Active,2010.0,Melodic Death Metal,Vikings,2010-2022,2022
+19657,19658,Debility,United States,Active,2010.0,Melodic Death Metal| Metalcore,Vikings,2010-2022,2022
 19660,19661,Decade of Death,Poland,Active,2004.0,Thrash/Death Metal,Death,2004-2022,2022
 19662,19663,Decadencia,Brazil,Active,2012.0,Death/Thrash Metal,War,2012-2022,2022
 19664,19665,Decapitado,Mexico,Active,2001.0,Death Metal/Grindcore,Terrorism,2001-2022,2022
@@ -6395,7 +6394,7 @@
 20224,20225,Dissymmetry,Australia,Active,2001.0,Black/Death Metal,Gore,2001-2022,2022
 20225,20226,Distant Shapes,Slovakia,Active,2016.0,Death/Doom Metal,Sorrow,2016-2022,2022
 20226,20227,Distarnish,Brazil,Split-up,2001.0,Doom/Death Metal,Christianity,2001-2009,2009
-20227,20228,Distaste,Austria,Active,2000.0,Grindcore,Death,2000-2022,2022
+20227,20228,Distaste,Austria,Active,2000.0,Grindcore| Brutal Death Metal,Death,2000-2022,2022
 20231,20232,Distorted Mind,United States,Split-up,2003.0,Doom/Death Metal,Depression,2003-2006,2006
 20233,20234,Distortion of Perception,Greece,Active,2003.0,Death/Thrash Metal,Social matters,2003-2022,2022
 20239,20240,Distruzione di Massa,Italy,Active,2004.0,Death Metal/Grindcore,Societal Hate,2004-2022,2022
@@ -6421,7 +6420,7 @@
 20348,20349,Draupnir,Germany,Active,2004.0,Death Metal/RAC,National Socialism,2004-2022,2022
 20361,20362,DreamLongDead,Greece,Active,2011.0,Doom/Death Metal,Chtulhu Mythos,2011-2022,2022
 20362,20363,Dreams of Damnation,United States,Active,1992.0,Death/Thrash Metal,Violence,1992-2022,2022
-20363,20364,Dreamshade,Switzerland,Active,2006.0,Melodic Death Metal,Life,2006-2022,2022
+20363,20364,Dreamshade,Switzerland,Active,2006.0,Melodic Death Metal| Metalcore,Life,2006-2022,2022
 20365,20366,Drenched in Gasoline,Sweden,Split-up,2008.0,Death/Industrial Metal,Philosophy,2008-2013,2013
 20373,20374,Drogheda,United States,Active,1992.0,Death Metal/Grindcore,Death,1992-2022,2022
 20376,20377,Drown in Blood,Germany,Split-up,2003.0,Death Metal/Crustcore,War,2003-2007,2007
@@ -6459,7 +6458,7 @@
 20481,20482,Ectoparasite,France,Split-up,2000.0,Death Metal/Grindcore,Absurd humour,2000-2005,2005
 20482,20483,Ectopia,Belgium,Split-up,1995.0,Death Metal/Goregrind,Nonsense,1995-2001,2001
 20484,20485,Ecuador Cadáver,Ecuador,Active,2004.0,Death/Thrash Metal,War,2004-2022,2022
-20487,20488,Eden A.D.,United States,Active,2002.0,Melodic Death Metal,Inner struggles,2002-2022,2022
+20487,20488,Eden A.D.,United States,Active,2002.0,Melodic Death Metal| Metalcore,Inner struggles,2002-2022,2022
 20488,20489,Eden's Onslaught,United States,Active,2004.0,Black/Death Metal,Goric brutallity,2004-2022,2022
 20492,20493,Educated Scum,Russia,Active,2000.0,Grindcore/Death Metal,War,2000-2022,2022
 20494,20495,Effigy of Gods,Bolivia,On hold,1995.0,Death/Black Metal,Death,1995-2022,2022
@@ -6493,7 +6492,7 @@
 20565,20566,Embraced by Hatred,Germany,Active,2002.0,Metalcore/Death Metal,Vengeance,2002-2022,2022
 20568,20569,Embryonic Cells,France,Active,1994.0,Death/Black Metal,Death,1994-2022,2022
 20569,20570,Embryonic Cryptopathia,United States,Active,2003.0,Death Metal/Goregrind,Murder,2003-2022,2022
-20571,20572,Emergency Gate,Germany,Active,1996.0,Melodic Death Metal,Personal struggles,1996-2022,2022
+20571,20572,Emergency Gate,Germany,Active,1996.0,Melodic Death Metal| Metalcore,Personal struggles,1996-2022,2022
 20572,20573,Emerging Chaos,Portugal,Active,2009.0,Thrash/Death Metal,War,2009-2022,2022
 20574,20575,Emetica,Serbia,Active,2000.0,Death Metal/Grindcore,Death,2000-2022,2022
 20575,20576,Eminent Terror,United States,Active,2010.0,Death Metal/Deathcore,Torture,2010-2022,2022
@@ -6721,7 +6720,7 @@
 21297,21298,Frozen,Spain,Active,2001.0,Black/Death Metal,Satanism,2001-2022,2022
 21301,21302,Frozen Fields,Germany,Active,1996.0,Death Metal/Grindcore,Splatter,1996-2022,2022
 21303,21304,Frozen Grave,Canada,Active,2009.0,Death/Pagan Metal,Vikings,2009-2022,2022
-21305,21306,Frozen Moonlight,Serbia,Active,2013.0,Melodic Death Metal,Life issues,2013-2022,2022
+21305,21306,Frozen Moonlight,Serbia,Active,2013.0,Melodic Death Metal| Metalcore,Life issues,2013-2022,2022
 21306,21307,Frozen Pain,Brazil,Active,1996.0,Death/Doom Metal,Human sentiments,1996-2022,2022
 21312,21313,Fuck U All,United States,Active,2001.0,Death Metal/Crossover,Misery,2001-2022,2022
 21313,21314,Fuckez-Vous,Netherlands,Active,2002.0,Black/Death Metal,Parody,2002-2022,2022
@@ -6787,7 +6786,7 @@
 21500,21501,Goatthroat,Germany,Active,2014.0,Black/Death Metal,Satanism,2014-2022,2022
 21501,21502,Goatzied,Chile,Active,2012.0,Death/Black Metal,Anti-Christianity,2012-2022,2022
 21506,21507,God Scard,Slovenia,Active,1992.0,Groove/Death Metal,Life,1992-2022,2022
-21514,21515,Goddess of Retribution,Czech Republic,Active,2013.0,Brutal Death Metal,Death,2013-2022,2022
+21514,21515,Goddess of Retribution,Czech Republic,Active,2013.0,Brutal Death Metal| Deathcore,Death,2013-2022,2022
 21515,21516,GodHateCode,Austria,Active,2007.0,Death Metal/Grindcore,Misanthropy,2007-2022,2022
 21517,21518,Godkiller,Germany,Split-up,1990.0,Death Metal/Grindcore,Death,1990-1992,1992
 21520,21521,Godless Angel,United States,Active,2012.0,Groove/Death Metal,Horror,2012-2022,2022
@@ -6875,12 +6874,12 @@
 21786,21787,Hang the Traitor,Portugal,Active,2008.0,Death/Thrash Metal,Murder,2008-2022,2022
 21787,21788,Hanged,Italy,Active,2011.0,Thrash/Death Metal,Death,2011-2022,2022
 21796,21797,Harlequin,United States,Active,2009.0,Death/Thrash Metal,Mythology,2009-2022,2022
-21799,21800,Harmony Fault,Brazil,Active,2002.0,Brutal Death Metal,Cannibalism,2002-2022,2022
+21799,21800,Harmony Fault,Brazil,Active,2002.0,Brutal Death Metal| Goregrind,Cannibalism,2002-2022,2022
 21802,21803,Harvest,Panama,Active,2012.0,Death/Groove Metal,Chaos,2012-2022,2022
 21804,21805,Harvest Gulgaltha,United States,Active,2012.0,Black/Death Metal,Necromancy,2012-2022,2022
 21805,21806,Harvyst,United States,Active,1999.0,Death Metal/Industrial,Sex,1999-2022,2022
 21812,21813,Hate Beyond,Japan,Active,2002.0,Death/Thrash Metal,Pain,2002-2022,2022
-21814,21815,Hate Diplomacy,Puerto Rico,Active,2006.0,Brutal Death Metal,Politics,2006-2022,2022
+21814,21815,Hate Diplomacy,Puerto Rico,Active,2006.0,Brutal Death Metal| Hardcore,Politics,2006-2022,2022
 21815,21816,Hate Division,Canada,Active,2006.0,Death Metal/Grindcore,War,2006-2022,2022
 21819,21820,Hate Handles,Brazil,Active,2011.0,Death/Thrash Metal,Politics,2011-2022,2022
 21829,21830,Hateform,Finland,On hold,2004.0,Death/Thrash Metal,Anger,2004-2014,2014
@@ -7103,10 +7102,10 @@
 22565,22566,Inside Conflict,France,Split-up,1998.0,Death Metal/Grindcore,Violence,1998-2005,2005
 22571,22572,Insignium,Germany,Active,1996.0,Black/Death Metal,Death,1996-2022,2022
 22574,22575,Insone,Brazil,Active,2000.0,Death/Thrash Metal,Christianity,2000-2022,2022
-22578,22579,Instil,Netherlands,Split-up,2001.0,Melodic Death Metal,Social,2001-2007,2007
+22578,22579,Instil,Netherlands,Split-up,2001.0,Melodic Death Metal| Metalcore,Social,2001-2007,2007
 22583,22584,Insultus Dei,France,Active,2006.0,Black/Death Metal,StN,2006-2022,2022
 22586,22587,Integral Rigor,Iran,Active,2009.0,Death/Thrash Metal,Apocalypse,2009-2022,2022
-22589,22590,Inter Alia,Australia,Split-up,2001.0,Epic,Journeys,2001-2005,2005
+22589,22590,Inter Alia,Australia,Split-up,2001.0,Epic| Melodic Death Metal,Journeys,2001-2005,2005
 22592,22593,Interdiction,Germany,Active,1996.0,Thrash/Death Metal,Screwed up surgery,1996-2022,2022
 22593,22594,Interface,United Kingdom,Active,2012.0,Grindcore/Death Metal,Hatred,2012-2022,2022
 22594,22595,Interfectum,Spain,Split-up,2009.0,Black/Death Metal,Occult,2009-2014,2014
@@ -7246,7 +7245,7 @@
 22994,22995,Labore Lunae,Brazil,Active,2002.0,Death/Doom Metal,Occultism,2002-2022,2022
 22996,22997,Lacerate,Costa Rica,Active,1992.0,Grindcore/Death Metal,Politics,1992-2022,2022
 22997,22998,Lacerated,United States,Active,2003.0,Thrash/Death Metal,War,2003-2022,2022
-22998,22999,Lacerated Entrails,United States,Active,2005.0,Brutal Death Metal,Gore,2005-2022,2022
+22998,22999,Lacerated Entrails,United States,Active,2005.0,Brutal Death Metal| Goregrind,Gore,2005-2022,2022
 23000,23001,Laceration,United States,On hold,2006.0,Death/Thrash Metal,Reality,2006-2022,2022
 23002,23003,Lachrimatory,Brazil,Active,1999.0,Doom/Death Metal,Depression,1999-2022,2022
 23010,23011,Lakupaavi,Finland,On hold,2005.0,Death Metal/Grindcore,Humour,2005-2022,2022
@@ -7275,7 +7274,7 @@
 23122,23123,Letum,United States,Active,2005.0,Black/Death Metal,Blasphemy,2005-2022,2022
 23125,23126,Leviathan,United States,Split-up,1986.0,Death/Thrash Metal,Death,1986-1988,1988
 23131,23132,Liber Nihil,Chile,Active,2008.0,Black/Death Metal,Death,2008-2022,2022
-23133,23134,Libertad o Muerte,Uruguay,Active,2013.0,Melodic Death Metal,Freedom,2013-2022,2022
+23133,23134,Libertad o Muerte,Uruguay,Active,2013.0,Melodic Death Metal| Metalcore,Freedom,2013-2022,2022
 23136,23137,Lich,Italy,Active,2012.0,Death/Black Metal,Cemetaries,2012-2022,2022
 23144,23145,Light,Germany,Active,2010.0,Death/Doom Metal,Light,2010-2022,2022
 23145,23146,Light Silent Death,Italy,Active,2005.0,Gothic/Death Metal,Decay of Society,2005-2022,2022
@@ -7405,7 +7404,7 @@
 23556,23557,Menorah,Mexico,Active,2006.0,Death/Thrash Metal,Christianity,2006-2022,2022
 23557,23558,Menschenfresser,Germany,Active,2006.0,Thrash/Death Metal,Death,2006-2022,2022
 23559,23560,Mental Amputation,Germany,Active,1998.0,Death/Thrash Metal,War,1998-2022,2022
-23563,23564,Mental Demise,Ukraine,Active,1995.0,Brutal Death Metal,Gore,1995-2022,2022
+23563,23564,Mental Demise,Ukraine,Active,1995.0,Brutal Death Metal| Grindcore,Gore,1995-2022,2022
 23566,23567,Mental Disorder,Chile,Split-up,2009.0,Death Metal/Grindcore,Mental illnesses,2009-2013,2013
 23568,23569,Mental Funeral,United States,Active,2003.0,Death/Doom Metal,Horror,2003-2022,2022
 23569,23570,Mental Illness,Russia,Active,2014.0,Black/Death Metal,Blasphemy,2014-2022,2022
@@ -7723,7 +7722,7 @@
 24570,24571,Nylithia,Canada,Active,2008.0,Thrash/Death Metal,Sci Fi,2008-2022,2022
 24578,24579,Névrose,France,Active,2013.0,Black/Death Metal,Depression,2013-2022,2022
 24579,24580,O Anjo Exterminador,Brazil,Split-up,2003.0,Industrial/Death Metal,Mystical,2003-2005,2005
-24583,24584,Oaken Throne,Argentina,Split-up,2002.0,Melodic Death,Vikings,2002-2005,2005
+24583,24584,Oaken Throne,Argentina,Split-up,2002.0,Melodic Death| Viking Metal,Vikings,2002-2005,2005
 24591,24592,Obfuscate,United States,Active,2001.0,Black/Death Metal,Satanism,2001-2022,2022
 24593,24594,Obispo Fornicado,Spain,Active,2007.0,Death Metal/Grindcore,Humour,2007-2022,2022
 24594,24595,Object of Aggression,United States,Split-up,1999.0,Death Metal/Metalcore,Fear,1999-2002,2002
@@ -8280,7 +8279,7 @@
 26358,26359,Siege,Philippines,Active,2009.0,Thrash/Death Metal,Society,2009-2022,2022
 26359,26360,Siege of Hate,Brazil,Active,1997.0,Death Metal/Grindcore,Politic problems,1997-2022,2022
 26368,26369,Sikario,Chile,Active,2005.0,Death Metal/Metalcore,Christianity,2005-2022,2022
-26374,26375,Silence Lies Fear,Azerbaijan,Active,2008.0,Melodic Death Metal,Love,2008-2022,2022
+26374,26375,Silence Lies Fear,Azerbaijan,Active,2008.0,Melodic Death Metal| Metalcore,Love,2008-2022,2022
 26376,26377,Silence of Tranquility,Venezuela,Active,2003.0,Doom/Death Metal,Despair,2003-2022,2022
 26377,26378,Silence...,Finland,Active,2005.0,Doom/Death Metal,Nightmares,2005-2022,2022
 26378,26379,Silencekiller,Philippines,Active,2008.0,Death Metal/Grindcore,Politics,2008-2022,2022
@@ -8392,7 +8391,7 @@
 26743,26744,Sterbhaus,Sweden,Active,2007.0,Thrash/Death Metal,Humor,2007-2022,2022
 26746,26747,Stige,Italy,Active,2001.0,Thrash/Death Metal,Decay,2001-2022,2022
 26748,26749,Stigma,Greece,Split-up,1987.0,Death/Thrash Metal,Society,1987-1993,1993
-26754,26755,Stillbirth,Germany,Active,1999.0,Brutal Death Metal,Gore,1999-2022,2022
+26754,26755,Stillbirth,Germany,Active,1999.0,Brutal Death Metal| Deathcore,Gore,1999-2022,2022
 26756,26757,Stillborn,Germany,Active,2004.0,Black/Death Metal,War,2004-2022,2022
 26757,26758,Stillborn,Poland,Active,1997.0,Death/Black Metal,Anti-Christianity,1997-2022,2022
 26764,26765,Stodgy,Brazil,Active,2008.0,Thrash/Death Metal,Death,2008-2022,2022
@@ -8527,7 +8526,7 @@
 27161,27162,The Dead,United States,Active,2001.0,Death/Thrash Metal,Gore,2001-2022,2022
 27162,27163,The Dead Cold,Canada,Split-up,2009.0,Death Metal/Grindcore,Death,2009-2016,2016
 27169,27170,The Devil's Ransom,United States,Active,2010.0,Death Metal/Metalcore,Horror Movies,2010-2022,2022
-27172,27173,The Dry Bones Army,Costa Rica,Active,2010.0,Melodic Death Metal,Social Issues,2010-2022,2022
+27172,27173,The Dry Bones Army,Costa Rica,Active,2010.0,Melodic Death Metal| Metalcore,Social Issues,2010-2022,2022
 27173,27174,The Dunwich Horror,United States,Split-up,2004.0,Death Metal/Metalcore,Death,2004-2006,2006
 27177,27178,The End,Sweden,Split-up,1994.0,Death/Thrash Metal,Fear,1994-1997,1997
 27179,27180,The Entropic Principle,United States,Active,2011.0,Metalcore/Death Metal,Political Corruption,2011-2022,2022
@@ -8599,7 +8598,7 @@
 27379,27380,Throb of Offal,Japan,Active,2001.0,Death Metal/Grindcore,Bogs,2001-2022,2022
 27382,27383,Throes of Ire,United States,Active,2009.0,Death/Doom Metal,Dark stories,2009-2022,2022
 27389,27390,Throne of Stone,United Kingdom,Active,2005.0,Black/Death Metal,Anti-Religious,2005-2022,2022
-27391,27392,Through the Eyes of the Dead,United States,Active,2003.0,Melodic Death Metal,Death,2003-2022,2022
+27391,27392,Through the Eyes of the Dead,United States,Active,2003.0,Melodic Death Metal| Deathcore,Death,2003-2022,2022
 27392,27393,Through These Gates,United States,Active,2008.0,Black/Death Metal,Earth,2008-2022,2022
 27401,27402,Thy Legion,Malta,Active,2004.0,Black/Death Metal,Satanism,2004-2022,2022
 27403,27404,Thy Rites,Brazil,Active,2005.0,Death/Black Metal,Satanism,2005-2022,2022
@@ -8818,7 +8817,7 @@
 28049,28050,Vulgarizer,United States,Active,2003.0,Death Metal/Grindcore,Violence,2003-2022,2022
 28052,28053,Vulkro,Brazil,Active,2003.0,Doom/Death Metal,Decay,2003-2022,2022
 28056,28057,Vultaria,United States,Active,2009.0,Death/Thrash Metal,Anti-Christianity,2009-2022,2022
-28059,28060,Vulvodynia,South Africa,Active,2014.0,Brutal Death Metal,Gore,2014-2022,2022
+28059,28060,Vulvodynia,South Africa,Active,2014.0,Brutal Death Metal| Deathcore,Gore,2014-2022,2022
 28060,28061,Vulvulator,Ukraine,Split-up,2006.0,Death Metal/Grindcore,Sex & Sexual Orientation,2006-2009,2009
 28065,28066,Vörgus,Sweden,Active,1994.0,Thrash/Death Metal,Metal,1994-2022,2022
 28071,28072,Wajardo,Chile,Active,2009.0,Death Metal/Grindcore,Sex,2009-2022,2022
@@ -8954,34 +8953,34 @@
 28448,28449,モノノフ,Japan,Active,2004.0,Death/Thrash Metal,Spirit of the Samurai,2004-2022,2022
 28454,28455,散杀,China,Active,2001.0,Death/Doom Metal,Life,2001-2022,2022
 28459,28460,Atomic Moonshine,Sweden,Active,2002.0,Death Metal/Death 'n' Roll,Life After Doomsday,2002-2022,2022
-28460,28461,Avernal,Argentina,Active,1993.0,Death Metal ,Social,1993-2022,2022
+28460,28461,Avernal,Argentina,Active,1993.0,Death Metal (early)| Death 'n' Roll (later),Social,1993-2022,2022
 28465,28466,Denialist,Australia,Active,2008.0,Death Metal/Death 'n' Roll,Killers,2008-2022,2022
 28467,28468,Disevered,United States,Active,2015.0,Death Metal/Death 'n' Roll,Antireligion,2015-2022,2022
 28470,28471,Entombed A.D.,Sweden,Active,2014.0,Death Metal/Death 'n' Roll,Horror,2014-2022,2022
-28472,28473,Hearse,Sweden,Active,2001.0,Melodic Death Metal,Death,2001-2022,2022
+28472,28473,Hearse,Sweden,Active,2001.0,Melodic Death Metal| Death 'n' Roll,Death,2001-2022,2022
 28474,28475,Implodead,Italy,Active,2014.0,Death Metal/Death 'n' Roll,Psychology,2014-2022,2022
 28477,28478,New World Depression,Germany,Active,2005.0,Death Metal/Death 'n' Roll,Metal,2005-2022,2022
 28482,28483,Postmortem,Germany,Active,1991.0,Death Metal/Death 'n' Roll,Sex,1991-2022,2022
 28485,28486,Six Feet of Foreplay,Sweden,Active,2006.0,Death Metal/Death 'n' Roll,Zombies,2006-2022,2022
-28486,28487,Six Feet Under,United States,Active,1993.0,Death/Groove Metal,Gore,1993-2022,2022
+28486,28487,Six Feet Under,United States,Active,1993.0,Death/Groove Metal| Death 'n' Roll,Gore,1993-2022,2022
 28491,28492,1 Shot Kill,Australia,Active,2002.0,Death Metal/Groove Metal,Political,2002-2022,2022
-28492,28493,Apothesary,United States,Active,2009.0,Melodic Death Metal,War,2009-2022,2022
+28492,28493,Apothesary,United States,Active,2009.0,Melodic Death Metal| Thrash Metal,War,2009-2022,2022
 28493,28494,As Hell Retreats,United States,Split-up,2005.0,Thrash Metal/Metalcore/Death Metal,Christianity,2005-2012,2012
 28494,28495,Astana,Indonesia,Active,2007.0,Melodic Death Metal/Gothic Metal,Religion,2007-2022,2022
-28496,28497,Changer,Iceland,On hold,1999.0,Thrash Metal,Society,1999-2015,2015
+28496,28497,Changer,Iceland,On hold,1999.0,Thrash Metal| Death Metal (mid),Society,1999-2015,2015
 28506,28507,Flesh Feast,United States,Active,2007.0,Death Metal/Black Metal,Brutal killings,2007-2022,2022
 28512,28513,Himmel Strasse,France,Active,2005.0,Thrash Metal with Death Metal influences,Emotions and Feelings Invoked Through Life,2005-2022,2022
 28513,28514,In Death We Rise,United States,Active,2004.0,Death Metal/Thrash Metal,Death,2004-2022,2022
-28515,28516,Kanhiwara,Ecuador,Active,2006.0,Death Metal,Suicide,2006-2022,2022
+28515,28516,Kanhiwara,Ecuador,Active,2006.0,Death Metal| Black Metal| Hardcore,Suicide,2006-2022,2022
 28520,28521,Mindloss,Croatia,Split-up,1993.0,Death Metal/Thrash Metal,Life,1993-1994,1994
 28521,28522,Misericord,South Africa,Active,1997.0,Heavy Metal/Rock/Death Metal,Life,1997-2022,2022
 28522,28523,Morphia,Netherlands,Split-up,1995.0,Death Metal/Symphonic Doom Metal,Emotions,1995-2008,2008
-28527,28528,Nimphaion,Russia,Active,2001.0,Melodic Death Metal,Satanism,2001-2022,2022
+28527,28528,Nimphaion,Russia,Active,2001.0,Melodic Death Metal| Symphonic Black Metal,Satanism,2001-2022,2022
 28533,28534,Raza Salvaje,Argentina,Active,2004.0,Power Metal with Death Metal Influences,Life,2004-2022,2022
 28541,28542,Sounds of Frailty,Greece,Active,2004.0,Death Metal/Black Metal,Hate,2004-2022,2022
 28542,28543,Strychnine,United States,Split-up,1992.0,Death Metal/Thrash Metal,Armageddon,1992-2001,2001
-28544,28545,The Synics Awakening,United States,Active,2009.0,Melodic Black Metal,Christianity,2009-2022,2022
-28547,28548,Torn the Fuck Apart,United States,Active,2004.0,Technical Death Metal,Gore,2004-2022,2022
+28544,28545,The Synics Awakening,United States,Active,2009.0,Melodic Black Metal| Death Metal,Christianity,2009-2022,2022
+28547,28548,Torn the Fuck Apart,United States,Active,2004.0,Technical Death Metal| Groove Metal,Gore,2004-2022,2022
 28558,28559,0N0,Slovakia,Active,2005.0,Experimental Industrial Doom/Death Metal,Transcendence,2005-2022,2022
 28560,28561,1000 Odios,Argentina,Active,2006.0,Thrash/Melodic Death Metal,Fury,2006-2022,2022
 28561,28562,1914,Ukraine,Active,2014.0,Blackened Death/Doom Metal,World War I,2014-2022,2022
@@ -9203,7 +9202,6 @@
 29178,29179,Awful,Italy,Split-up,1989.0,Brutal Death Metal/Grindcore,Violence,1989-2010,2010
 29179,29180,Awrizis,Czech Republic,Active,2011.0,Death/Thrash/Groove Metal,Inner struggles,2011-2022,2022
 29180,29181,Axamenta,Belgium,Split-up,1993.0,Melodic Death/Black Metal,Fantasy,1993-2009,2009
-29181,29182,Axhwiaa,Unknown,Active,2015.0,Black/Death/Thrash Metal,Anti-stoner culture,2015-2022,2022
 29183,29184,Axis of Evil,United Kingdom,Active,2003.0,Death/Thrash/Industrial Metal,Political,2003-2022,2022
 29185,29186,Axuss,Israel,Active,1999.0,Electronic Black/Death Metal,Gods,1999-2022,2022
 29186,29187,Azathor,Argentina,Active,2006.0,Melodic Death/Black Metal,Anti-Christianity,2006-2022,2022
@@ -9321,7 +9319,7 @@
 29565,29566,Bullets of Misery,Spain,Active,2008.0,Metalcore/Melodic Death Metal,Violence,2008-2022,2022
 29567,29568,Bumilingus,United Kingdom,Split-up,2009.0,Brutal Death Metal/Grindcore,Scat,2009-2014,2014
 29573,29574,Burials,United States,Active,2008.0,Progressive Hardcore/Death Metal,Human Failure and Conformity,2008-2022,2022
-29578,29579,Burn in Silence,United States,Split-up,2003.0,Melodic Death Metal,Loss,2003-2008,2008
+29578,29579,Burn in Silence,United States,Split-up,2003.0,Melodic Death Metal| Technical Metalcore,Loss,2003-2008,2008
 29586,29587,Burning Earth,United Kingdom,Split-up,2006.0,Melodic Death/Power Metal,Epic fantasy,2006-2010,2010
 29588,29589,Burning Island,Taiwan,Active,2011.0,Melodic Death Metal/Metalcore,Social issues,2011-2022,2022
 29594,29595,Bury the Silence,United States,Active,2009.0,Technical Death Metal/Deathcore,Humanity,2009-2022,2022
@@ -9337,7 +9335,7 @@
 29636,29637,Caratucay,Germany,Active,2007.0,Melodic/Progressive Death Metal,Inner struggles,2007-2022,2022
 29637,29638,Caravan of Anaconda,Indonesia,Active,2006.0,Experimental Death Metal/Grindcore,Social Themes,2006-2022,2022
 29638,29639,Carbonized Gnawing Mandible,United States,Active,2011.0,Brutal Death/Black Metal,Science Fiction,2011-2022,2022
-29640,29641,Carcharodon,Italy,Active,2003.0,Death 'n' Roll,Cryptids,2003-2022,2022
+29640,29641,Carcharodon,Italy,Active,2003.0,Death 'n' Roll| Stoner Metal,Cryptids,2003-2022,2022
 29647,29648,Carnal Monstrosity,United States,Split-up,2009.0,Death/Thrash/Doom Metal,Death,2009-2011,2011
 29650,29651,Carnal Strength,Colombia,Active,2007.0,Melodic Death/Black Metal,Blasphemy,2007-2022,2022
 29653,29654,Carniceira,Brazil,Split-up,2005.0,Brutal Death Metal/Goregrind,Hate,2005-2009,2009
@@ -9473,7 +9471,7 @@
 30076,30077,Dark Lunacy,Italy,Active,1997.0,Symphonic/Melodic Death Metal,Sadness,1997-2022,2022
 30080,30081,Dark Mirror ov Tragedy,South Korea,Active,2003.0,Symphonic Black/Gothic/Death Metal,Suicide,2003-2022,2022
 30084,30085,Dark Prophecy,United States,Active,2004.0,Blackened Death/Thrash Metal,Darkness,2004-2022,2022
-30085,30086,Dark Reality,Germany,Split-up,1989.0,Death Metal ,Grief,1989-1999,1999
+30085,30086,Dark Reality,Germany,Split-up,1989.0,Death Metal (early)| Folk (later),Grief,1989-1999,1999
 30096,30097,Darkane,Sweden,Active,1998.0,Melodic Death/Thrash Metal,Psychology,1998-2022,2022
 30097,30098,Darkarma,United States,Active,2004.0,Melodic Death Metal/Metalcore,Apocalypse,2004-2022,2022
 30100,30101,Darken My Grief,Romania,On hold,2003.0,Black/Death/Gothic Metal,Love,2003-2022,2022
@@ -9693,7 +9691,7 @@
 30763,30764,Empyrion,Slovakia,Active,2011.0,Symphonic Black/Death Metal,Dark sides of humanity,2011-2022,2022
 30764,30765,Encased,United States,Split-up,2005.0,Black/Viking/Death Metal,Revenge,2005-2011,2011
 30767,30768,Encryptor,Panama,Split-up,1999.0,Brutal Death Metal/Grindcore,Christianity,1999-2010,2010
-30769,30770,End of All,United States,Active,2000.0,Melodic Death Metal,Death,2000-2022,2022
+30769,30770,End of All,United States,Active,2000.0,Melodic Death Metal| Melodic Hardcore,Death,2000-2022,2022
 30771,30772,Endelecheia,Czech Republic,Split-up,2001.0,Black/Death/Doom Metal,Sadness,2001-2005,2005
 30781,30782,EndlessNight,Colombia,Active,2006.0,Gothic/Black/Death Metal,Feelings,2006-2022,2022
 30782,30783,Endlight,United States,Active,2013.0,Folk/Melodic Death Metal,Battle,2013-2022,2022
@@ -9731,7 +9729,7 @@
 30880,30881,Eterna Oscuridad,Argentina,Active,2007.0,Death/Black/Thrash Metal,Negativity,2007-2022,2022
 30882,30883,Eternal Autumn,Sweden,Split-up,1993.0,Melodic Death/Thrash Metal,Sorrow,1993-2001,2001
 30888,30889,Eternal Emperor,Germany,Active,2007.0,Blackened Death/Doom Metal,Christianity,2007-2022,2022
-30890,30891,Eternal Lord,United Kingdom,Split-up,2005.0,Death Metal ,Kingdoms,2005-2009,2009
+30890,30891,Eternal Lord,United Kingdom,Split-up,2005.0,Death Metal (early)| Deathcore (later),Kingdoms,2005-2009,2009
 30891,30892,Eternal Malediction,Brazil,On hold,1998.0,Progressive Black/Death Metal,Anti-Christianity,1998-2010,2010
 30892,30893,Eternal Mourning,Portugal,On hold,1995.0,Gothic/Doom/Death Metal,Sadness,1995-2022,2022
 30897,30898,Eternal Wisdom,Germany,Split-up,2005.0,Melodic Black/Death Metal,Esoteric,2005-2016,2016
@@ -9801,7 +9799,7 @@
 31098,31099,Fenris,United States,Active,2013.0,Folk/Melodic Death Metal,Tolkien,2013-2022,2022
 31099,31100,Fenrisulfr,United States,Active,2003.0,Black Thrash/Melodic Death Metal,Mythology,2003-2022,2022
 31101,31102,Feretrum,Peru,Active,2004.0,Thrash/Death/Black Metal,Deprivation,2004-2022,2022
-31102,31103,Feretrum,Spain,Split-up,1989.0,Death Metal ,Horror,1989-1995,1995
+31102,31103,Feretrum,Spain,Split-up,1989.0,Death Metal (early)| Grindcore (later),Horror,1989-1995,1995
 31106,31107,Festercyst,United States,On hold,2002.0,Brutal Death Metal/Goregrind,Gore,2002-2006,2006
 31107,31108,Festerfuck,United States,Split-up,2008.0,Brutal Death Metal/Grindcore,Gore,2008-2014,2014
 31108,31109,Festering Drippage,Australia,Active,2010.0,Brutal Death Metal/Grindcore,Gore,2010-2022,2022
@@ -10082,7 +10080,7 @@
 31973,31974,Ire & Uprise,United States,Active,2014.0,Melodic Death/Thrash Metal,Personal struggle,2014-2022,2022
 31975,31976,Ironopolis,United Kingdom,Split-up,2010.0,Blackened Death Metal/Grindcore,Filth,2010-2014,2014
 31981,31982,Isfet,Brazil,Active,2014.0,Melodic Black/Death Metal,Misanthrophy,2014-2022,2022
-31982,31983,Ishimura,United States,Active,2011.0,Black/Death Metal,Psychosis,2011-2022,2022
+31982,31983,Ishimura,United States,Active,2011.0,Black/Death Metal| Noise,Psychosis,2011-2022,2022
 31983,31984,Ishitrobots,Germany,Split-up,2007.0,Technical Death Metal/Grindcore,Violence,2007-2011,2011
 31984,31985,Ishtar,France,On hold,2010.0,Melodic Black/Death Metal,War,2010-2015,2015
 31986,31987,Isle of Man,Netherlands,Split-up,2002.0,Technical Death Metal/Metalcore,Social issues (in a humorous manner),2002-2006,2006
@@ -10093,17 +10091,17 @@
 32008,32009,João,Brazil,Split-up,2002.0,Grindcore/Noise/Death Metal,Christianity,2002-2005,2005
 32009,32010,Judas Ancestry,India,Active,2010.0,Symphonic Black/Death Metal,Darkness,2010-2022,2022
 32012,32013,Jupiter's Wake,United States,Active,2008.0,Melodic Death Metal/Metalcore,Hate,2008-2022,2022
-32013,32014,Jupiterian,Brazil,Active,2013.0,Sludge,Mythology,2013-2022,2022
+32013,32014,Jupiterian,Brazil,Active,2013.0,Sludge| Death/Doom Metal,Mythology,2013-2022,2022
 32015,32016,K.A.IN,Belarus,Active,2006.0,Melodic Black/Death Metal,Religion,2006-2022,2022
 32017,32018,Kablo,Spain,Active,2012.0,Black/Melodic Death Metal,Instrumental,2012-2022,2022
 32026,32027,Kalodin,Nepal,Active,2006.0,Symphonic Black/Death Metal,Sex,2006-2022,2022
 32027,32028,Kama-Mara,United States,Active,2009.0,Experimental Death/Black Metal,Esoteric Philosophy,2009-2022,2022
 32031,32032,Kanflikt,Belarus,Active,2011.0,Melodic Death/Thrash Metal,Politics,2011-2022,2022
-32033,32034,Kaothic,Spain,Active,2001.0,Avant-garde,Internal Conflicts,2001-2022,2022
+32033,32034,Kaothic,Spain,Active,2001.0,Avant-garde| Progressive Death Metal,Internal Conflicts,2001-2022,2022
 32034,32035,Kapakmens,Latvia,Active,2013.0,Death Metal/Hardcore Punk,Antipositive,2013-2022,2022
 32044,32045,Karnak Seti,Portugal,Active,2001.0,Melodic Thrash/Death Metal,Extraterrestrial Life (early),2001-2022,2022
 32046,32047,Karnon,Canada,Active,2014.0,Progressive Black/Death Metal,Pagan mythology,2014-2022,2022
-32049,32050,Katakombi,Finland,Active,2011.0,Doom/Death Metal,Death,2011-2022,2022
+32049,32050,Katakombi,Finland,Active,2011.0,Doom/Death Metal| Experimental,Death,2011-2022,2022
 32050,32051,Katalepsy,Russia,Active,2003.0,Technical Brutal Death/Groove Metal,Philosophy,2003-2022,2022
 32058,32059,Kaunis Kuolematon,Finland,Active,2012.0,Melodic Doom/Death Metal,Melancholy,2012-2022,2022
 32061,32062,Keep Us From,Russia,Active,2014.0,Melodic Death Metal/Metalcore,Science Fiction,2014-2022,2022
@@ -10111,7 +10109,7 @@
 32065,32066,Keruntuk,Malaysia,Active,2005.0,Thrash/Black/Death Metal,Suffering,2005-2022,2022
 32067,32068,Kevlar Skin,Spain,Active,1998.0,Brutal Death Metal/Grindcore,Genetic engineering,1998-2022,2022
 32068,32069,Khaos Origin,Spain,Active,2010.0,Melodic Death/Thrash Metal,Insanity,2010-2022,2022
-32069,32070,Kharma,Venezuela,Active,2007.0,Death/Thrash Metal,Corruption,2007-2022,2022
+32069,32070,Kharma,Venezuela,Active,2007.0,Death/Thrash Metal| Grindcore,Corruption,2007-2022,2022
 32072,32073,Khrysaor,Cyprus,Active,2014.0,Symphonic/Melodic Death Metal,Corruption,2014-2022,2022
 32075,32076,Kilfast,United States,Active,2001.0,Groove/Thrash/Death Metal,Relationships,2001-2022,2022
 32079,32080,Kill for Satan,Australia,Active,2002.0,Death/Thrash/Black Metal,Death,2002-2022,2022
@@ -10374,13 +10372,13 @@
 32846,32847,Necrotroph,United States,Active,2007.0,Melodic/Technical Death Metal,Philosophy,2007-2022,2022
 32851,32852,Nefastis,Italy,Active,2008.0,Melodic Death/Thrash Metal,Internal Struggles,2008-2022,2022
 32852,32853,Nefilim,United Kingdom,Split-up,1992.0,Industrial Death/Gothic Metal,Spiritualism,1992-1996,1996
-32856,32857,Nekro Drunkz,United States,Active,2007.0,Death/Thrash Metal,Sex,2007-2022,2022
+32856,32857,Nekro Drunkz,United States,Active,2007.0,Death/Thrash Metal| Grindcore,Sex,2007-2022,2022
 32857,32858,Nekrodelirium,Norway,Active,2011.0,Melodic Black/Death Metal,Death,2011-2022,2022
 32858,32859,NekroDrako,United Kingdom,Active,2004.0,Industrial Death/Black Metal,Misanthropy,2004-2022,2022
 32859,32860,Nekrogoblikon,United States,Active,2006.0,Melodic Death/Folk Metal,Goblins,2006-2022,2022
 32860,32861,Nekrokraft,Sweden,Active,2012.0,Black/Thrash/Death Metal,Folklore,2012-2022,2022
 32862,32863,Nekropol,Estonia,Split-up,1989.0,Black/Death/Doom Metal,Funerals,1989-1998,1998
-32863,32864,Nekroskop,Sweden,Split-up,2012.0,Death/Black Metal,Death,2012-2014,2014
+32863,32864,Nekroskop,Sweden,Split-up,2012.0,Death/Black Metal| Crust,Death,2012-2014,2014
 32868,32869,Nemessis,Colombia,Active,2007.0,Technical Death Metal/Deathcore,Politics,2007-2022,2022
 32873,32874,Neonatal Death,United Kingdom,Active,2007.0,Brutal Death Metal/Grindcore,Gore,2007-2022,2022
 32874,32875,Neperia,Greece,Active,2009.0,Symphonic/Melodic Death Metal,The abyss of a human mind,2009-2022,2022
@@ -10476,7 +10474,7 @@
 33126,33127,One We Created,United States,Active,2011.0,Technical Death Metal/Deathcore,Suffering,2011-2022,2022
 33130,33131,Only a Shadow Remains,United States,Active,2009.0,Death/Thrash/Black Metal,Politics,2009-2022,2022
 33134,33135,Onward to Olympas,United States,Split-up,2006.0,Melodic Death Metal/Metalcore,Christianity,2006-2013,2013
-33137,33138,Opeth,Sweden,Active,1990.0,Progressive Death Metal,Nature,1990-2022,2022
+33137,33138,Opeth,Sweden,Active,1990.0,Progressive Death Metal| Progressive Rock,Nature,1990-2022,2022
 33140,33141,Ophiuchus,United States,Active,2008.0,Black/Death/Thrash Metal,Satan,2008-2022,2022
 33147,33148,Oracle of Fire,United States,Active,2009.0,Symphonic Death/Black Metal,Human issues,2009-2022,2022
 33150,33151,Orbit Culture,Sweden,Active,2013.0,Melodic Death/Groove Metal,Science,2013-2022,2022
@@ -10497,12 +10495,12 @@
 33235,33236,Paradigmshftr,United States,Split-up,2006.0,Death/Doom/Industrial Metal,Anarchism,2006-2008,2008
 33240,33241,Parasitic Extirpation,United States,Active,2007.0,Technical/Brutal Death Metal,Death,2007-2022,2022
 33242,33243,Parasomnia,United States,Split-up,2009.0,Technical Death Metal/Deathcore,Aliens,2009-2012,2012
-33245,33246,Parricide,Poland,Split-up,1990.0,Death Metal ,Society,1990-2015,2015
+33245,33246,Parricide,Poland,Split-up,1990.0,Death Metal (early)| Grindcore (later),Society,1990-2015,2015
 33246,33247,Path of Destiny,Germany,Active,2007.0,Symphonic Death/Black Metal,Depths of human nature,2007-2022,2022
 33247,33248,Path of Golconda,Germany,Split-up,1999.0,Melodic Death/Black Metal,Apocalypse,1999-2016,2016
 33248,33249,Path of Sin,Austria,Active,2005.0,Melodic Death Metal/Metalcore,Death,2005-2022,2022
 33252,33253,Path to War,United States,Split-up,2006.0,Melodic Death/Thrash Metal,Death,2006-2008,2008
-33258,33259,Patties Pancake Posse,United States,Split-up,2001.0,Death/Thrash Metal,Humor,2001-2003,2003
+33258,33259,Patties Pancake Posse,United States,Split-up,2001.0,Death/Thrash Metal| Grindcore,Humor,2001-2003,2003
 33263,33264,Pencil Lead Syringe,United States,On hold,2005.0,Brutal Death Metal/Grindcore,Sex,2005-2022,2022
 33265,33266,Penetration,United States,Active,1998.0,Death/Thrash/Black Metal,Chaos,1998-2022,2022
 33270,33271,Perfecitizen,Czech Republic,Active,2011.0,Brutal Death Metal/Grindcore,Slavery,2011-2022,2022
@@ -10521,7 +10519,7 @@
 33297,33298,Phantom Pain,Finland,Active,2004.0,Melodic Death Metal/Metalcore,Aggression,2004-2022,2022
 33298,33299,Phelgathon,Chile,Active,2008.0,Symphonic Black/Death Metal,Satanism,2008-2022,2022
 33300,33301,Philosopher,Hungary,Split-up,2007.0,Progressive/Technical Death Metal,Philosophy,2007-2012,2012
-33302,33303,Phlegm Thrower,Philippines,Active,2006.0,Death Metal ,Gore,2006-2022,2022
+33302,33303,Phlegm Thrower,Philippines,Active,2006.0,Death Metal (early)| Goregrind (later),Gore,2006-2022,2022
 33307,33308,Pictured,France,Active,2007.0,Melodic Heavy/Thrash/Death Metal,History,2007-2022,2022
 33309,33310,Pictures of Pain,Norway,Active,2004.0,Melodic Death/Progressive Metal,Death,2004-2022,2022
 33310,33311,Pig Rectum,United States,Split-up,2010.0,Brutal Death Metal/Grindcore,Violence,2010-2013,2013
@@ -10718,7 +10716,7 @@
 33867,33868,Secretpath,Italy,Active,2008.0,Melodic Black/Death Metal,Internal Struggles,2008-2022,2022
 33874,33875,Sedulity,United States,Split-up,2009.0,Progressive Thrash/Death Metal,Spiritual/Personal,2009-2013,2013
 33875,33876,Seecrees,Russia,Active,2010.0,Industrial/Melodic Death Metal,Life,2010-2022,2022
-33878,33879,Seeds in Barren Fields,Sweden,Active,2007.0,Black/Death Metal,Anarchism,2007-2022,2022
+33878,33879,Seeds in Barren Fields,Sweden,Active,2007.0,Black/Death Metal| Crust,Anarchism,2007-2022,2022
 33879,33880,Segør,Armenia,Active,2008.0,Melodic Black/Death Metal,Christianity,2008-2022,2022
 33880,33881,Seidr,United States,Active,2009.0,Atmospheric Doom/Death Metal,Nature,2009-2022,2022
 33885,33886,Self Collapse,Canada,Split-up,2007.0,Technical Death Metal/Deathcore,Psychology,2007-2013,2013
@@ -10782,7 +10780,7 @@
 34103,34104,Skin Drone,United States,Active,2013.0,Technical/Industrial Death Metal,Occultism,2013-2022,2022
 34106,34107,Skitarg,Sweden,Active,2005.0,Thrash/Black/Death Metal,Anything humorous,2005-2022,2022
 34107,34108,Sklepmaster,Czech Republic,Active,2007.0,Melodic Death/Thrash Metal,War,2007-2022,2022
-34111,34112,Skull Incision,United States,Active,2007.0,Death/Sludge Metal,Hate,2007-2022,2022
+34111,34112,Skull Incision,United States,Active,2007.0,Death/Sludge Metal| Grindcore,Hate,2007-2022,2022
 34115,34116,Skulls of the Earth,Portugal,Active,2006.0,Symphonic Black/Death Metal,Horror Movies,2006-2022,2022
 34116,34117,Skydancer,Spain,Active,2005.0,Melodic Death/Thrash Metal,Darkness,2005-2022,2022
 34117,34118,Skyfire,Sweden,Active,1995.0,Melodic Death/Progressive/Power Metal,Depression,1995-2022,2022
@@ -10852,7 +10850,7 @@
 34310,34311,Ston'd,India,Active,2006.0,Melodic Death Metal/Metalcore,Political Themes,2006-2022,2022
 34314,34315,Stoned God,Germany,Active,2013.0,Progressive/Death/Groove Metal,Society,2013-2022,2022
 34316,34317,Storm,Macedonia,Split-up,2005.0,Symphonic Black/Death Metal,War,2005-2009,2009
-34323,34324,Stresslord,United States,Active,2003.0,Death/Thrash Metal,Mankind,2003-2022,2022
+34323,34324,Stresslord,United States,Active,2003.0,Death/Thrash Metal| Hardcore,Mankind,2003-2022,2022
 34324,34325,Strict Vincent,Australia,Active,1999.0,Melodic Death Metal/Mathcore,Individuality,1999-2022,2022
 34329,34330,Structured to Collapse,United States,Split-up,2007.0,Technical Death Metal/Hardcore,Death,2007-2012,2012
 34333,34334,Strykjärn,Sweden,Active,2007.0,Metalcore/Death/Thrash Metal,Social injustice,2007-2022,2022
@@ -10920,7 +10918,7 @@
 34501,34502,Terrorama,Sweden,Active,2001.0,Death/Thrash/Black Metal,Anti-Religion,2001-2022,2022
 34503,34504,Terrorist,Argentina,Active,1992.0,Grindcore/Brutal Death Metal,Violence,1992-2022,2022
 34505,34506,Tessitura,Canada,Active,2008.0,Melodic Death Metal/Metalcore,Battle,2008-2022,2022
-34507,34508,Tetragrammacide,India,Active,2012.0,Black/Death Metal,Chaos,2012-2022,2022
+34507,34508,Tetragrammacide,India,Active,2012.0,Black/Death Metal| Noise,Chaos,2012-2022,2022
 34509,34510,Thaclthi,Italy,Active,2012.0,Black/Death/Doom Metal,Prophecies,2012-2022,2022
 34512,34513,Thamuzifer,Mexico,Active,2005.0,Melodic Black/Death Metal,Satanism,2005-2022,2022
 34514,34515,The Abodox,United States,Active,1998.0,Technical Death Metal/Grindcore,Nonsense,1998-2022,2022
@@ -10975,7 +10973,7 @@
 34660,34661,The Leviathan,United Kingdom,Active,2011.0,Progressive Black/Death Metal,Sci-fi Movies,2011-2022,2022
 34661,34662,The Leviathan's Mandible,United States,Split-up,2004.0,Experimental Death Metal/Grindcore,Personal Struggles,2004-2012,2012
 34664,34665,The Ludovico Technique,United States,Split-up,2003.0,Melodic Death Metal/Grindcore,Instrumental,2003-2009,2009
-34667,34668,The Marion Crane Murder,United States,Active,2006.0,Crossover,Murder,2006-2022,2022
+34667,34668,The Marion Crane Murder,United States,Active,2006.0,Crossover| Death Metal| Metalcore,Murder,2006-2022,2022
 34673,34674,The Morning Star,Hungary,Active,2006.0,Progressive/Death/Thrash Metal,Mythology,2006-2022,2022
 34677,34678,The Nephilim Terror,United States,Active,2009.0,Melodic Death/Black Metal,Sci-fi horror,2009-2022,2022
 34678,34679,The Nihilist,Australia,Active,2010.0,Melodic Death/Doom Metal,Depression,2010-2022,2022
@@ -11061,7 +11059,7 @@
 34923,34924,Tropic of Invocation,Chile,Active,2011.0,Black/Death/Heavy Metal,Anti-religious,2011-2022,2022
 34926,34927,True Story,Bulgaria,Active,2013.0,Melodic Death Metal/Metalcore,Social criticism,2013-2022,2022
 34928,34929,Truth,Australia,Split-up,2003.0,Melodic/Progressive Death Metal,Life,2003-2008,2008
-34932,34933,Turbocharged,Sweden,Active,2000.0,Death/Thrash Metal,Anti-religion,2000-2022,2022
+34932,34933,Turbocharged,Sweden,Active,2000.0,Death/Thrash Metal| Punk,Anti-religion,2000-2022,2022
 34933,34934,Turning of the Gears,United States,On hold,1993.0,Industrial Death/Doom Metal,Life,1993-2022,2022
 34937,34938,Twilight's Embrace,United Kingdom,Active,2009.0,Gothic/Doom/Death Metal,Longing,2009-2022,2022
 34945,34946,Tyrannicide,Canada,Active,2008.0,Death/Groove/Thrash Metal,Political Issues,2008-2022,2022
@@ -11211,7 +11209,7 @@
 35368,35369,Xenos,Australia,Active,2006.0,Grindcore/Thrash/Death Metal,Society,2006-2022,2022
 35379,35380,XVI Eyes,Canada,Active,2007.0,Melodic Death/Sludge Metal,Political,2007-2022,2022
 35381,35382,Yarr,Germany,Active,2013.0,Folk/Black/Death Metal,Beer,2013-2022,2022
-35383,35384,Yesod,United States,Active,2014.0,Death Metal/Grindcore,Occult,2014-2022,2022
+35383,35384,Yesod,United States,Active,2014.0,Death Metal/Grindcore| Noise,Occult,2014-2022,2022
 35391,35392,Your Chance to Die,United States,Active,2007.0,Melodic Death Metal/Metalcore,Christianity,2007-2022,2022
 35393,35394,Ysengrin,France,Active,2005.0,Doom/Black/Death Metal,Hermetism,2005-2022,2022
 35395,35396,Yun-Fat,Brazil,Active,2004.0,Death Metal/Grindcore/Bossa Nova,Love,2004-2022,2022
@@ -11247,199 +11245,199 @@
 35454,35455,Путь Солнца,Russia,Active,2006.0,Pagan Thrash/Death Metal,Paganism,2006-2022,2022
 35455,35456,Родогор,Russia,Split-up,2005.0,Pagan Death/Black Metal,Paganism,2005-2008,2008
 35459,35460,Шумовая Экзекуция,Kazakhstan,Active,2006.0,Brutal Death Metal/Goregrind,Gore,2006-2022,2022
-35471,35472,Semen Across Lips,United States,Split-up,2004.0,Death Metal/Grindcore ,Satire,2004-2007,2007
-35473,35474,Shambles,Thailand,Active,1997.0,Brutal Death Metal/Grindcore ,Blasphemy,1997-2022,2022
-35474,35475,Valdur,United States,Active,1999.0,Black/Death Metal ,Paganism,1999-2022,2022
+35471,35472,Semen Across Lips,United States,Split-up,2004.0,Death Metal/Grindcore (early)| Experimental Black Metal/Death Metal (later),Satire,2004-2007,2007
+35473,35474,Shambles,Thailand,Active,1997.0,Brutal Death Metal/Grindcore (early)| Black Metal (middle)| Death Metal (later),Blasphemy,1997-2022,2022
+35474,35475,Valdur,United States,Active,1999.0,Black/Death Metal (early)| Black Metal (middle)| Death Metal (later),Paganism,1999-2022,2022
 35477,35478,Abused,Sweden,Split-up,2001.0,Thrash Metal with Death Metal/Death 'n' Roll influences,Violence,2001-2008,2008
-35478,35479,Acheode,Italy,On hold,2007.0,Melodic Death Metal/Metalcore ,Personal experiences,2007-2014,2014
-35479,35480,Act of God,Russia,Active,1996.0,Melodic Black/Death Metal ,Anti-Christianity,1996-2022,2022
-35481,35482,Agiel,United States,Active,1997.0,Brutal Death Metal/Grindcore ,Darkness,1997-2022,2022
-35483,35484,Alien Autopsy,Ukraine,On hold,2006.0,Death Metal ,Aliens,2006-2014,2014
-35484,35485,Alienation Mental,Czech Republic,Split-up,1996.0,Technical Brutal Death Metal ,Gore,1996-2011,2011
-35486,35487,Aposthate,Italy,Active,2004.0,Black/Death Metal ,Satanic,2004-2022,2022
-35489,35490,Artifact of Skulls,United States,Active,2015.0,Death Metal ,Death,2015-2022,2022
-35491,35492,Asylium,Sweden,Active,2003.0,Death/Thrash Metal ,Apocalypse,2003-2022,2022
-35495,35496,Avatar,Romania,Active,1994.0,Progressive Death/Black Metal ,Death,1994-2022,2022
-35496,35497,Barbarity,Russia,Active,2002.0,Brutal Death Metal ,Murder,2002-2022,2022
-35497,35498,Belligerence,Czech Republic,Active,2004.0,Melodic Black/Death Metal ,Negativeness of Society,2004-2022,2022
-35499,35500,Blacksunrise,Portugal,Split-up,2002.0,Death Metal/Metalcore ,Cruelty towards animals,2002-2011,2011
-35500,35501,Blessings of Ruin,United States,Active,2004.0,Experimental Death Metal ,Death,2004-2022,2022
-35502,35503,Bloodshot Dawn,United Kingdom,Active,2003.0,Melodic Death/Thrash Metal ,Violence,2003-2022,2022
-35503,35504,Braindead,Poland,Active,1998.0,Thrash/Death Metal ,Hate,1998-2022,2022
-35504,35505,By Brute Force,Germany,Active,2001.0,Blackened Death Metal ,Death,2001-2022,2022
-35505,35506,Cadacross,Finland,Split-up,1997.0,Death Metal ,Mythical,1997-2006,2006
-35506,35507,Cadaveric Infection,Brazil,Active,2009.0,Brutal Death Metal ,Carnage,2009-2022,2022
-35507,35508,Carnal Gore,Italy,Active,2005.0,Industrial Death/Thrash Metal ,Gore,2005-2022,2022
-35508,35509,Catastrophe,Indonesia,Active,2008.0,Brutal Death Metal ,Society,2008-2022,2022
-35510,35511,Covet Chaos,United Kingdom,Split-up,2007.0,Thrash/Death Metal ,Political,2007-2010,2010
-35511,35512,Crionics,Poland,Split-up,1997.0,Melodic Black/Death Metal ,Anti-Religion,1997-2011,2011
-35513,35514,Cross My Blessed Hands,Suriname,Active,2004.0,Death Metal/Hardcore ,Phobia,2004-2022,2022
-35519,35520,Darkening,Cuba,Active,2003.0,Death/Black Metal ,Darkness,2003-2022,2022
-35520,35521,Deadly Remains,United States,Active,2005.0,Death/Thrash Metal ,Death,2005-2022,2022
-35523,35524,Deathonator,Russia,Active,1989.0,Death Metal ,Philosophy,1989-2022,2022
-35525,35526,Deceive,United States,Active,2011.0,Death/Thrash Metal ,Death,2011-2022,2022
-35526,35527,Decrepit,United States,Split-up,1991.0,Death Metal ,Grief,1991-2009,2009
-35529,35530,Definition Sane,Ukraine,On hold,2001.0,Blackened Death Metal ,Death,2001-2010,2010
-35531,35532,Demoniciduth,Switzerland,Active,1998.0,Thrash/Death Metal ,Christianity,1998-2022,2022
-35532,35533,Depresy,Slovakia,Active,1991.0,Death Metal ,Life and Death,1991-2022,2022
-35534,35535,Desolate,Bulgaria,Split-up,1992.0,Death Metal ,Space,1992-2001,2001
-35535,35536,Destroyer Attack,Ecuador,Active,2011.0,Thrash/Death Metal ,Violence,2011-2022,2022
-35536,35537,Dethera,Finland,Split-up,2004.0,Melodic Death Metal ,Alcohol,2004-2011,2011
-35543,35544,Dreft,Belgium,Split-up,1986.0,Grindcore ,Gore,1986-1993,1993
-35544,35545,Dusk of Eternity,Ukraine,Split-up,2001.0,Doom/Death Metal ,Blasphemy,2001-2013,2013
-35545,35546,Dysanchely,Slovakia,Active,1995.0,Atmospheric Doom/Death Metal ,Philosophy,1995-2022,2022
-35548,35549,Ekpyrosis,Italy,Active,2013.0,Black/Death Metal ,Death,2013-2022,2022
-35549,35550,Empty Grace,Brazil,Active,2001.0,Death/Black Metal ,Obscurity,2001-2022,2022
-35553,35554,Face of Ruin,United States,Split-up,2005.0,Progressive Death Metal/Metalcore ,Apocalypse,2005-2012,2012
-35556,35557,Formaldehyde,Portugal,Split-up,2001.0,Death/Thrash Metal ,Personal issues,2001-2010,2010
-35558,35559,Gathering Darkness,Spain,Active,1998.0,Death/Doom Metal ,Death,1998-2022,2022
-35559,35560,Genital Putrefaction,Poland,Active,1989.0,Death Metal/Grindcore ,Depression,1989-2022,2022
-35560,35561,Growing Hate,Colombia,Active,2003.0,Death/Black Metal ,Sickness,2003-2022,2022
-35566,35567,Illdisposed,Denmark,Active,1991.0,Death Metal ,Metal,1991-2022,2022
-35567,35568,Imperial Foeticide,Czech Republic,Active,1994.0,Death Metal/Grindcore ,Nature,1994-2022,2022
-35570,35571,Inevitable End,Sweden,Active,2003.0,Thrash/Death Metal ,Christianity,2003-2022,2022
-35573,35574,Insatanity,United States,Active,1992.0,Death Metal ,Anti-Christianity (early),1992-2022,2022
-35576,35577,Into Darkness,Italy,On hold,2011.0,Death/Doom Metal ,Astronomy,2011-2014,2014
-35578,35579,Job for a Cowboy,United States,Active,2003.0,Deathcore/Death Metal ,Death,2003-2022,2022
-35579,35580,Justabeli,Brazil,Active,2001.0,Death Metal ,War,2001-2022,2022
-35580,35581,Kaotik,Canada,Active,2007.0,Thrash/Death Metal ,Zombies (early),2007-2022,2022
-35581,35582,Karandash,Sweden,Active,1991.0,Death Metal ,Humour,1991-2022,2022
-35582,35583,Korupture,United States,Active,2006.0,Death/Thrash Metal ,Fantasy,2006-2022,2022
-35587,35588,Masque of Innocence,Portugal,Active,1997.0,Doom/Death/Gothic Metal ,Darkness,1997-2022,2022
-35588,35589,Mastifal,Argentina,Split-up,1995.0,Thrash/Death Metal ,Social Denounce,1995-2016,2016
-35590,35591,Moonfog,Slovakia,Active,2000.0,Thrash/Death Metal ,Death,2000-2022,2022
-35591,35592,Morgon,France,Active,2006.0,Death/Doom/Black Metal ,Occult,2006-2022,2022
-35592,35593,Mortal Plague,United States,Active,2009.0,Melodic Death Metal ,Misanthropy,2009-2022,2022
-35593,35594,Moulded Flesh,Poland,Active,2000.0,Death Metal/Grindcore ,Violence,2000-2022,2022
-35595,35596,My Own Grave,Sweden,Active,2001.0,Thrash/Death Metal ,Darkness,2001-2022,2022
-35596,35597,My Shameful,Finland,Split-up,1999.0,Doom/Death Metal ,Sorrow,1999-2015,2015
-35598,35599,Necroblaspheme,France,Active,2001.0,Death Metal ,Gore Themes,2001-2022,2022
-35600,35601,Nibirus,France,Active,2006.0,Black/Death Metal ,Apocalypse / Anunnakies,2006-2022,2022
-35602,35603,No One Gets Out Alive,Germany,Active,2008.0,Brutal Death Metal ,Animal Rights,2008-2022,2022
-35604,35605,Nonsense Premonition,Colombia,Active,2004.0,Death Metal/Hardcore ,Injustice,2004-2022,2022
-35607,35608,Old Legend,Italy,Active,2005.0,Death Metal ,Death,2005-2012,2012
-35608,35609,Over Your Threshold,Germany,Active,2006.0,Death/Thrash Metal ,Life,2006-2022,2022
-35609,35610,Overthrowing,Colombia,Active,2002.0,Black/Death Metal ,Chaos,2002-2022,2022
-35613,35614,Postumo Lumbre,Chile,Active,2005.0,Doom/Death Metal ,Sadness,2005-2022,2022
-35614,35615,Prophecy of Doom,United Kingdom,Split-up,1988.0,Death Metal/Grindcore ,Philosophy,1988-1996,1996
-35615,35616,Putredine,Italy,Split-up,1997.0,Death Metal ,Horror,1997-2004,2004
-35616,35617,Pyrexia,United States,Active,1990.0,Brutal Death Metal ,Blasphemy,1990-2022,2022
-35619,35620,Requital,Ukraine,Active,2003.0,Death Metal/Grindcore ,Hell,2003-2022,2022
-35621,35622,Sabaoth,Indonesia,Active,2005.0,Death Metal/Grindcore ,Social,2005-2022,2022
-35622,35623,Sadistic Domain,Colombia,Active,2012.0,Death/Thrash Metal ,Death,2012-2022,2022
-35623,35624,Salvation,Canada,Split-up,2006.0,Death/Thrash Metal ,Society,2006-2011,2011
-35624,35625,Sanctifica,Sweden,Split-up,1996.0,Melodic Black/Death Metal ,Grief,1996-2002,2002
-35625,35626,Santería,Bolivia,Active,2005.0,Melodic Black/Death Metal ,Destruction,2005-2022,2022
-35626,35627,Sartan,Argentina,Split-up,1991.0,Brutal Death Metal ,Gore (First Demo),1991-1995,1995
-35636,35637,Skeleton of God,United States,Active,1993.0,Death Metal/Grindcore ,Death,1993-2022,2022
-35637,35638,Skymning,Sweden,On hold,1996.0,Melodic Power/Death Metal ,Anti-religion,1996-2013,2013
-35639,35640,Sodoma,Brazil,Active,2003.0,Death/Thrash Metal ,Anti-Christianity,2003-2022,2022
-35644,35645,Submerged in Dirt,United States,Active,2005.0,Death/Thrash Metal ,Sci-fi,2005-2022,2022
-35645,35646,Tacit Fury,Russia,Active,2001.0,Symphonic Doom/Death Metal ,Pain,2001-2022,2022
-35648,35649,The Soul Exile,Finland,Active,2003.0,Death/Thrash Metal ,Dystopia,2003-2022,2022
-35650,35651,The Wretched End,Norway,Active,2008.0,Death/Thrash Metal ,Apocalypse,2008-2022,2022
-35651,35652,Thelema,Belarus,Active,2003.0,Black/Death Metal ,Religion,2003-2022,2022
-35653,35654,Throbbing Pain,Germany,Active,2008.0,Groove Death/Thrash Metal ,Social Criticism,2008-2022,2022
-35654,35655,Thy Disease,Poland,Active,1999.0,Death/Black Metal ,Future,1999-2022,2022
-35656,35657,Total Death,Ecuador,Active,1991.0,Black/Death Metal ,Hate,1991-2022,2022
-35657,35658,Ulthrash,Spain,Active,1990.0,Death/Thrash Metal ,Death,1990-2022,2022
-35658,35659,Unlit Face,Sweden,Active,2009.0,Melodic Death Metal ,Life,2009-2022,2022
-35659,35660,Unmourned,Slovakia,Active,2008.0,Black/Death Metal ,Society,2008-2022,2022
-35661,35662,Vale of Tears,Hungary,Active,1997.0,Gothic/Death Metal ,Humanity,1997-2022,2022
-35662,35663,Vex,United States,Active,1998.0,Death/Thrash Metal ,Longing,1998-2022,2022
-35663,35664,Victimario,Argentina,Active,2012.0,Death/Thrash Metal ,Murderers,2012-2022,2022
-35664,35665,Vitam et Mortem,Colombia,Active,2002.0,Death/Folk Metal ,Death,2002-2022,2022
-35670,35671,Ê,France,Active,2010.0,Brutal Death Metal ,Middle-Eastern/Sumerian/Persian History,2010-2022,2022
-35673,35674,Aeternus,Norway,Active,1993.0,Black Metal ,Anti-Christianity,1993-2022,2022
-35675,35676,Amputation Spree,United States,Active,2010.0,Brutal Death Metal ,Esoteric,2010-2022,2022
+35478,35479,Acheode,Italy,On hold,2007.0,Melodic Death Metal/Metalcore (early)| Technical Death Metal/Deathcore (later),Personal experiences,2007-2014,2014
+35479,35480,Act of God,Russia,Active,1996.0,Melodic Black/Death Metal (early)| Brutal Death Metal (later),Anti-Christianity,1996-2022,2022
+35481,35482,Agiel,United States,Active,1997.0,Brutal Death Metal/Grindcore (early)| Symphonic Death/Black Metal (later),Darkness,1997-2022,2022
+35483,35484,Alien Autopsy,Ukraine,On hold,2006.0,Death Metal (early)| Death/Groove Metal/Metalcore (later),Aliens,2006-2014,2014
+35484,35485,Alienation Mental,Czech Republic,Split-up,1996.0,Technical Brutal Death Metal (early)| Death/Groove Metal/Grindcore (later),Gore,1996-2011,2011
+35486,35487,Aposthate,Italy,Active,2004.0,Black/Death Metal (Early)| Brutal Death Metal (Later),Satanic,2004-2022,2022
+35489,35490,Artifact of Skulls,United States,Active,2015.0,Death Metal (early)| Black/Death Metal (later),Death,2015-2022,2022
+35491,35492,Asylium,Sweden,Active,2003.0,Death/Thrash Metal (early)| Death Metal (later),Apocalypse,2003-2022,2022
+35495,35496,Avatar,Romania,Active,1994.0,Progressive Death/Black Metal (early)| Melodic Death Metal/Metalcore (later),Death,1994-2022,2022
+35496,35497,Barbarity,Russia,Active,2002.0,Brutal Death Metal (early)| Death Metal/Grindcore (later),Murder,2002-2022,2022
+35497,35498,Belligerence,Czech Republic,Active,2004.0,Melodic Black/Death Metal (early)| Atmospheric Death Metal (later),Negativeness of Society,2004-2022,2022
+35499,35500,Blacksunrise,Portugal,Split-up,2002.0,Death Metal/Metalcore (early)| Melodic Death Metal (later),Cruelty towards animals,2002-2011,2011
+35500,35501,Blessings of Ruin,United States,Active,2004.0,Experimental Death Metal (early)| Technical Melodic Death Metal (later),Death,2004-2022,2022
+35502,35503,Bloodshot Dawn,United Kingdom,Active,2003.0,Melodic Death/Thrash Metal (early)| Technical Death Metal (later),Violence,2003-2022,2022
+35503,35504,Braindead,Poland,Active,1998.0,Thrash/Death Metal (early)| Death Metal (later),Hate,1998-2022,2022
+35504,35505,By Brute Force,Germany,Active,2001.0,Blackened Death Metal (early)| Brutal Death Metal/Grindcore (later),Death,2001-2022,2022
+35505,35506,Cadacross,Finland,Split-up,1997.0,Death Metal (early)| Melodic Death/Folk/Power Metal (later),Mythical,1997-2006,2006
+35506,35507,Cadaveric Infection,Brazil,Active,2009.0,Brutal Death Metal (early)| Black/Death Metal (later),Carnage,2009-2022,2022
+35507,35508,Carnal Gore,Italy,Active,2005.0,Industrial Death/Thrash Metal (early)| Brutal Death Metal (later),Gore,2005-2022,2022
+35508,35509,Catastrophe,Indonesia,Active,2008.0,Brutal Death Metal (early)| Death/Thrash Metal (later),Society,2008-2022,2022
+35510,35511,Covet Chaos,United Kingdom,Split-up,2007.0,Thrash/Death Metal (early)| Sludge/Death Metal (later),Political,2007-2010,2010
+35511,35512,Crionics,Poland,Split-up,1997.0,Melodic Black/Death Metal (early)| Death/Black Metal (later),Anti-Religion,1997-2011,2011
+35513,35514,Cross My Blessed Hands,Suriname,Active,2004.0,Death Metal/Hardcore (early)| Death/Thrash Metal (later),Phobia,2004-2022,2022
+35519,35520,Darkening,Cuba,Active,2003.0,Death/Black Metal (early)| Death/Groove Metal,Darkness,2003-2022,2022
+35520,35521,Deadly Remains,United States,Active,2005.0,Death/Thrash Metal (early)| Brutal Death Metal (2012-),Death,2005-2022,2022
+35523,35524,Deathonator,Russia,Active,1989.0,Death Metal (early)| Gothic/Melodic Death Metal (later),Philosophy,1989-2022,2022
+35525,35526,Deceive,United States,Active,2011.0,Death/Thrash Metal (early)| Death/Black Metal (later),Death,2011-2022,2022
+35526,35527,Decrepit,United States,Split-up,1991.0,Death Metal (early)| Black/Death Metal (later),Grief,1991-2009,2009
+35529,35530,Definition Sane,Ukraine,On hold,2001.0,Blackened Death Metal (early)| Brutal Death Metal/Grindcore (later),Death,2001-2010,2010
+35531,35532,Demoniciduth,Switzerland,Active,1998.0,Thrash/Death Metal (early)| Death/Black Metal (later),Christianity,1998-2022,2022
+35532,35533,Depresy,Slovakia,Active,1991.0,Death Metal (early)| Symphonic Black/Death Metal (later),Life and Death,1991-2022,2022
+35534,35535,Desolate,Bulgaria,Split-up,1992.0,Death Metal (early)| Melodic Death/Black Metal (later),Space,1992-2001,2001
+35535,35536,Destroyer Attack,Ecuador,Active,2011.0,Thrash/Death Metal (early)| Black/Death Metal (later),Violence,2011-2022,2022
+35536,35537,Dethera,Finland,Split-up,2004.0,Melodic Death Metal (early) Alternative/Progressive Death/Thrash Metal (later),Alcohol,2004-2011,2011
+35543,35544,Dreft,Belgium,Split-up,1986.0,Grindcore (early)| Death Metal (mid)| Doom/Death Metal (later),Gore,1986-1993,1993
+35544,35545,Dusk of Eternity,Ukraine,Split-up,2001.0,Doom/Death Metal (early)| Death/Black Metal (later),Blasphemy,2001-2013,2013
+35545,35546,Dysanchely,Slovakia,Active,1995.0,Atmospheric Doom/Death Metal (early) Melodic Death Metal (later),Philosophy,1995-2022,2022
+35548,35549,Ekpyrosis,Italy,Active,2013.0,Black/Death Metal (early) Death Metal (later),Death,2013-2022,2022
+35549,35550,Empty Grace,Brazil,Active,2001.0,Death/Black Metal (early)| Death Metal (later),Obscurity,2001-2022,2022
+35553,35554,Face of Ruin,United States,Split-up,2005.0,Progressive Death Metal/Metalcore (early)| Death Metal (later),Apocalypse,2005-2012,2012
+35556,35557,Formaldehyde,Portugal,Split-up,2001.0,Death/Thrash Metal (early) - Death Metal (later),Personal issues,2001-2010,2010
+35558,35559,Gathering Darkness,Spain,Active,1998.0,Death/Doom Metal (early)| Brutal Death Metal (later),Death,1998-2022,2022
+35559,35560,Genital Putrefaction,Poland,Active,1989.0,Death Metal/Grindcore (early)| Death Metal (later),Depression,1989-2022,2022
+35560,35561,Growing Hate,Colombia,Active,2003.0,Death/Black Metal (early)| Death Metal/Grindcore (later),Sickness,2003-2022,2022
+35566,35567,Illdisposed,Denmark,Active,1991.0,Death Metal (early)| Melodic Death/Groove Metal (later),Metal,1991-2022,2022
+35567,35568,Imperial Foeticide,Czech Republic,Active,1994.0,Death Metal/Grindcore (early)| Technical Death Metal (later),Nature,1994-2022,2022
+35570,35571,Inevitable End,Sweden,Active,2003.0,Thrash/Death Metal (early)| Death Metal/Grindcore (later),Christianity,2003-2022,2022
+35573,35574,Insatanity,United States,Active,1992.0,Death Metal (early)| Black/Death Metal (later),Anti-Christianity (early),1992-2022,2022
+35576,35577,Into Darkness,Italy,On hold,2011.0,Death/Doom Metal (early) Death Metal (later),Astronomy,2011-2014,2014
+35578,35579,Job for a Cowboy,United States,Active,2003.0,Deathcore/Death Metal (early)| Progressive Death Metal (later),Death,2003-2022,2022
+35579,35580,Justabeli,Brazil,Active,2001.0,Death Metal (early)| Death/Black Metal (later),War,2001-2022,2022
+35580,35581,Kaotik,Canada,Active,2007.0,Thrash/Death Metal (early)| Death Metal (later),Zombies (early),2007-2022,2022
+35581,35582,Karandash,Sweden,Active,1991.0,Death Metal (early)| Hardcore/Death Metal (later),Humour,1991-2022,2022
+35582,35583,Korupture,United States,Active,2006.0,Death/Thrash Metal (early)| Technical Death Metal (later),Fantasy,2006-2022,2022
+35587,35588,Masque of Innocence,Portugal,Active,1997.0,Doom/Death/Gothic Metal (early)| Black/Death Metal (later),Darkness,1997-2022,2022
+35588,35589,Mastifal,Argentina,Split-up,1995.0,Thrash/Death Metal (early)| Melodic Death/Groove Metal (later),Social Denounce,1995-2016,2016
+35590,35591,Moonfog,Slovakia,Active,2000.0,Thrash/Death Metal (early)| Brutal Death Metal (later),Death,2000-2022,2022
+35591,35592,Morgon,France,Active,2006.0,Death/Doom/Black Metal (early)| Death Metal (later),Occult,2006-2022,2022
+35592,35593,Mortal Plague,United States,Active,2009.0,Melodic Death Metal (early)| Symphonic Black/Death Metal (later),Misanthropy,2009-2022,2022
+35593,35594,Moulded Flesh,Poland,Active,2000.0,Death Metal/Grindcore (early)| Death/Thrash Metal (later),Violence,2000-2022,2022
+35595,35596,My Own Grave,Sweden,Active,2001.0,Thrash/Death Metal (early)| Death Metal (later),Darkness,2001-2022,2022
+35596,35597,My Shameful,Finland,Split-up,1999.0,Doom/Death Metal (early)| Funeral Doom/Death Metal (later),Sorrow,1999-2015,2015
+35598,35599,Necroblaspheme,France,Active,2001.0,Death Metal (early)| Atmospheric Death/Black Metal (later),Gore Themes,2001-2022,2022
+35600,35601,Nibirus,France,Active,2006.0,Black/Death Metal (early)| Melodic Death Metal (later),Apocalypse / Anunnakies,2006-2022,2022
+35602,35603,No One Gets Out Alive,Germany,Active,2008.0,Brutal Death Metal (early)| Brutal Death Metal/Bluegrass (later),Animal Rights,2008-2022,2022
+35604,35605,Nonsense Premonition,Colombia,Active,2004.0,Death Metal/Hardcore (early)| Technical Brutal Death Metal (later),Injustice,2004-2022,2022
+35607,35608,Old Legend,Italy,Active,2005.0,Death Metal (early)| Black/Death Metal (later),Death,2005-2012,2012
+35608,35609,Over Your Threshold,Germany,Active,2006.0,Death/Thrash Metal (early)| Progressive Death Metal (later),Life,2006-2022,2022
+35609,35610,Overthrowing,Colombia,Active,2002.0,Black/Death Metal (early)| Death Metal (later),Chaos,2002-2022,2022
+35613,35614,Postumo Lumbre,Chile,Active,2005.0,Doom/Death Metal (early)| Black/Death Metal (later),Sadness,2005-2022,2022
+35614,35615,Prophecy of Doom,United Kingdom,Split-up,1988.0,Death Metal/Grindcore (early)| Doom/Death Metal (later),Philosophy,1988-1996,1996
+35615,35616,Putredine,Italy,Split-up,1997.0,Death Metal (early)| Death Metal/Grindcore (later),Horror,1997-2004,2004
+35616,35617,Pyrexia,United States,Active,1990.0,Brutal Death Metal (early)| Death/Groove Metal (later),Blasphemy,1990-2022,2022
+35619,35620,Requital,Ukraine,Active,2003.0,Death Metal/Grindcore (early)| Death Metal/Metalcore (later),Hell,2003-2022,2022
+35621,35622,Sabaoth,Indonesia,Active,2005.0,Death Metal/Grindcore (early)| Brutal Death Metal (later),Social,2005-2022,2022
+35622,35623,Sadistic Domain,Colombia,Active,2012.0,Death/Thrash Metal (early)| Death/Black Metal (later),Death,2012-2022,2022
+35623,35624,Salvation,Canada,Split-up,2006.0,Death/Thrash Metal (early)| Technical Death Metal (later),Society,2006-2011,2011
+35624,35625,Sanctifica,Sweden,Split-up,1996.0,Melodic Black/Death Metal (early)| Avant-garde Death Metal (later),Grief,1996-2002,2002
+35625,35626,Santería,Bolivia,Active,2005.0,Melodic Black/Death Metal (early)| Technical Death Metal (later),Destruction,2005-2022,2022
+35626,35627,Sartan,Argentina,Split-up,1991.0,Brutal Death Metal (early)| Death/Black Metal (later),Gore (First Demo),1991-1995,1995
+35636,35637,Skeleton of God,United States,Active,1993.0,Death Metal/Grindcore (early)| Psychedelic Death Metal (later),Death,1993-2022,2022
+35637,35638,Skymning,Sweden,On hold,1996.0,Melodic Power/Death Metal (early)| Industrial Death/Black Metal (later),Anti-religion,1996-2013,2013
+35639,35640,Sodoma,Brazil,Active,2003.0,Death/Thrash Metal (early)| Death/Black Metal (later),Anti-Christianity,2003-2022,2022
+35644,35645,Submerged in Dirt,United States,Active,2005.0,Death/Thrash Metal (early)| Death/Black Metal (later),Sci-fi,2005-2022,2022
+35645,35646,Tacit Fury,Russia,Active,2001.0,Symphonic Doom/Death Metal (early)| Death Metal (later),Pain,2001-2022,2022
+35648,35649,The Soul Exile,Finland,Active,2003.0,Death/Thrash Metal (early)| Technical Death Metal (later),Dystopia,2003-2022,2022
+35650,35651,The Wretched End,Norway,Active,2008.0,Death/Thrash Metal (early)| Death/Black Metal (later),Apocalypse,2008-2022,2022
+35651,35652,Thelema,Belarus,Active,2003.0,Black/Death Metal (early)| Technical Death Metal (later),Religion,2003-2022,2022
+35653,35654,Throbbing Pain,Germany,Active,2008.0,Groove Death/Thrash Metal (early)| Death Metal (later),Social Criticism,2008-2022,2022
+35654,35655,Thy Disease,Poland,Active,1999.0,Death/Black Metal (early)| Industrial Death Metal (later),Future,1999-2022,2022
+35656,35657,Total Death,Ecuador,Active,1991.0,Black/Death Metal (early)| Doom/Death Metal (later),Hate,1991-2022,2022
+35657,35658,Ulthrash,Spain,Active,1990.0,Death/Thrash Metal (early)| Death/Black Metal (later),Death,1990-2022,2022
+35658,35659,Unlit Face,Sweden,Active,2009.0,Melodic Death Metal (early)| Progressive/Melodic Death Metal (later),Life,2009-2022,2022
+35659,35660,Unmourned,Slovakia,Active,2008.0,Black/Death Metal (early)| Technical Death Metal (later),Society,2008-2022,2022
+35661,35662,Vale of Tears,Hungary,Active,1997.0,Gothic/Death Metal (early)| Melodic Death Metal (later),Humanity,1997-2022,2022
+35662,35663,Vex,United States,Active,1998.0,Death/Thrash Metal (early)| Progressive/Melodic Death Metal (later),Longing,1998-2022,2022
+35663,35664,Victimario,Argentina,Active,2012.0,Death/Thrash Metal (early)| Brutal Death Metal (later),Murderers,2012-2022,2022
+35664,35665,Vitam et Mortem,Colombia,Active,2002.0,Death/Folk Metal (early)| Death Metal (later),Death,2002-2022,2022
+35670,35671,Ê,France,Active,2010.0,Brutal Death Metal (early)| Death/Doom Metal (later),Middle-Eastern/Sumerian/Persian History,2010-2022,2022
+35673,35674,Aeternus,Norway,Active,1993.0,Black Metal (early)| Death Metal (later),Anti-Christianity,1993-2022,2022
+35675,35676,Amputation Spree,United States,Active,2010.0,Brutal Death Metal (early)| Progressive Metal (later),Esoteric,2010-2022,2022
 35679,35680,Armed,Bulgaria,Active,2005.0,Industrial Metal with Death Metal/Grindcore influences,War,2005-2022,2022
-35680,35681,Arminius,Netherlands,Active,1998.0,Black Metal ,War,1998-2022,2022
-35686,35687,Astimi,Italy,Active,1995.0,Black Metal ,Antireligious,1995-2022,2022
-35689,35690,Azazel,Israel,Active,1995.0,Melodic Black Metal ,Darkness,1995-2022,2022
-35693,35694,Bataan Death March,United States,Active,2005.0,Death Metal/Grindcore,Fantasy,2005-2022,2022
+35680,35681,Arminius,Netherlands,Active,1998.0,Black Metal (early)| Death Metal (later),War,1998-2022,2022
+35686,35687,Astimi,Italy,Active,1995.0,Black Metal (early)| Death Metal (later),Antireligious,1995-2022,2022
+35689,35690,Azazel,Israel,Active,1995.0,Melodic Black Metal (early)| Death Metal (later),Darkness,1995-2022,2022
+35693,35694,Bataan Death March,United States,Active,2005.0,Death Metal/Grindcore| Crossover/Thrash Metal,Fantasy,2005-2022,2022
 35695,35696,Bestia,Estonia,Active,2000.0,Epic Black Metal with Brutal Death Metal Influences,Ancient Times,2000-2022,2022
-35696,35697,Bestial,Russia,Active,1994.0,Black Metal ,Blasphemy,1994-2022,2022
-35701,35702,Bloodthorn,Norway,Active,1992.0,Black Metal ,Darkness,1992-2022,2022
-35703,35704,Bludgeon,United States,Active,1992.0,Thrash Metal ,Anti-Christianity,1992-2022,2022
-35710,35711,Cobi's Death,Serbia,Active,1999.0,Industrial Death Metal/Grindcore,Social & Life Themes,1999-2022,2022
-35712,35713,Comatose Cadaver,Pakistan,Split-up,2003.0,Death Metal ,Gore,2003-2009,2009
-35713,35714,Criminal,Chile,Active,1991.0,Death/Thrash Metal,Death,1991-2022,2022
-35714,35715,Crimson Massacre,United States,Active,2002.0,Black Metal ,Massacre,2002-2022,2022
-35715,35716,Crucificator,Brazil,Active,1989.0,Black Metal ,Occultism,1989-2022,2022
-35719,35720,Decayed Core,Russia,Active,1995.0,Death Metal ,Death,1995-2022,2022
-35722,35723,Demented Ted,United States,Split-up,1986.0,Thrash Metal ,Death,1986-1994,1994
-35723,35724,Demonium,Ukraine,Active,2005.0,Black Metal ,Satan,2005-2022,2022
-35724,35725,Depressor,United States,Active,1992.0,Industrial Metal ,Apocalypse,1992-2022,2022
-35727,35728,Deteriorate,United States,Split-up,1991.0,Death Metal ,Death,1991-1997,1997
-35728,35729,Devastator,Canada,Active,1990.0,Thrash Metal ,Death,1990-2022,2022
-35729,35730,Devilhorn,Finland,On hold,2001.0,Black Metal ,Insanity,2001-2022,2022
-35732,35733,DieVersion,South Africa,Active,1996.0,Death Metal ,Christianity,1996-2022,2022
-35734,35735,Disolvo Animus,Greece,Active,2006.0,Symphonic Black Metal ,The Apocalypse,2006-2022,2022
-35745,35746,Enochian,Czech Republic,Active,1994.0,Death Metal ,Satanism,1994-2022,2022
-35746,35747,Enshadowed Empire,United States,On hold,2000.0,Symphonic Black Metal ,Anti-Religious (old),2000-2022,2022
-35748,35749,Ethereal Tragedy,Mexico,Split-up,2005.0,Gothic Metal ,Society,2005-2012,2012
-35749,35750,Evergreed,Romania,Active,1997.0,Death Metal ,Life,1997-2022,2022
-35755,35756,Forced to Decay,Germany,Split-up,1994.0,Death Metal/Grindcore,Outsiderism,1994-2003,2003
-35758,35759,Full Frontal Assault,United States,Split-up,2000.0,Black Metal ,Aggression,2000-2009,2009
-35760,35761,Genital Grinder,Philippines,Active,1992.0,Death Metal ,Everything,1992-2022,2022
+35696,35697,Bestial,Russia,Active,1994.0,Black Metal (early)| Death Metal (later),Blasphemy,1994-2022,2022
+35701,35702,Bloodthorn,Norway,Active,1992.0,Black Metal (early)| Death Metal (later),Darkness,1992-2022,2022
+35703,35704,Bludgeon,United States,Active,1992.0,Thrash Metal (early)| Death Metal (later),Anti-Christianity,1992-2022,2022
+35710,35711,Cobi's Death,Serbia,Active,1999.0,Industrial Death Metal/Grindcore| Black Metal,Social & Life Themes,1999-2022,2022
+35712,35713,Comatose Cadaver,Pakistan,Split-up,2003.0,Death Metal (early)| Black Metal (later),Gore,2003-2009,2009
+35713,35714,Criminal,Chile,Active,1991.0,Death/Thrash Metal| Groove Metal,Death,1991-2022,2022
+35714,35715,Crimson Massacre,United States,Active,2002.0,Black Metal (early)| Technical Death Metal (later),Massacre,2002-2022,2022
+35715,35716,Crucificator,Brazil,Active,1989.0,Black Metal (early)| Death Metal (later),Occultism,1989-2022,2022
+35719,35720,Decayed Core,Russia,Active,1995.0,Death Metal (early)| Heavy Metal (later),Death,1995-2022,2022
+35722,35723,Demented Ted,United States,Split-up,1986.0,Thrash Metal (early)| Death Metal (later),Death,1986-1994,1994
+35723,35724,Demonium,Ukraine,Active,2005.0,Black Metal (early)| Death Metal (later),Satan,2005-2022,2022
+35724,35725,Depressor,United States,Active,1992.0,Industrial Metal (early)| Death Metal (later),Apocalypse,1992-2022,2022
+35727,35728,Deteriorate,United States,Split-up,1991.0,Death Metal (early)| Black Metal (later),Death,1991-1997,1997
+35728,35729,Devastator,Canada,Active,1990.0,Thrash Metal (early)| Death Metal (later),Death,1990-2022,2022
+35729,35730,Devilhorn,Finland,On hold,2001.0,Black Metal (early)| Death Metal (later),Insanity,2001-2022,2022
+35732,35733,DieVersion,South Africa,Active,1996.0,Death Metal (early)| Groove Metal (later),Christianity,1996-2022,2022
+35734,35735,Disolvo Animus,Greece,Active,2006.0,Symphonic Black Metal (early)| Blackened Death Metal (later),The Apocalypse,2006-2022,2022
+35745,35746,Enochian,Czech Republic,Active,1994.0,Death Metal (early)| Black Metal (later),Satanism,1994-2022,2022
+35746,35747,Enshadowed Empire,United States,On hold,2000.0,Symphonic Black Metal (early)| Blackened Death Metal (later),Anti-Religious (old),2000-2022,2022
+35748,35749,Ethereal Tragedy,Mexico,Split-up,2005.0,Gothic Metal (early)| Melodic Death Metal (later),Society,2005-2012,2012
+35749,35750,Evergreed,Romania,Active,1997.0,Death Metal (early)| Heavy Metal (later),Life,1997-2022,2022
+35755,35756,Forced to Decay,Germany,Split-up,1994.0,Death Metal/Grindcore| Sludge Metal| Alternative Rock,Outsiderism,1994-2003,2003
+35758,35759,Full Frontal Assault,United States,Split-up,2000.0,Black Metal (early) Melodic Death Metal (later),Aggression,2000-2009,2009
+35760,35761,Genital Grinder,Philippines,Active,1992.0,Death Metal (early)| Thrash Metal (later),Everything,1992-2022,2022
 35764,35765,Hadal,Serbia,Active,2013.0,Symphonic/Melodic Death Metal with Folk Metal influences,Time,2013-2022,2022
-35765,35766,Hellbound,Spain,Split-up,1987.0,Thrash Metal ,Murder,1987-1997,1997
-35766,35767,Helliopolis,Switzerland,Active,2008.0,Power Metal ,Dark Fantasy,2008-2022,2022
-35769,35770,Human Target,Germany,Split-up,1996.0,Black Metal ,Death,1996-2002,2002
-35770,35771,Iconoclast,Chile,Active,2010.0,Thrash Metal ,Decadence,2010-2022,2022
-35772,35773,In Battle,Sweden,On hold,1996.0,Black Metal ,Norse Mythology,1996-2008,2008
-35774,35775,In Mourning,Sweden,Active,2000.0,Gothic Metal ,Thoughts,2000-2022,2022
-35779,35780,Infernal Tenebra,Croatia,Active,1999.0,Black Metal ,Darkness,1999-2022,2022
+35765,35766,Hellbound,Spain,Split-up,1987.0,Thrash Metal (early)| Death Metal (later),Murder,1987-1997,1997
+35766,35767,Helliopolis,Switzerland,Active,2008.0,Power Metal (early)| Melodic Death Metal (later),Dark Fantasy,2008-2022,2022
+35769,35770,Human Target,Germany,Split-up,1996.0,Black Metal (early)| Death Metal (later),Death,1996-2002,2002
+35770,35771,Iconoclast,Chile,Active,2010.0,Thrash Metal (early)| Death Metal (later),Decadence,2010-2022,2022
+35772,35773,In Battle,Sweden,On hold,1996.0,Black Metal (early)| Death Metal (later),Norse Mythology,1996-2008,2008
+35774,35775,In Mourning,Sweden,Active,2000.0,Gothic Metal (early)| Progressive Melodic Death Metal (later),Thoughts,2000-2022,2022
+35779,35780,Infernal Tenebra,Croatia,Active,1999.0,Black Metal (early)| Progressive Melodic Death Metal (later),Darkness,1999-2022,2022
 35780,35781,Inter Arma,United States,Active,2006.0,Post-Metal/Sludge/Black/Death Metal,Journeys,2006-2022,2022
-35781,35782,Inward,France,Active,2002.0,Black Metal ,Human Race,2002-2022,2022
-35787,35788,Kymatica,Canada,Active,2008.0,Progressive Death Metal ,Life,2008-2022,2022
-35794,35795,Lvpercalia,Portugal,Active,1998.0,Black Metal ,Social,1998-2022,2022
-35797,35798,Manic Movement,Belgium,On hold,1993.0,Melodic Death Metal ,Darkness,1993-2015,2015
-35798,35799,Mantas,United Kingdom,On hold,1988.0,Heavy Metal ,Women,1988-2022,2022
-35799,35800,MarAmon,Sweden,Split-up,2001.0,Melodic Black Metal ,Life in General,2001-2008,2008
-35804,35805,Mortis Cruentus,Spain,Active,2003.0,Black Metal ,Blood,2003-2022,2022
-35811,35812,Necrodead,Chile,Active,1988.0,Death Metal ,Politics,1988-2022,2022
-35812,35813,Necromorph,Germany,Active,1995.0,Black Metal ,Death,1995-2022,2022
+35781,35782,Inward,France,Active,2002.0,Black Metal (early)| Death Metal (later),Human Race,2002-2022,2022
+35787,35788,Kymatica,Canada,Active,2008.0,Progressive Death Metal (early)| Symphonic Extreme Metal (later),Life,2008-2022,2022
+35794,35795,Lvpercalia,Portugal,Active,1998.0,Black Metal (early)| Progressive Death Metal (later),Social,1998-2022,2022
+35797,35798,Manic Movement,Belgium,On hold,1993.0,Melodic Death Metal (early)| Symphonic Gothic Metal (later),Darkness,1993-2015,2015
+35798,35799,Mantas,United Kingdom,On hold,1988.0,Heavy Metal (1988)| Industrial Death Metal (2004-),Women,1988-2022,2022
+35799,35800,MarAmon,Sweden,Split-up,2001.0,Melodic Black Metal (early)| Melodic Death Metal (later),Life in General,2001-2008,2008
+35804,35805,Mortis Cruentus,Spain,Active,2003.0,Black Metal (early)| Melodic Death Metal (later),Blood,2003-2022,2022
+35811,35812,Necrodead,Chile,Active,1988.0,Death Metal (early)| Thrash Metal (later),Politics,1988-2022,2022
+35812,35813,Necromorph,Germany,Active,1995.0,Black Metal (early)| Death Metal| Grindcore (later),Death,1995-2022,2022
 35813,35814,Necronomichrist,United States,Active,2006.0,Progressive Brutal Death Metal with Black Metal and Grindcore elements,Gore,2006-2022,2022
-35816,35817,Neldöreth,United States,Active,2004.0,Death Metal ,Theistic Satanism,2004-2022,2022
-35824,35825,Nox Hibernus,Norway,Active,2008.0,Black Metal ,Anti-Christian Mythology,2008-2022,2022
-35825,35826,Obtained Enslavement,Norway,Split-up,1989.0,Death Metal ,Witchcraft,1989-2000,2000
-35827,35828,Odes of Ecstasy,Greece,Active,1993.0,Symphonic Death Metal ,Poetry,1993-2022,2022
-35829,35830,Opposite Sides,Italy,Active,2002.0,Melodic Death Metal ,Fate,2002-2022,2022
-35830,35831,Orbeth,United Kingdom,Active,2001.0,Death Metal,Fantasy,2001-2022,2022
-35833,35834,Paghania,Chile,Active,2006.0,Folk Metal,Folklore,2006-2022,2022
+35816,35817,Neldöreth,United States,Active,2004.0,Death Metal (early)| Black Metal (later),Theistic Satanism,2004-2022,2022
+35824,35825,Nox Hibernus,Norway,Active,2008.0,Black Metal (early)| Death Metal (later),Anti-Christian Mythology,2008-2022,2022
+35825,35826,Obtained Enslavement,Norway,Split-up,1989.0,Death Metal (early)| Symphonic Black Metal (later),Witchcraft,1989-2000,2000
+35827,35828,Odes of Ecstasy,Greece,Active,1993.0,Symphonic Death Metal (early)| Gothic Metal (later),Poetry,1993-2022,2022
+35829,35830,Opposite Sides,Italy,Active,2002.0,Melodic Death Metal (early)| Melodic Groove Metal (later),Fate,2002-2022,2022
+35830,35831,Orbeth,United Kingdom,Active,2001.0,Death Metal| Power Metal| Ambient| Electronic,Fantasy,2001-2022,2022
+35833,35834,Paghania,Chile,Active,2006.0,Folk Metal| Death/Black Metal,Folklore,2006-2022,2022
 35835,35836,Photon,Russia,Active,2012.0,Melodic Death Metal/Post-Metal/Rock,Creation,2012-2022,2022
-35840,35841,Purgatory,Indonesia,Active,1991.0,Death Metal ,Islam Religion,1991-2022,2022
-35841,35842,Rabid,United States,Active,2003.0,Death Metal ,Gore,2003-2022,2022
-35842,35843,Raw in Sect,Greece,Active,2005.0,Technical Death Metal ,Psychological Issues,2005-2022,2022
-35846,35847,Sadistic Noise,Greece,Split-up,1988.0,Black Metal ,Blasphemy,1988-2006,2006
-35849,35850,Sangfroid,Ukraine,Active,2003.0,Black Metal ,Satanism,2003-2022,2022
-35852,35853,Sarcophagus,United States,Split-up,1991.0,Death Metal ,Apocalypse,1991-2002,2002
-35853,35854,Satariel,Sweden,Active,1993.0,Black Metal ,Metaphoric Sadness,1993-2022,2022
+35840,35841,Purgatory,Indonesia,Active,1991.0,Death Metal (early)| Nu-Metal (later),Islam Religion,1991-2022,2022
+35841,35842,Rabid,United States,Active,2003.0,Death Metal (early)| Thrash Metal (later),Gore,2003-2022,2022
+35842,35843,Raw in Sect,Greece,Active,2005.0,Technical Death Metal (early)| Thrash Metal (later),Psychological Issues,2005-2022,2022
+35846,35847,Sadistic Noise,Greece,Split-up,1988.0,Black Metal (early)| Death Metal (later),Blasphemy,1988-2006,2006
+35849,35850,Sangfroid,Ukraine,Active,2003.0,Black Metal (early)| Death Metal (later),Satanism,2003-2022,2022
+35852,35853,Sarcophagus,United States,Split-up,1991.0,Death Metal (early)| Black Metal (later),Apocalypse,1991-2002,2002
+35853,35854,Satariel,Sweden,Active,1993.0,Black Metal (early) - Melodic Death Metal (later),Metaphoric Sadness,1993-2022,2022
 35854,35855,Scalping Screen,Finland,Active,2001.0,Metalcore/Thrash Metal with Death Metal influences,Racism,2001-2022,2022
 35856,35857,Shadow of the Torturer,United States,Active,2006.0,Doom Metal with Drone/Death/Sludge Metal influences,Solitude,2006-2022,2022
-35858,35859,Shoulder of Orion,United Kingdom,Active,2007.0,Progressive Death Metal ,Love/Loss,2007-2022,2022
-35864,35865,Son of Aurelius,United States,Active,2009.0,Technical Melodic Death Metal ,Roman Mythology,2009-2022,2022
-35867,35868,Stielas Storhett,Russia,Active,2005.0,Black Metal ,Nature,2005-2022,2022
-35872,35873,Sweet Sorrow,Slovenia,Active,1996.0,Heavy Metal ,Human State of Minds,1996-2022,2022
+35858,35859,Shoulder of Orion,United Kingdom,Active,2007.0,Progressive Death Metal (early)| Progressive Black Metal (later),Love/Loss,2007-2022,2022
+35864,35865,Son of Aurelius,United States,Active,2009.0,Technical Melodic Death Metal (early)| Progressive Metal (later),Roman Mythology,2009-2022,2022
+35867,35868,Stielas Storhett,Russia,Active,2005.0,Black Metal (early)| Melodic Death Metal (later),Nature,2005-2022,2022
+35872,35873,Sweet Sorrow,Slovenia,Active,1996.0,Heavy Metal (early)| Melodic Death Metal (later),Human State of Minds,1996-2022,2022
 35874,35875,Tales from Beyond,Serbia,Active,2011.0,Death Metal with Thrash/Black Metal Influences,Dark side of the human psyche,2011-2022,2022
-35880,35881,Till the End,Germany,Split-up,2004.0,Viking Metal ,Society,2004-2010,2010
-35882,35883,Truth in Ruin,United States,Active,2000.0,Black Metal ,Destruction,2000-2022,2022
-35884,35885,Ululate,China,Active,2001.0,Raw Black Metal ,Zombies,2001-2022,2022
-35887,35888,Unmoored,Sweden,Active,1993.0,Groove Metal ,War,1993-2022,2022
-35888,35889,Vatican,United States,Active,2012.0,Blackened Death Metal ,History,2012-2022,2022
-35893,35894,Аясын Салхи,Mongolia,Active,1984.0,Heavy Metal ,Satanism,1984-2022,2022
-35896,35897,Daemusinem,Italy,Active,1999.0,Melodic Black/Death ,Satan,1999-2022,2022
-35897,35898,Dusk,Pakistan,Active,1994.0,Death/Doom ,Hypocrisy,1994-2022,2022
+35880,35881,Till the End,Germany,Split-up,2004.0,Viking Metal (early)| Melodic Death Metal (later),Society,2004-2010,2010
+35882,35883,Truth in Ruin,United States,Active,2000.0,Black Metal (early)| Blackened Death Metal (later),Destruction,2000-2022,2022
+35884,35885,Ululate,China,Active,2001.0,Raw Black Metal (early)| Death Metal (later),Zombies,2001-2022,2022
+35887,35888,Unmoored,Sweden,Active,1993.0,Groove Metal (early)| Progressive Death Metal (later),War,1993-2022,2022
+35888,35889,Vatican,United States,Active,2012.0,Blackened Death Metal (early)| Symphonic Black Metal (later),History,2012-2022,2022
+35893,35894,Аясын Салхи,Mongolia,Active,1984.0,Heavy Metal (early)| Death Metal (later),Satanism,1984-2022,2022
+35896,35897,Daemusinem,Italy,Active,1999.0,Melodic Black/Death (early)| Death Metal (later),Satan,1999-2022,2022
+35897,35898,Dusk,Pakistan,Active,1994.0,Death/Doom (early) Progressive Metal (mid) Death/Thrash (later),Hypocrisy,1994-2022,2022
 35898,35899,Kilju,Finland,Active,2004.0,Blackened Death Metal/Death 'n' Roll/Punk,Satanism,2004-2022,2022
-35903,35904,Amoral,Finland,Active,1997.0,Technical Death Metal ,Psychological,1997-2022,2022
-35905,35906,Destinity,France,On hold,1996.0,Black Metal ,Chaos,1996-2014,2014
-35908,35909,Sludge,Switzerland,Active,1994.0,Doom/Death Metal ,Death,1994-2022,2022
-35909,35910,Visions,Spain,Active,2010.0,Blackened Death/Thrash Metal ,Satanism,2010-2022,2022
+35903,35904,Amoral,Finland,Active,1997.0,Technical Death Metal (2001-2004)| Death/Thrash Metal (2005-2007)| Power Metal (2009-),Psychological,1997-2022,2022
+35905,35906,Destinity,France,On hold,1996.0,Black Metal (early)| Symphonic Black/Death Metal (mid)| Thrash/Death Metal (later),Chaos,1996-2014,2014
+35908,35909,Sludge,Switzerland,Active,1994.0,Doom/Death Metal (early)| Death/Black Metal/Post-Metal (later),Death,1994-2022,2022
+35909,35910,Visions,Spain,Active,2010.0,Blackened Death/Thrash Metal (early)| Black Metal (mid)| Death/Black Metal (later),Satanism,2010-2022,2022
 35912,35913,54R,United States,Active,2006.0,Death/Black Metal/Grindcore,Death,2006-2022,2022
-35917,35918,Abaddon Incarnate,Ireland,Active,1994.0,Black/Death Metal ,Death,1994-2022,2022
+35917,35918,Abaddon Incarnate,Ireland,Active,1994.0,Black/Death Metal (early)| Grindcore (later),Death,1994-2022,2022
 35918,35919,Abaddons Breed,Germany,Active,2002.0,Black/Death Metal/Grindcore,Beer,2002-2022,2022
-35921,35922,Abnegation,United States,Split-up,1992.0,Metalcore ,Horrors,1992-1997,1997
+35921,35922,Abnegation,United States,Split-up,1992.0,Metalcore (early)| Brutal Death Metal (later),Horrors,1992-1997,1997
 35932,35933,Aeon of Decay,Germany,Split-up,2005.0,Melodic Death/Thrash Metal/Metalcore,Personal/Social Themes,2005-2012,2012
 35934,35935,Afrobomination,United States,Active,2012.0,Death/Thrash Metal/Crust Punk,Being black,2012-2022,2022
 35940,35941,Agoriz,Bolivia,Active,2009.0,Death/Thrash Metal/Metalcore,Pain,2009-2022,2022
@@ -11451,15 +11449,15 @@
 35955,35956,Analizator,Serbia,Active,2003.0,Death/Thrash Metal/Grindcore,Gore,2003-2022,2022
 35956,35957,Anatriz,Brazil,Active,2002.0,Power Metal with Black/Death Elements,Cosmos,2002-2022,2022
 35961,35962,And the Angels Die,France,Split-up,2005.0,Melodic Death/Thrash Metal/Hardcore,Death,2005-2008,2008
-35963,35964,Angel Grave,United States,Active,2011.0,Progressive Death Metal ,Sci-Fi/Psychological,2011-2022,2022
+35963,35964,Angel Grave,United States,Active,2011.0,Progressive Death Metal (early)| Progressive Rock (later),Sci-Fi/Psychological,2011-2022,2022
 35965,35966,Anger Within,United States,Active,1991.0,Thrash/Death Metal/Crossover,Political and Human Issues,1991-2022,2022
-35967,35968,Anomalia,Argentina,Active,2004.0,Thrash/Death Metal ,Revenge,2004-2022,2022
+35967,35968,Anomalia,Argentina,Active,2004.0,Thrash/Death Metal (early)| Metalcore (later),Revenge,2004-2022,2022
 35971,35972,Apocalyptic Christ,United States,Active,2003.0,Thrash/Death Metal/Grindcore,Gore,2003-2022,2022
 35973,35974,Applaud the Impaler,United States,Active,2008.0,Brutal/Technical Death Metal/Deathcore,Gore,2008-2022,2022
-35974,35975,Arbrynth,Australia,Active,2006.0,Melodic Death,Nature,2006-2022,2022
+35974,35975,Arbrynth,Australia,Active,2006.0,Melodic Death| Progressive/Folk Metal,Nature,2006-2022,2022
 35975,35976,Arch Goat of Sodomy,United States,Active,2001.0,Death/Black Metal/Grindcore,Corn,2001-2022,2022
 35977,35978,Argile,France,Active,1997.0,Avant-garde Death/Doom Metal,Darkness,1997-2022,2022
-35979,35980,Arkhamin Kirjasto,Finland,Active,2010.0,Heavy/Death Metal,Cosmic Events,2010-2022,2022
+35979,35980,Arkhamin Kirjasto,Finland,Active,2010.0,Heavy/Death Metal| Experimental Rock,Cosmic Events,2010-2022,2022
 35983,35984,Army Corpse,Australia,Split-up,2000.0,Death/Thrash Metal/Grindcore,War,2000-2004,2004
 35989,35990,Arthurian Shield,United States,Active,2011.0,Death/Black Metal with Medieval Influences,Medieval times,2011-2022,2022
 35990,35991,Asbestos,United States,Split-up,1997.0,Groove/Death Metal/Hardcore,Government,1997-2002,2002
@@ -11468,10 +11466,10 @@
 36003,36004,Baktheria,Portugal,Active,2013.0,Death/Thrash Metal/Crust,Social critique,2013-2022,2022
 36010,36011,Bat Castle,United States,Split-up,1999.0,Black/Death/Groove Metal/Grindcore,Vampires,1999-2015,2015
 36011,36012,Battlesoul,Canada,Active,2007.0,Folk/Melodic Death/Power Metal,Celtic Themes and History,2007-2022,2022
-36014,36015,Beithíoch,Ireland,Active,2002.0,Black/Death Metal,Celtic culture,2002-2022,2022
+36014,36015,Beithíoch,Ireland,Active,2002.0,Black/Death Metal| Dark Ambient,Celtic culture,2002-2022,2022
 36017,36018,Beresith,United States,Active,2006.0,Death/Thrash Metal/Metalcore,Anti-Religion,2006-2022,2022
 36018,36019,Berghexe,Canada,Active,2013.0,Thrash/Death Metal/Hardcore,Misanthropy,2013-2022,2022
-36022,36023,Beyond Dawn,Norway,On hold,1990.0,Death/Doom Metal ,Life,1990-2022,2022
+36022,36023,Beyond Dawn,Norway,On hold,1990.0,Death/Doom Metal (early)| Electronic (later),Life,1990-2022,2022
 36024,36025,Beyond the Horizon,Macedonia,Active,2008.0,Melodic Black/Death Metal/Metalcore,Philosophy,2008-2022,2022
 36026,36027,Bioeraser,Italy,Active,1999.0,Death/Groove Metal/Industrial,Social Disharmonies,1999-2022,2022
 36030,36031,Black Breath,United States,Active,2006.0,Death/Thrash Metal/Crossover/Crust,Occultism,2006-2022,2022
@@ -11480,9 +11478,9 @@
 36058,36059,Brutal Mastication,United States,Active,1992.0,Death/Thrash Metal/Metalcore,Hatred,1992-2022,2022
 36060,36061,Brutanal,Finland,Active,2004.0,Death/Thrash Metal/Goregrind,Death,2004-2022,2022
 36061,36062,Brutus,Egypt,Active,2007.0,Death/Thrash Metal/Metalcore,Politics,2007-2022,2022
-36064,36065,BSB-H,Brazil,Active,1986.0,Crossover ,Politics,1986-2022,2022
+36064,36065,BSB-H,Brazil,Active,1986.0,Crossover (early)| Death/Thrash Metal (later),Politics,1986-2022,2022
 36066,36067,Bulletridden,United Kingdom,Active,2000.0,Thrash/Death Metal/Crust,Despair,2000-2022,2022
-36071,36072,Cadaverous Condition,Austria,Active,1990.0,Goregrind ,Gore (old) Love,1990-2022,2022
+36071,36072,Cadaverous Condition,Austria,Active,1990.0,Goregrind (early)| Death Metal/Neofolk (later),Gore (old) Love,1990-2022,2022
 36077,36078,Carbon Deposit,Finland,Active,2002.0,Black/Death/Sludge Metal/Grindcore,Death,2002-2022,2022
 36083,36084,Castoreum,Germany,Split-up,2005.0,Thrash/Death Metal/Metalcore,War,2006-2010,2010
 36090,36091,Channeling Darkness,United States,Active,2007.0,Black/Death Metal/Metalcore,Space,2007-2022,2022
@@ -11515,28 +11513,28 @@
 36206,36207,Diagonal de Sangre,Paraguay,Active,2008.0,Death/Black Metal/Grindcore,War,2008-2022,2022
 36207,36208,Die Human Race,Brazil,Active,1998.0,Death/Black Metal/Grindcore,Anti-Christian,1998-2022,2022
 36210,36211,Diseased Ghoul,Germany,Active,2005.0,Death/Thrash Metal/Grindcore,Death,2005-2022,2022
-36213,36214,Disgrace,Finland,Split-up,1987.0,Death Metal ,Death,1987-2014,2014
-36214,36215,Diskreet,United States,Active,1999.0,Deathcore ,Darkness,1999-2022,2022
+36213,36214,Disgrace,Finland,Split-up,1987.0,Death Metal (early)| Punk Rock (later),Death,1987-2014,2014
+36214,36215,Diskreet,United States,Active,1999.0,Deathcore (early)| Technical Death Metal (later),Darkness,1999-2022,2022
 36221,36222,Disorder of Rage,Brazil,Active,2000.0,Death/Thrash Metal with Hardcore influences,World,2000-2022,2022
 36224,36225,Distorted,Israel,On hold,1996.0,Gothic/Melodic Death Metal with Middle Eastern influences,Depression,1996-2010,2010
 36228,36229,Divine Insanity,United States,Active,2001.0,Symphonic/Melodic Black/Death/Power Metal,Santa,2001-2022,2022
-36229,36230,DivinumX,United States,Active,2013.0,Death Metal/Deathcore,My Little Pony,2013-2022,2022
+36229,36230,DivinumX,United States,Active,2013.0,Death Metal/Deathcore| Trance| Pop Rock,My Little Pony,2013-2022,2022
 36232,36233,Doomed,United States,Split-up,1991.0,Doom/Death Metal/Grindcore/Hardcore,Evil,1991-1993,1993
 36233,36234,Doomsday Machine Schematic,United States,On hold,2004.0,Death/Thrash Metal/Grindcore,Warfare,2004-2022,2022
 36248,36249,Dynamus,Brazil,Active,2004.0,Thrash/Death Metal/Hardcore,Christianity,2004-2022,2022
-36250,36251,Dzelzs Vilks,Latvia,Active,1995.0,Death Metal ,Love,1995-2022,2022
+36250,36251,Dzelzs Vilks,Latvia,Active,1995.0,Death Metal (early)| Pop/Rock (later),Love,1995-2022,2022
 36253,36254,Eat the Turnbuckle,United States,Active,2011.0,Death/Thrash Metal/Hardcore,Professional Wrestling,2011-2022,2022
-36254,36255,Ebola Beach Party,Germany,Active,2002.0,Grindcore,Nonsense,2002-2022,2022
+36254,36255,Ebola Beach Party,Germany,Active,2002.0,Grindcore| Death Metal| Punk| Hardcore| Crust,Nonsense,2002-2022,2022
 36255,36256,Eccentric Pendulum,India,Active,2008.0,Thrash/Death Metal/Metalcore,Light,2008-2022,2022
 36256,36257,Eclips,Netherlands,Split-up,1995.0,Death/Thrash Metal with Groove influences,Society-critical,1995-2000,2000
-36258,36259,Egeria,Italy,Active,2012.0,Sludge/Doom Metal,Hate,2012-2022,2022
-36259,36260,Einher,Poland,Active,2000.0,RAC ,Paganism,2000-2022,2022
-36260,36261,El Escuadrón de la Muerte,Mexico,Active,2009.0,Doom/Stoner Metal,Drugs,2009-2022,2022
+36258,36259,Egeria,Italy,Active,2012.0,Sludge/Doom Metal| Death 'n' Roll,Hate,2012-2022,2022
+36259,36260,Einher,Poland,Active,2000.0,RAC (early)| Thrash/Death Metal (later),Paganism,2000-2022,2022
+36260,36261,El Escuadrón de la Muerte,Mexico,Active,2009.0,Doom/Stoner Metal| Death 'n' Roll,Drugs,2009-2022,2022
 36266,36267,En Masse,United States,Active,2010.0,Thrash/Death Metal with Hardcore Influences,Personal Struggles,2010-2022,2022
 36271,36272,Enemy of My Enemy,Sweden,Split-up,2004.0,Thrash/Melodic Death/Progressive Metal,Hate,2004-2011,2011
 36274,36275,EOS,Germany,Split-up,1992.0,Melodic Death/Thrash Metal/Metalcore,Death,1992-2010,2010
 36277,36278,Erzebet,United States,On hold,2004.0,Death/Black Metal/Grindcore,Depression,2004-2022,2022
-36280,36281,Eternal Torture,Germany,Active,2008.0,Melodic Death Metal ,Gore,2008-2022,2022
+36280,36281,Eternal Torture,Germany,Active,2008.0,Melodic Death Metal (early)| Deathcore (later),Gore,2008-2022,2022
 36283,36284,Exitus,Finland,Split-up,1989.0,Doom Metal with Thrash/Death influences,Death,1989-1990,1990
 36284,36285,Extinction Remains,Brazil,Active,2013.0,Death/Doom Metal/Crust,Ecological Disasters,2013-2022,2022
 36289,36290,Face the Fact,Netherlands,Split-up,2007.0,Death/Thrash Metal/Metalcore,Ware,2007-2011,2011
@@ -11550,7 +11548,7 @@
 36316,36317,Forgotten Silence,Czech Republic,Active,1993.0,Experimental Progressive Death Metal/Folk/Jazz,Egyptian mythology,1993-2022,2022
 36321,36322,Four Sweaty Dudes in a Room,United States,Active,2013.0,Thrash/Death Metal/Grindcore,Inside humour,2013-2022,2022
 36323,36324,Fragmendead,Germany,Split-up,2009.0,Death/Thrash Metal/Grindcore,Gore,2009-2012,2012
-36328,36329,Frost Giant,United States,Active,2005.0,Melodic Death/Folk Metal,Heathenism,2005-2022,2022
+36328,36329,Frost Giant,United States,Active,2005.0,Melodic Death/Folk Metal| Hardcore,Heathenism,2005-2022,2022
 36334,36335,Futilitarian,United States,Active,2008.0,Progressive/Melodic Death/Doom Metal,Instrumental,2008-2022,2022
 36339,36340,Gastric Ulcer,Austria,Active,2005.0,Death/Thrash Metal/Grindcore,Criticism,2005-2022,2022
 36340,36341,Gate of Illusions,Czech Republic,Split-up,2008.0,Death/Thrash Metal/Metalcore,Death,2008-2014,2014
@@ -11560,8 +11558,8 @@
 36348,36349,Ghoul,United States,Active,2001.0,Death/Thrash Metal/Grindcore,Horror,2001-2022,2022
 36349,36350,Gilded Lily,Canada,Active,2014.0,Black/Death Metal/Post-Hardcore,Guilt,2014-2022,2022
 36353,36354,Glib,Serbia,Active,2011.0,Death/Thrash Metal/Grindcore,Random,2011-2012,2012
-36361,36362,Gods of Eden,Australia,Active,2011.0,Progressive Death Metal ,Conspiracy Theories,2011-2022,2022
-36362,36363,Gohrgone,France,Active,2012.0,Deathcore ,Greco-Roman Mythology,2012-2022,2022
+36361,36362,Gods of Eden,Australia,Active,2011.0,Progressive Death Metal (early)| Progressive Metalcore (later),Conspiracy Theories,2011-2022,2022
+36362,36363,Gohrgone,France,Active,2012.0,Deathcore (early)| Black/Death Metal (later),Greco-Roman Mythology,2012-2022,2022
 36363,36364,Good God,United States,On hold,2003.0,Death/Thrash Metal/Grindcore,Hell,2003-2022,2022
 36367,36368,Graftage,Italy,Active,2011.0,Death/Black Metal with Various influences,Introspective reflecions,2011-2022,2022
 36378,36379,Gutbucket,Costa Rica,Active,2014.0,Black/Death Metal/Grindcore,Blasphemy,2014-2022,2022
@@ -11571,11 +11569,11 @@
 36384,36385,Hands That Kill,United States,Active,2010.0,Death/Thrash Metal/Grindcore,Death,2010-2022,2022
 36386,36387,Hard Venom,United Kingdom,Active,2003.0,Black/Death/Doom Metal with Alternative influences,Myths,2003-2022,2022
 36387,36388,Hate Crew,Mexico,Active,2009.0,Death/Thrash Metal/Crossover,Rebellion,2009-2022,2022
-36393,36394,Hatred of Wolf,Finland,Active,2002.0,Death/Dark Metal,Depression,2002-2022,2022
+36393,36394,Hatred of Wolf,Finland,Active,2002.0,Death/Dark Metal| Ambient/Darkwave,Depression,2002-2022,2022
 36396,36397,Heaven Ablaze,United States,Split-up,2001.0,Brutal Death Metal with Black/Thrash Influences,Anti-christianity,2001-2008,2008
 36398,36399,Hedorah,United States,Active,2010.0,Sludge/Death/Doom Metal/Grindcore,Misanthropy,2010-2015,2015
 36402,36403,Hellfrost Armada,Australia,Active,2006.0,Death/Black Metal/Metalcore,Humanity,2006-2022,2022
-36408,36409,Himsa,United States,Split-up,1998.0,Metalcore ,Humanity,1998-2008,2008
+36408,36409,Himsa,United States,Split-up,1998.0,Metalcore (early)| Melodic Death Metal (later),Humanity,1998-2008,2008
 36410,36411,Hobos,Italy,Active,2012.0,Melodic Death/Heavy Metal/Hardcore,Society,2012-2022,2022
 36411,36412,Homicidal Retribution,International,Active,2012.0,Death/Black Metal/Grindcore,Violence,2012-2022,2022
 36413,36414,Horns of Hattin,Austria,Active,2007.0,Symphonic/Epic Black/Death Metal,Religion,2007-2022,2022
@@ -11589,31 +11587,31 @@
 36431,36432,Impuration,Turkey,Active,2010.0,Thrash/Black/Death Metal with Punk influences,Satanism,2010-2022,2022
 36436,36437,Incarnate,Netherlands,Active,2003.0,Death/Thrash Metal/Hardcore,Societal and personal reflections,2003-2022,2022
 36440,36441,Indigno,Ecuador,Active,2008.0,Death/Thrash Metal/Hardcore,Society,2008-2022,2022
-36442,36443,Infected Malignity,Japan,Active,2004.0,Brutal Death Metal ,Gore,2004-2022,2022
+36442,36443,Infected Malignity,Japan,Active,2004.0,Brutal Death Metal (early)| Melodic Deathcore (later),Gore,2004-2022,2022
 36450,36451,Inquisitia,Serbia,Active,2007.0,Thrash/Death Metal/Metalcore,Symbolism,2007-2022,2022
 36457,36458,Intoxicator,United States,Active,2005.0,Death/Thrash Metal/Grindcore,Death,2005-2022,2022
 36462,36463,Isacaarum,Czech Republic,Split-up,1994.0,Black/Death Metal/Grindcore,Misogyny,1994-2014,2014
 36465,36466,Jesucristo Mentiroso,Mexico,Active,2010.0,Black/Death Metal/Grindcore,Anti-christianity,2010-2022,2022
 36466,36467,Johnny Midnight and the Daemons from Hell,Guam,On hold,1998.0,Death/Thrash Metal with Punk influences,Gore,1998-2022,2022
-36467,36468,Juan Ayestas,Honduras,Active,2010.0,Technical/Melodic Death Metal,Space,2010-2022,2022
+36467,36468,Juan Ayestas,Honduras,Active,2010.0,Technical/Melodic Death Metal| Shred,Space,2010-2022,2022
 36478,36479,Karybdis,United Kingdom,Active,2008.0,Melodic Death/Thrash Metal/Hardcore,War,2008-2022,2022
 36487,36488,Killed on Juarez,Indonesia,Active,2006.0,Death/Black Metal/Metalcore,Life,2006-2022,2022
 36496,36497,Krampus,Italy,Active,2010.0,Folk/Melodic Death Metal/Metalcore,Folk Tales,2010-2022,2022
 36499,36500,Kruger,Switzerland,Split-up,2001.0,Sludge Metal/Death 'n' Roll,Machinery,2001-2015,2015
-36502,36503,Kuru,Italy,Split-up,2004.0,Grindcore ,Sex,2004-2011,2011
+36502,36503,Kuru,Italy,Split-up,2004.0,Grindcore (early)| Death/Black Metal (later),Sex,2004-2011,2011
 36504,36505,Laengthengurthe,United States,Active,2001.0,Death/Thrash Metal/Grindcore,juvenile humor,2001-2022,2022
 36506,36507,Last Legion Alive,Belgium,Split-up,2009.0,Death/Thrash Metal/Crustcore,War,2009-2013,2013
 36511,36512,Leather Glove,United States,Active,2016.0,Death/Sludge Metal/Crust,Violence,2016-2022,2022
 36520,36521,Likaon,Ecuador,Active,1995.0,Death/Thrash Metal/Hardcore,Society,1995-2022,2022
 36526,36527,Lobotomized,Norway,Active,2005.0,Death/Thrash Metal/Punk,Camping,2005-2022,2022
-36532,36533,Lughum,Spain,Active,2010.0,Atmospheric/Progressive Death Metal,Nature,2010-2022,2022
+36532,36533,Lughum,Spain,Active,2010.0,Atmospheric/Progressive Death Metal| Ambient,Nature,2010-2022,2022
 36534,36535,M.A.D: Goya,Serbia,Active,1993.0,Death/Thrash Metal/Crossover,Alcohol/Beer,1993-2022,2022
 36535,36536,Macabre,United States,Active,1984.0,Thrash/Death Metal/Grindcore,Murder,1984-2022,2022
 36537,36538,Machinemade God,Germany,Split-up,2003.0,Melodic Death/Thrash Metal/Metalcore,Relationships,2003-2008,2008
 36543,36544,Malevolence,New Zealand,Active,1992.0,Black/Death Metal/Grindcore/Noise,Anti-Christian,1992-2022,2022
 36550,36551,Marttyrium,Brazil,Active,2005.0,Progressive Thrash Metal/Metalcore with Death influences,Christianity,2005-2022,2022
 36551,36552,Mary Cries Red,United States,Active,2006.0,Death/Thrash Metal/Hardcore,Death,2006-2022,2022
-36552,36553,Masokist,United States,Split-up,2001.0,Grindcore ,Politics,2001-2014,2014
+36552,36553,Masokist,United States,Split-up,2001.0,Grindcore (early) Brutal Death Metal (later),Politics,2001-2014,2014
 36553,36554,Mass Defect,Philippines,Active,2005.0,Death/Thrash Metal/Grindcore,War,2005-2022,2022
 36556,36557,Masterguru,United States,Active,2004.0,Stoner/Death Metal/Grindcore,Marijuana,2004-2022,2022
 36559,36560,Matter,Portugal,Split-up,2011.0,Black/Death Metal/Grindcore,Hate,2011-2014,2014
@@ -11631,23 +11629,23 @@
 36594,36595,Murdershock,Finland,Active,2005.0,Death/Thrash Metal/Metalcore,Death,2005-2022,2022
 36595,36596,Mushder,Italy,Active,2013.0,Death/Thrash Metal/Experimental,Misanthropy,2013-2022,2022
 36596,36597,My Inner Kingdom,Germany,Active,2010.0,Melodic Death/Thrash Metal/Metalcore,Social Topics,2010-2022,2022
-36599,36600,Nahu,South Korea,Active,1999.0,Hardcore ,Tough Life,1999-2022,2022
+36599,36600,Nahu,South Korea,Active,1999.0,Hardcore (early)| Death Metal/Grindcore (later),Tough Life,1999-2022,2022
 36600,36601,Nailed Shut,United States,Active,2005.0,Black/Death Metal/Grindcore,Violence,2005-2022,2022
-36605,36606,Necra,Germany,Active,2003.0,Groove/Death Metal ,Anti-religion,2003-2022,2022
+36605,36606,Necra,Germany,Active,2003.0,Groove/Death Metal (early)| Grindcore (later),Anti-religion,2003-2022,2022
 36607,36608,Necrodaemon,Poland,Active,2005.0,Black/Death Metal with Ambient influences,Anti-Christianity,2005-2022,2022
 36608,36609,Necrogorica,United States,Active,2004.0,Death/Black Metal/Grindcore,Gore,2004-2022,2022
 36610,36611,Necrowizard,Germany,Active,2005.0,Black/Death Metal/Grindcore,Pathology,2005-2009,2009
 36612,36613,Nekrofilth,United States,Active,2008.0,Death/Thrash Metal/Hardcore Punk,Death,2008-2022,2022
-36615,36616,Neoandertals,Estonia,Active,2003.0,Brutal Death Metal,Neanderthals,2003-2022,2022
+36615,36616,Neoandertals,Estonia,Active,2003.0,Brutal Death Metal| Avant-garde,Neanderthals,2003-2022,2022
 36616,36617,Nereid,Italy,Active,2007.0,Death/Thrash Metal/Metalcore,Love,2007-2022,2022
-36620,36621,Neuropathia,Poland,Active,1996.0,Goregrind ,Gore,1996-2022,2022
+36620,36621,Neuropathia,Poland,Active,1996.0,Goregrind (early)| Death Metal/Hardcore (later),Gore,1996-2022,2022
 36625,36626,Niburta,Hungary,Active,2009.0,Folk/Melodic Death Metal/Metalcore,Nature,2009-2022,2022
 36628,36629,Nimor,Italy,Active,2011.0,Atmospheric/Progressive Black/Death Metal,Nature,2011-2022,2022
 36630,36631,Nizvergnut,Russia,Active,2013.0,Death/Doom Metal/Crust,Urban filth,2013-2022,2022
 36637,36638,Novarmada,Venezuela,Active,2009.0,Thrash/Death Metal/Metalcore,Inner struggles,2009-2022,2022
 36638,36639,Nuclear Devastation,Netherlands,Active,2010.0,Death/Thrash/Black Metal/Crust Punk,Annihilation,2010-2022,2022
 36642,36643,Nyia,Poland,Split-up,1999.0,Jazz/Death Metal/Grindcore,Abstract,1999-2008,2008
-36646,36647,Oblivionized,United Kingdom,Split-up,2008.0,Brutal Death Metal ,Metaphorical,2008-2016,2016
+36646,36647,Oblivionized,United Kingdom,Split-up,2008.0,Brutal Death Metal (early)| Technical Grindcore (later),Metaphorical,2008-2016,2016
 36647,36648,Oblomov,Czech Republic,Active,2000.0,Black/Death Metal with Folk influences,Abstract Themes,2000-2022,2022
 36659,36660,Order 66,United States,Active,2011.0,Thrash/Death Metal/Hardcore,Life,2011-2022,2022
 36660,36661,Order of the Buzzard,Australia,Active,2005.0,Death/Thrash Metal with Groove influences,Hate,2005-2022,2022
@@ -11664,25 +11662,25 @@
 36701,36702,Posguerra,Colombia,Active,1991.0,Death/Thrash Metal/Grindcore,Violence,1991-2022,2022
 36704,36705,Premonition,Saudi Arabia,Active,2008.0,Black/Death/Thrash Metal/Metalcore,Anti-Religion,2008-2022,2022
 36710,36711,Prosperity Denied,Austria,Active,2006.0,Death/Thrash Metal/Hardcore,Social criticism,2006-2022,2022
-36712,36713,Psalm,Belgium,Split-up,2004.0,Metalcore ,Nietzschean philosophy,2004-2009,2009
+36712,36713,Psalm,Belgium,Split-up,2004.0,Metalcore (early)| Black/Death Metal (later),Nietzschean philosophy,2004-2009,2009
 36714,36715,Pterodactyl King,United States,Active,2012.0,Progressive/Melodic Death Metal/Metalcore,Inner Struggle,2012-2022,2022
-36720,36721,Putrid Whore,Italy,Active,2003.0,Noisegrind ,Porn,2003-2022,2022
+36720,36721,Putrid Whore,Italy,Active,2003.0,Noisegrind (early)| Death Metal/Grindcore (later),Porn,2003-2022,2022
 36722,36723,Quassar,Spain,Active,2012.0,Death/Thrash Metal/Metalcore,Human Story,2012-2022,2022
 36724,36725,Rafflesia,Belgium,Active,2005.0,Death/Thrash Metal/Metalcore,War,2005-2022,2022
 36725,36726,Rage Invest,Sweden,Active,2007.0,Melodic Death/Thrash Metal/Metalcore,Against them all,2007-2022,2022
-36726,36727,Rainroom,Finland,On hold,2003.0,Progressive Death/Doom Metal,Steampunk,2003-2022,2022
+36726,36727,Rainroom,Finland,On hold,2003.0,Progressive Death/Doom Metal| Ambient,Steampunk,2003-2022,2022
 36730,36731,Rato Raro,Spain,Active,1992.0,Grindcore/Death Metal/Punk,Drugs,1992-2022,2022
-36731,36732,Ratos e Baratas,Brazil,Split-up,2004.0,Grindcore ,Gore,2004-2011,2011
+36731,36732,Ratos e Baratas,Brazil,Split-up,2004.0,Grindcore (early)| Death/Thrash Metal (later),Gore,2004-2011,2011
 36733,36734,Raza de Odio,Italy,Split-up,2002.0,Death Metal/Hardcore with flamenco influences,War,2002-2011,2011
 36741,36742,Red Pain,Brazil,Active,2004.0,Thrash/Death Metal with Hardcore Elements,Social Issues,2004-2022,2022
 36742,36743,Reeker,United States,Active,2006.0,Death/Thrash Metal/Grindcore,Killing Posers,2006-2022,2022
-36755,36756,Revelations of Doom,United States,Split-up,2004.0,Black/Death/Thrash Metal,Satan,2004-2005,2005
+36755,36756,Revelations of Doom,United States,Split-up,2004.0,Black/Death/Thrash Metal| Grindcore| Crust,Satan,2004-2005,2005
 36756,36757,Revenance,United Kingdom,Split-up,2005.0,Thrash/Death Metal/Metalcore,Anger,2005-2008,2008
 36760,36761,Ripped Off Face,United States,Split-up,2006.0,Death/Thrash Metal/Metalcore,Society,2006-2008,2008
 36764,36765,Rotten Ruins,Germany,Split-up,2002.0,Black/Death Metal/Grindcore,Violence,2002-2006,2006
 36768,36769,Sabbagor,South Africa,Active,2010.0,Black/Death Metal/Crust,Supremacy,2010-2022,2022
 36776,36777,Sammath Naur,Poland,Active,1999.0,Avant-garde Black/Death Metal,Death,1999-2022,2022
-36782,36783,Sardonic Wrath,United States,Active,2012.0,Black/Death/Doom Metal,Occultism,2012-2022,2022
+36782,36783,Sardonic Wrath,United States,Active,2012.0,Black/Death/Doom Metal| Ambient,Occultism,2012-2022,2022
 36788,36789,Scar of the Sun,Greece,Active,2004.0,Gothic/Doom Metal with Death Influences,Tragedy,2004-2022,2022
 36794,36795,Scorched by the Flaming Goat,Chile,Active,2012.0,Symphonic/Blackened Death Metal/Deathcore,introspection,2012-2022,2022
 36799,36800,Scum,International,On hold,2002.0,Black/Death Metal/Punk,Death,2002-2022,2022
@@ -11692,21 +11690,21 @@
 36813,36814,Serenity in Murder,Japan,Active,2009.0,Symphonic/Melodic Black/Death Metal,Darkness,2009-2022,2022
 36816,36817,Serpent Eater,Germany,Active,2011.0,Sludge/Black/Death Metal/Crust,Psychic deformation,2011-2022,2022
 36822,36823,Sexual Predator,Unknown,Active,2014.0,Black/Death Metal/Grindcore,Serial Killers,2014-2022,2022
-36824,36825,Shadows Fall,United States,Active,1995.0,Melodic Death Metal ,Inner Struggles,1995-2022,2022
+36824,36825,Shadows Fall,United States,Active,1995.0,Melodic Death Metal (early)| Metalcore (later),Inner Struggles,1995-2022,2022
 36831,36832,Shit,International,Active,2009.0,Death/Black Metal/Crust,Apocalypse,2009-2022,2022
 36833,36834,Shitfucker,United States,Active,2005.0,Black/Death/Thrash Metal with Punk Influences,Death,2005-2022,2022
-36836,36837,Short Bus Pile Up,United States,Active,2005.0,Deathcore ,Gore,2005-2022,2022
-36837,36838,Shot,Spain,Active,2014.0,Melodic Death/Groove Metal,Death,2014-2022,2022
+36836,36837,Short Bus Pile Up,United States,Active,2005.0,Deathcore (early)| Brutal Death Metal (later),Gore,2005-2022,2022
+36837,36838,Shot,Spain,Active,2014.0,Melodic Death/Groove Metal| Metalcore,Death,2014-2022,2022
 36838,36839,Shraphead,Norway,Active,2004.0,Melodic Death/Thrash Metal/Metalcore,Life,2004-2022,2022
 36840,36841,Side Effectz,Brazil,Active,1997.0,Thrash/Death Metal/Grindcore,Death,1997-2022,2022
 36843,36844,Silent Civilian,United States,Active,2005.0,Melodic Death/Groove Metal/Metalcore,Politics,2005-2022,2022
 36844,36845,Silent Descent,United Kingdom,Active,2004.0,Melodic Death Metal/Metalcore with Trance elements,Sadness,2004-2022,2022
 36849,36850,Skaven,United States,Split-up,1995.0,Blackened Doom/Death Metal/Crust,Misanthropy,1995-1997,1997
-36863,36864,Snuff,Ukraine,Split-up,2001.0,Hardcore ,Pain,2001-2014,2014
+36863,36864,Snuff,Ukraine,Split-up,2001.0,Hardcore (early)| Death Metal/Metalcore (later),Pain,2001-2014,2014
 36867,36868,Sodomizing the Dead,United States,Active,2005.0,Brutal Death/Thrash Metal/Grindcore,Perversion,2005-2022,2022
 36868,36869,Sodomy Squad,Australia,Active,2007.0,Thrash/Death Metal/Crossover,Gibberish,2007-2022,2022
 36869,36870,Soilent Green,United States,Active,1988.0,Sludge/Death Metal/Grindcore,Abusive/Dysfunctional relationships,1988-2022,2022
-36871,36872,Soldered Poon,International,Active,2003.0,Grindcore ,Horror,2003-2022,2022
+36871,36872,Soldered Poon,International,Active,2003.0,Grindcore (early)| Death Metal with Groove Influences (later),Horror,2003-2022,2022
 36878,36879,Sonata Antartika,Greece,Active,2012.0,Melodic Death/Power Metal/Metalcore,Comedy,2012-2022,2022
 36882,36883,Southern Flame,United States,Active,2005.0,Southern Metal/Death 'n' Roll,War,2005-2022,2022
 36884,36885,Spewtilator,United States,Active,2007.0,Thrash/Death Metal/Grindcore,Weed,2007-2022,2022
@@ -11727,7 +11725,7 @@
 36942,36943,The Moebius Curve,Spain,Active,2004.0,Groove/Melodic Death Metal/Metalcore,Individualism,2004-2022,2022
 36945,36946,The Pagan Dead,United States,Active,2000.0,Death/Black Metal with Psychobilly Influences,Horror Movies,2000-2022,2022
 36955,36956,The Wake of Suffering,United States,Active,2005.0,Thrash/Death Metal/Grindcore,Gore,2005-2022,2022
-36957,36958,Third Degree,Germany,Active,1993.0,Thrash/Death ,Social-critical Themes,1993-2022,2022
+36957,36958,Third Degree,Germany,Active,1993.0,Thrash/Death (early)| Power Metal (later),Social-critical Themes,1993-2022,2022
 36958,36959,Thorazine,Canada,Split-up,1996.0,Thrash/Death Metal/Grindcore,Violence,1996-2004,2004
 36959,36960,Thornostrum,Germany,Active,2000.0,Avant-garde Black/Death Metal,Mysticism,2000-2022,2022
 36968,36969,Torment Defined,United States,On hold,1993.0,Black/Death/Thrash Metal/Grindcore,Occult,1993-2014,2014
@@ -11737,15 +11735,15 @@
 36978,36979,Trenchgrinder,United States,Active,2010.0,Death/Thrash Metal/Crust,Death,2010-2022,2022
 36979,36980,Trepan'Dead,France,Active,1998.0,Brutal Death Metal/Grindcore with Hardcore Influences,Humour,1998-2022,2022
 36981,36982,Trepanation,New Zealand,Active,2012.0,Black/Death Metal/Grindcore,Apocalypse,2012-2022,2022
-36982,36983,Trigger the Bloodshed,United Kingdom,Active,2006.0,Technical Deathcore ,Political & Social Issues,2006-2022,2022
-36990,36991,Ultra Vomit,France,Active,1999.0,Death Metal/Grindcore ,Humour,1999-2022,2022
+36982,36983,Trigger the Bloodshed,United Kingdom,Active,2006.0,Technical Deathcore (early)| Technical Death Metal (later),Political & Social Issues,2006-2022,2022
+36990,36991,Ultra Vomit,France,Active,1999.0,Death Metal/Grindcore (early)| Various (later),Humour,1999-2022,2022
 36997,36998,Undying Inc.,India,Active,2004.0,Thrash/Death Metal/Metalcore,Hate,2004-2022,2022
 37000,37001,Unknown,Italy,Active,2003.0,Death/Thrash Metal with Metalcore influences,Apocalypse,2003-2022,2022
 37002,37003,Unleash,Turkey,Active,2006.0,Death/Thrash Metal/Metalcore,Politics,2006-2022,2022
-37003,37004,Ursus Horribilis,France,Active,2014.0,Brutal Death Metal,Horror,2014-2022,2022
+37003,37004,Ursus Horribilis,France,Active,2014.0,Brutal Death Metal| Neofolk/Ambient,Horror,2014-2022,2022
 37004,37005,USO,United States,Active,2013.0,Death/Thrash Metal/Crossover,Rape,2013-2022,2022
 37006,37007,V:28,Norway,Split-up,2002.0,Atmospheric Black/Death Metal with Electronic Influences,Deconstruction/Transformation of Earth,2002-2008,2008
-37007,37008,Vaginal Mustard,United States,Active,2013.0,Technical/Brutal Death Metal,Sexual,2013-2022,2022
+37007,37008,Vaginal Mustard,United States,Active,2013.0,Technical/Brutal Death Metal| Goregrind,Sexual,2013-2022,2022
 37008,37009,Varg,Germany,Active,2005.0,Melodic Death/Black Metal/Metalcore,Vikings,2005-2022,2022
 37014,37015,Vicious Grave,United States,On hold,2010.0,Death/Thrash Metal/Grindcore,Death,2010-2022,2022
 37016,37017,Virulence,United States,Split-up,1998.0,Death Metal/Grindcore with Jazz influences,Life,1998-2003,2003
@@ -11768,260 +11766,260 @@
 37066,37067,Апосепсия,Russia,Active,2001.0,Technical/Brutal Death Metal/Goregrind,Forensics,2001-2022,2022
 37067,37068,Зомбі Їдять Моїх Сусідів,Ukraine,Active,2006.0,Thrash/Death Metal/Grindcore,Social,2006-2022,2022
 37071,37072,На Север,Russia,Split-up,2011.0,Doom/Death Metal with Folk influences,Nature,2011-2013,2013
-37074,37075,Россия,Russia,Active,2005.0,Thrash/Melodic Death Metal,White Pride,2005-2022,2022
+37074,37075,Россия,Russia,Active,2005.0,Thrash/Melodic Death Metal| RAC,White Pride,2005-2022,2022
 37075,37076,Свалка,Ukraine,Active,2010.0,Death/Thrash Metal/Crossover,Degradation of Humanity,2010-2022,2022
 37076,37077,Святогор,Ukraine,Active,1999.0,Death/Black Metal with Folk Influences,Dark Mythology,1999-2022,2022
 37077,37078,Страмослябы,Russia,Active,1999.0,Melodic Black/Death/Thrash/Heavy Metal,Humour,1999-2022,2022
 37079,37080,نار جهنم,Bahrain,Active,2004.0,Black/Death Metal with Middle Eastern Influences,Middle Eastern History,2004-2022,2022
-37080,37081,郁,China,Active,2001.0,Melodic Death/Power Metal,Fantasy,2001-2022,2022
+37080,37081,郁,China,Active,2001.0,Melodic Death/Power Metal| Metalcore,Fantasy,2001-2022,2022
 37081,37082,閃靈,Taiwan,Active,1995.0,Melodic Black/Death Metal with Eastern Folk Influences,Taiwanese Myths and Legends,1995-2022,2022
 37082,37083,颠覆M,China,Active,2000.0,Melodic Death Metal/Metalcore with Folk influences,Mongolia,2000-2022,2022
-37087,37088,Poostew,Germany,Split-up,2003.0,Melodic Death Metal/Grindcore/Hardcore ,Politics,2003-2009,2009
-37088,37089,Rudra,Singapore,Active,1992.0,Thrash/Death Metal ,Vedic themes,1992-2022,2022
-37091,37092,Atrocity,Germany,Active,1985.0,Technical Death Metal ,Depression,1985-2022,2022
-37092,37093,Cradle of Filth,United Kingdom,Active,1991.0,Death Metal ,Satanism (early),1991-2022,2022
+37087,37088,Poostew,Germany,Split-up,2003.0,Melodic Death Metal/Grindcore/Hardcore (early)| Brutal Death Metal/Grindcore (later),Politics,2003-2009,2009
+37088,37089,Rudra,Singapore,Active,1992.0,Thrash/Death Metal (early)| Death/Black Metal with Folk Influences (later),Vedic themes,1992-2022,2022
+37091,37092,Atrocity,Germany,Active,1985.0,Technical Death Metal (early)| Folk Metal| Gothic/Industrial/Symphonic Metal (later),Depression,1985-2022,2022
+37092,37093,Cradle of Filth,United Kingdom,Active,1991.0,Death Metal (early)| Symphonic Black Metal (mid)| Extreme Gothic Metal (later),Satanism (early),1991-2022,2022
 37094,37095,Ethernus,Romania,Active,2007.0,Symphonic Power Metal/Melodic Death Metal/Atmospheric Black Metal,Death,2007-2022,2022
-37097,37098,Frank's Enemy,United States,Active,1991.0,Thrash Metal ,Christianity,1991-2022,2022
-37105,37106,Absenth,Russia,Active,2001.0,Melodic Death/Doom Metal ,Obscurity,2001-2022,2022
-37107,37108,Achsar,Slovakia,Active,2004.0,Doom Metal ,Life,2004-2022,2022
-37109,37110,Acrid,Netherlands,Active,1994.0,Death/Thrash Metal ,Darkness,1994-2022,2022
-37112,37113,Adagio Funebre,Czech Republic,Active,2009.0,Doom Metal ,Depression,2009-2022,2022
-37114,37115,Advent Sorrow,Australia,Active,2010.0,Symphonic Black/Death Metal ,Murder,2010-2022,2022
-37115,37116,Aeon Aphelion,Greece,Active,2005.0,Doom/Death Metal ,Religion,2005-2022,2022
-37117,37118,Algaion,Sweden,Active,1993.0,Atmospheric Black Metal ,Darkness,1993-2022,2022
-37118,37119,Allegiance,Sweden,Active,1989.0,Death Metal ,Anti-Christianity,1989-2022,2022
-37121,37122,Allfader,Norway,Active,2001.0,Black Metal ,War,2001-2022,2022
-37124,37125,Altars,United States,Active,2003.0,Black/Death Metal ,Depression,2003-2022,2022
-37125,37126,Ambehr,Armenia,Active,1995.0,Death/Thrash Metal ,Light,1995-2022,2022
-37126,37127,Amen,Croatia,Active,1990.0,Death Metal ,Christianity,1990-2022,2022
-37127,37128,Amocualli,Mexico,Active,2005.0,Raw Folk/Black Metal ,Pre-Hispanic Traditions,2005-2022,2022
-37128,37129,Amorphis,Finland,Active,1990.0,Progressive/Death/Doom Metal ,War (early),1990-2022,2022
-37129,37130,Anagathon,Colombia,Active,2003.0,Melodic Black Metal ,Human degradation,2003-2022,2022
-37131,37132,Andramelech,Mexico,Active,2004.0,Black/Death Metal ,Chaos-Gnosticism,2004-2022,2022
-37136,37137,Anthems of Gomorrah,United States,Split-up,2003.0,Atmospheric Pagan Black Metal ,Paganism,2003-2012,2012
-37137,37138,Anticristo,Chile,Active,2007.0,Black Metal ,Rituals,2007-2022,2022
-37138,37139,Antim Grahan,Nepal,Active,2004.0,Symphonic Black Metal ,Pain,2004-2022,2022
-37140,37141,Apollyon Mechanicus,Russia,Active,2009.0,Black/Death Metal ,History,2009-2022,2022
-37145,37146,Armoured Angel,Australia,Split-up,1982.0,Speed/Thrash Metal ,Satanism,1982-2001,2001
-37152,37153,Astral Sleep,Finland,Active,2004.0,Death/Doom Metal ,Dreams,2004-2022,2022
-37155,37156,Atanab,Colombia,Active,1994.0,Gothic/Death/Black Metal ,Darkness,1994-2022,2022
-37156,37157,Atra Hora,Russia,Active,2006.0,Black Metal ,Philosophy,2006-2022,2022
-37158,37159,Aurora Forrest,United States,Active,2006.0,Blackened Death Metal ,Misanthropy,2006-2022,2022
-37164,37165,Benea Reach,Norway,Split-up,2003.0,Progressive Death Metal/Metalcore ,Christianity,2003-2014,2014
-37165,37166,Benighted,France,Active,1998.0,Black Metal ,Evil (early),1998-2022,2022
-37166,37167,Bestial Torment,Switzerland,Split-up,2000.0,Black/Thrash Metal ,Morbid Poetry,2000-2005,2005
-37169,37170,Black Souls Death,Mexico,Active,2002.0,Thrash/Death Metal ,Satanism,2002-2022,2022
-37170,37171,Bloodawn,United States,Active,2005.0,Black/Death Metal ,War,2005-2022,2022
-37172,37173,Bog Morok,Russia,Active,1997.0,Death/Doom Metal ,Madness,1997-2022,2022
-37176,37177,Burning Cross,Germany,Active,2007.0,Black/Death Metal ,Antireligion,2007-2022,2022
-37182,37183,Carbonized,Sweden,Split-up,1988.0,Progressive Death Metal,Death,1988-1995,1995
-37183,37184,Carnarium,Argentina,Active,1993.0,Death Metal ,Death,1993-2022,2022
-37184,37185,Catamenia,Finland,Active,1995.0,Melodic Black Metal ,Darkness,1995-2022,2022
-37188,37189,Chaos Divine,Australia,Active,2005.0,Progressive/Melodic Death Metal ,Pain,2005-2022,2022
-37190,37191,Chryseis,France,Active,1996.0,Black Metal ,Science-Fiction,1996-2022,2022
-37193,37194,Coldbound,Sweden,Active,2012.0,Melodic Death/Black Metal ,Personal struggles,2012-2022,2022
-37195,37196,Coram Deo,Ukraine,Split-up,2003.0,Power Metal ,Christianity,2003-2010,2010
-37197,37198,Cormorant,United States,Active,2007.0,Melodic Death Metal ,Surrealism,2007-2022,2022
-37198,37199,Corruption,Poland,Active,1991.0,Doom/Death Metal ,Sex,1991-2022,2022
-37200,37201,Crimson Moonlight,Sweden,Active,1997.0,Symphonic Black Metal ,Orthodox Christianity,1997-2022,2022
-37201,37202,Crize,Romania,Active,2001.0,Nu-Metal ,Life,2001-2022,2022
-37206,37207,Cursed Cemetery,Romania,Active,1997.0,Death/Black Metal ,Physical/Mental Torture,1997-2022,2022
-37207,37208,Daemogorgon,Portugal,Active,2005.0,Black Metal ,Anti-Religion,2005-2022,2022
-37208,37209,Damage Source,Germany,Active,2007.0,Thrash Metal ,Death,2007-2022,2022
-37209,37210,Dantalion,Spain,Active,2004.0,Black Metal ,Death,2004-2022,2022
-37214,37215,Dark Vision,Greece,Active,1996.0,Gothic/Symphonic Black Metal ,Anger,1996-2022,2022
-37219,37220,De Profundis,United Kingdom,Active,2005.0,Doom Metal ,Negativity,2005-2022,2022
-37227,37228,Dementia,Pakistan,Active,2007.0,Melodic Death Metal/Metalcore ,Death,2007-2022,2022
-37229,37230,Demonic Christ,United States,Active,1992.0,Black/Death Metal ,Gnostic Satanism,1992-2022,2022
-37230,37231,Demonic Resurrection,India,Active,2000.0,Symphonic Metal ,Darkness,2000-2022,2022
-37232,37233,Detention,Kazakhstan,Active,2012.0,Death/Doom Metal ,Melancholy,2012-2022,2022
-37235,37236,Deviator,Ukraine,Active,2007.0,Black Metal/Ambient ,Heathenism,2007-2022,2022
-37239,37240,Die Apokalyptischen Reiter,Germany,Active,1995.0,Death/Folk Metal ,Life,1995-2022,2022
-37242,37243,Disgrace and Terror,Brazil,Active,2001.0,Thrash Metal ,War and Reality,2001-2022,2022
-37244,37245,Dominus,Denmark,Split-up,1991.0,Death Metal ,Vikings,1991-2000,2000
-37249,37250,Dying,Spain,Active,2000.0,Brutal Death Metal,Hate,2000-2022,2022
-37250,37251,Dystrophy,United States,Active,2007.0,Progressive/Thrash Metal ,Religious,2007-2022,2022
-37252,37253,Eden Beast,Italy,Split-up,2002.0,Thrash Metal ,Death,2002-2010,2010
-37255,37256,Elenium,Poland,Active,2000.0,Symphonic Metal ,Philosophy of Mind & Culture,2000-2022,2022
-37257,37258,Empyreon,United States,Active,2006.0,Power Metal ,Self Awareness,2006-2022,2022
-37259,37260,Entropia,Spain,Active,1994.0,Death Metal/Grindcore ,Anarcho-satanism,1994-2022,2022
-37264,37265,Ethereal,United Kingdom,Active,2002.0,Black Metal ,Darkness,2002-2022,2022
-37266,37267,Evoke Thy Lords,Russia,Active,2002.0,Gothic/Doom Metal ,H.P. Lovecraft,2002-2022,2022
-37272,37273,Fall of the Leafe,Finland,Split-up,1996.0,Melodic Death/Folk Metal ,Melancholy,1996-2007,2007
-37274,37275,Far Beyond,Germany,Active,2001.0,Symphonic Gothic/Black Metal ,History,2001-2022,2022
-37276,37277,Fetal Zombie,United States,Active,2010.0,Progressive/Gothic Metal/Rock,Despair,2010-2022,2022
-37279,37280,Flesh Made Sin,Netherlands,On hold,1999.0,Thrash Metal ,Death,1999-2022,2022
-37284,37285,Frosthammer,Canada,Active,2009.0,Symphonic Black Metal ,Winter,2009-2022,2022
-37287,37288,Furious Barking,Italy,Split-up,1989.0,Thrash Metal ,Alienation,1989-1994,1994
-37289,37290,Gehenna,Norway,Active,1993.0,Black Metal ,Darkness,1993-2022,2022
-37291,37292,Ghost Brigade,Finland,On hold,2005.0,Melodic Death/Doom Metal,Solitude,2005-2015,2015
-37295,37296,Gothic Sky,Russia,Active,1997.0,Doom/Death Metal ,Vampirism,1997-2022,2022
-37298,37299,Grecco,Costa Rica,Active,1996.0,Progressive/Power Metal ,Insanity,1996-2022,2022
-37303,37304,GuilThee,Hungary,Active,2006.0,Thrash/Groove/Death Metal ,Sin,2006-2022,2022
-37305,37306,Haggard,Germany,Active,1989.0,Progressive Death Metal ,History,1989-2022,2022
-37310,37311,Hecatombe,France,Active,2006.0,Ambient Black Metal ,Nature,2006-2022,2022
-37312,37313,Hellevate,United States,Active,2007.0,Death/Thrash Metal ,War,2007-2022,2022
-37314,37315,Hexxed,United Kingdom,Active,1996.0,Progressive Death Metal ,Time,1996-2022,2022
-37316,37317,Humanart,Portugal,Active,1998.0,Black/Death Metal ,Life,1998-2022,2022
-37317,37318,Hybernoid,United Kingdom,Split-up,1989.0,Industrial Death/Doom Metal ,Nihilism,1989-1998,1998
-37319,37320,Hyponic,China,Active,1996.0,Death/Doom Metal ,Human Weakness,1996-2022,2022
-37321,37322,Ikuinen Kaamos,Finland,On hold,1997.0,Black Metal ,Emotions,1997-2022,2022
-37323,37324,Impaktu,Philippines,Active,2005.0,Black Metal ,Blasphemy,2005-2022,2022
-37325,37326,In Arkadia,France,Active,2005.0,Heavy Metal ,Anarchy,2005-2022,2022
-37326,37327,In Flames,Sweden,Active,1990.0,Melodic Death Metal ,Astronomy,1990-2022,2022
-37331,37332,InDespair,Poland,Active,2003.0,Heavy/Thrash Metal ,Life,2003-2022,2022
-37333,37334,Infernal Cemetery,Ecuador,Active,2009.0,Black Metal ,Visions,2009-2022,2022
-37340,37341,Invincible Force,Chile,Active,2007.0,Thrash Metal ,Satan,2007-2022,2022
-37345,37346,Kadaverica,Italy,Split-up,2010.0,Black Metal ,Darkness,2010-2012,2012
-37346,37347,Karlahan,Spain,Active,2006.0,Folk/Black Metal ,Nature (early),2006-2022,2022
-37351,37352,Kripta,Brazil,Split-up,1985.0,Heavy Metal ,Wars,1985-1992,1992
-37354,37355,Kult Shock,United States,Active,1998.0,Black Metal ,Death,1998-2022,2022
-37355,37356,La Pestilencia,Colombia,Active,1985.0,Death/Thrash Metal ,Social,1985-2022,2022
-37358,37359,Legion of Doom,Greece,Active,1990.0,Grindcore/Death Metal ,Anti-Christian,1990-2022,2022
-37359,37360,Letallis,United States,Active,2005.0,Thrash Metal ,Political,2005-2022,2022
-37364,37365,Livor Mortis,Belgium,Active,1998.0,Black/Death Metal ,Death,1998-2022,2022
-37365,37366,Lord Impaler,Greece,Active,1998.0,Black/Death Metal ,Anti-Christianity,1998-2022,2022
-37369,37370,Maelstrom,Italy,Active,2001.0,Black/Gothic Metal ,Sin,2001-2022,2022
-37370,37371,Malanoctem,Italy,On hold,2006.0,Thrash Metal ,Italian History,2006-2022,2022
-37371,37372,Mammoth Grinder,United States,On hold,2005.0,Hardcore Punk/Sludge Metal ,Genocide,2005-2014,2014
-37374,37375,Mega Beardo,United States,Active,2010.0,Heavy Metal ,Video games,2010-2022,2022
-37376,37377,Memembris,Poland,Active,1998.0,Symphonic Black Metal ,Satanism,1998-2022,2022
-37377,37378,Mendeed,United Kingdom,Split-up,2000.0,Nu-Metal ,Anti-conformity,2000-2007,2007
-37382,37383,Misanthrofeel,Russia,Active,2009.0,Experimental Industrial Metal ,Instrumental,2009-2022,2022
-37384,37385,Mitosis,Argentina,Active,2003.0,Thrash/Death Metal ,Social denounce,2003-2022,2022
-37386,37387,Monument,United States,Active,1993.0,Power Metal ,Death,1993-2022,2022
-37387,37388,Moonlight Scream,Brazil,Active,2012.0,Death/Black Metal ,Death,2012-2022,2022
-37390,37391,Morgirion,United States,Active,2005.0,Black/Death Metal ,Battles,2005-2022,2022
-37392,37393,Mortandad,Venezuela,Active,2001.0,Death Metal/Grindcore ,Satan,2001-2022,2022
-37395,37396,Mr. Bungle,United States,Split-up,1985.0,Death Metal ,Sex,1985-2004,2004
-37397,37398,My Dying Bride,United Kingdom,Active,1990.0,Doom/Death Metal ,Despair,1990-2022,2022
-37404,37405,Night Threat,Greece,Active,1998.0,Thrash Metal ,Social issues,1998-2022,2022
-37405,37406,Nightfall,Greece,Active,1991.0,Melodic Black/Death/Doom Metal,Dark Feelings,1991-2022,2022
-37406,37407,Nimbatus,Germany,Active,2010.0,Melodic Doom/Death Metal,Instrumental,2010-2022,2022
-37407,37408,Noein,France,Active,2007.0,Industrial Groove Metal ,Futuristic Science-Fiction,2007-2022,2022
-37408,37409,Nofuck,Italy,Active,1997.0,Thrash Metal ,Sex,1997-2022,2022
-37410,37411,North,Poland,Active,1992.0,Black Metal ,Paganism,1992-2022,2022
-37415,37416,Nuclear Death,United States,Split-up,1986.0,Grindcore/Death Metal ,Gore,1986-2000,2000
-37418,37419,Obscyria,Sweden,Active,2010.0,Thrash Metal ,Death,2010-2022,2022
-37419,37420,Obsidian Kingdom,Spain,Active,2005.0,Experimental Black/Death Metal ,Esotericism,2005-2022,2022
-37421,37422,Ocultan,Brazil,Active,1994.0,Black Metal ,Quimbanda,1994-2022,2022
-37422,37423,Odin's Court,Greece,Split-up,1999.0,Black/Viking Metal ,Mythology,1999-2013,2013
-37423,37424,Offense,Spain,Active,1989.0,Doom/Death Metal,Society,1989-2022,2022
-37425,37426,Open Fire,Romania,Active,2005.0,Thrash Metal ,Death,2005-2022,2022
-37426,37427,Opera IX,Italy,Active,1988.0,Gothic/Doom/Death Metal ,Occultism,1988-2022,2022
-37427,37428,Orgon,Poland,Active,2013.0,Heavy/Thrash Metal ,Human,2013-2022,2022
-37432,37433,Overflash,Sweden,Active,1986.0,Death Metal ,Death,1986-2022,2022
-37434,37435,Paradise Lost,United Kingdom,Active,1988.0,Doom/Death Metal ,Death,1988-2022,2022
-37435,37436,Paramite,Netherlands,Active,2008.0,Thrash Metal ,Death,2008-2022,2022
-37436,37437,Pathogenic,United States,Active,2004.0,Black/Death Metal ,Death,2004-2022,2022
-37437,37438,Priorato,Ecuador,Active,2006.0,Black/Thrash Metal ,Society,2008-2022,2022
-37439,37440,Psilocybin,Canada,Active,2005.0,Drone/Doom/Death Metal ,The Mind,2005-2022,2022
-37440,37441,Psychopathic Terror,Finland,Active,2002.0,Death/Thrash Metal ,Death,2002-2022,2022
-37442,37443,Radical Obscurity,Albania,Split-up,1991.0,Death Metal ,Social Issues,1991-1998,1998
-37444,37445,Raices Torcidas,El Salvador,Split-up,1998.0,Groove/Nu-Metal ,War between men & machines in the future,1998-2014,2014
-37447,37448,Requiem Aeternam,Uruguay,Active,1995.0,Melodic Black/Death Metal ,Depression/Loneliness,1995-2022,2022
-37449,37450,Retarded Noise Squad,Germany,Active,2003.0,Death Metal/Grindcore ,Social Issues,2003-2022,2022
-37452,37453,Ritual Sacrifice,United States,Active,1987.0,Thrash Metal ,Social Issues,1987-2022,2022
-37453,37454,Roadkill XIII,Germany,Active,2002.0,Thrash/Groove Metal ,Hate,2002-2022,2022
-37457,37458,Sabbatical Goat,Netherlands,Active,1996.0,Black/Thrash Metal ,Satan,1996-2022,2022
-37458,37459,Sacriversum,Poland,Split-up,1992.0,Death/Thrash Metal ,History,1992-2005,2005
-37459,37460,Sadness,Switzerland,Split-up,1989.0,Doom/Death Metal ,Sadness,1989-1998,1998
-37460,37461,Sadus,United States,Active,1984.0,Death/Thrash Metal ,Death,1984-2022,2022
-37464,37465,Satan's Basement,United States,Active,2006.0,Sludge/Drone Doom Metal,Human Ignorance,2006-2022,2022
-37466,37467,Saudade,Canada,Active,2014.0,Raw Black Metal ,Depression,2014-2022,2022
-37468,37469,Schammasch,Switzerland,Active,2009.0,Black/Death Metal ,Spirituality,2009-2022,2022
-37472,37473,Shadowdances,Lithuania,Active,1995.0,Doom/Atmospheric Death Metal ,Sadness,1995-2022,2022
-37473,37474,Silencer,United States,Active,1998.0,Power Metal ,Science Fiction,1998-2022,2022
-37475,37476,Sin,Philippines,Active,2001.0,Death Metal ,Metaphors,2001-2022,2022
-37482,37483,Solomonic Demons,United States,Active,2008.0,Heavy/Thrash Metal ,Evil,2008-2022,2022
-37484,37485,Soturnus,Brazil,Active,2000.0,Gothic Metal ,Love,2000-2022,2022
-37485,37486,Soul Vomit,Pakistan,Split-up,2002.0,Melodic Death/Thrash Metal ,Darkness,2002-2010,2010
-37487,37488,Spectrum,Colombia,Active,2003.0,Thrash Metal ,Violence,2003-2022,2022
-37493,37494,Storm of Perception,United States,Active,2008.0,Thrash/Death Metal ,Battles,2008-2022,2022
-37495,37496,Stormlord,Italy,Active,1991.0,Death Metal ,Mythology,1991-2022,2022
-37499,37500,Swordmaster,Sweden,Split-up,1993.0,Black Metal ,Death,1993-2000,2000
-37504,37505,Temple of Baal,France,Active,1998.0,Black Metal ,Satanism,1998-2022,2022
-37507,37508,The Cromptons,Germany,Active,2000.0,Death 'n' Roll,Hate,2000-2022,2022
-37508,37509,The Cyon Project,Italy,Active,2009.0,Melodic Death Metal ,Pain,2009-2022,2022
-37511,37512,The Gathering,Netherlands,On hold,1989.0,Death/Doom Metal ,Relationships,1989-2014,2014
-37513,37514,The Last Twilight,Spain,Active,2003.0,Black Metal ,Tribulationism,2003-2022,2022
-37516,37517,Thou Art Lord,Greece,Active,1993.0,Black Metal ,Satanism,1993-2022,2022
-37521,37522,Tomorrow's Demise,Canada,Active,2004.0,Atmospheric Black Metal ,Nature,2004-2022,2022
-37524,37525,Tumour of Soul,Poland,Split-up,2000.0,Thrash/Death Metal ,War,2000-2014,2014
-37530,37531,Unearthly,Brazil,On hold,1998.0,Black Metal ,Anti-Christianity,1998-2016,2016
-37531,37532,Unnamed,Poland,Split-up,1993.0,Doom/Death Metal ,Dreams,1993-2003,2003
-37534,37535,Unsilence,United Kingdom,Active,1993.0,Death/Doom Metal ,Sorrow,1993-2022,2022
-37536,37537,Vardøger,Norway,Active,1996.0,Melodic Black Metal ,Christianity,1996-2022,2022
-37539,37540,Vercelum,Philippines,On hold,2000.0,Melodic Death Metal ,Death,2000-2013,2013
-37542,37543,War Pestilence,Argentina,Active,2008.0,Black Metal ,Anti-Christianity,2008-2022,2022
-37549,37550,Wrathage,Finland,Active,1997.0,Black Metal ,Post-modern paradigm,1997-2022,2022
-37550,37551,Xasthur,Singapore,Split-up,1991.0,Death/Thrash Metal ,Necromancy,1991-1998,1998
-37552,37553,Yattering,Poland,Split-up,1991.0,Technical Brutal Death Metal ,Misanthropy,1991-2006,2006
-37558,37559,Кровь на Алтаре,Ukraine,Split-up,1995.0,Thrash Metal ,Growth of Human Personality,1995-2009,2009
-37561,37562,Свентояр,Ukraine,Active,2008.0,Folk/Death Metal ,Slavonic Paganism/Folklore,2008-2022,2022
-37563,37564,Холостой Выстрел,Russia,Split-up,1989.0,Heavy/Thrash Metal ,Death,1989-1994,1994
-37564,37565,Godkiller,Monaco,On hold,1994.0,Death Metal ,War,1994-2022,2022
-37565,37566,Absurdity,France,Active,2001.0,Thrash/Death Metal/Hardcore ,Human misery,2001-2022,2022
-37568,37569,All That Remains,United States,Active,1998.0,Metalcore/Melodic Death Metal ,Relationships,1998-2022,2022
-37569,37570,Amorticure,Germany,Active,2000.0,Gothic/Death Metal ,Society,2000-2022,2022
+37097,37098,Frank's Enemy,United States,Active,1991.0,Thrash Metal (early)| Death/Thrash Metal (mid)| Death/Thrash Metal/Grindcore/Hardcore (later),Christianity,1991-2022,2022
+37105,37106,Absenth,Russia,Active,2001.0,Melodic Death/Doom Metal (early)| Industrial/Gothic Metal (later),Obscurity,2001-2022,2022
+37107,37108,Achsar,Slovakia,Active,2004.0,Doom Metal (early)| Melodic Folk/Death/Black Metal (later),Life,2004-2022,2022
+37109,37110,Acrid,Netherlands,Active,1994.0,Death/Thrash Metal (early)| Extreme Progressive Metal (later),Darkness,1994-2022,2022
+37112,37113,Adagio Funebre,Czech Republic,Active,2009.0,Doom Metal (early)| Death/Black/Heavy Metal (later),Depression,2009-2022,2022
+37114,37115,Advent Sorrow,Australia,Active,2010.0,Symphonic Black/Death Metal (early)| Depressive Black Metal (later),Murder,2010-2022,2022
+37115,37116,Aeon Aphelion,Greece,Active,2005.0,Doom/Death Metal (early)| Doom Metal (later),Religion,2005-2022,2022
+37117,37118,Algaion,Sweden,Active,1993.0,Atmospheric Black Metal (early)| Melodic Death/Black Metal (later),Darkness,1993-2022,2022
+37118,37119,Allegiance,Sweden,Active,1989.0,Death Metal (early)| Black/Viking Metal (later),Anti-Christianity,1989-2022,2022
+37121,37122,Allfader,Norway,Active,2001.0,Black Metal (early)| Black/Death Metal (later),War,2001-2022,2022
+37124,37125,Altars,United States,Active,2003.0,Black/Death Metal (early)| Black Metal/Noise (later),Depression,2003-2022,2022
+37125,37126,Ambehr,Armenia,Active,1995.0,Death/Thrash Metal (early)| Folk/Power Metal (later),Light,1995-2022,2022
+37126,37127,Amen,Croatia,Active,1990.0,Death Metal (early)| Psychedelic/Progressive Thrash Metal (later),Christianity,1990-2022,2022
+37127,37128,Amocualli,Mexico,Active,2005.0,Raw Folk/Black Metal (early)| Melodic Death/Folk Metal (later),Pre-Hispanic Traditions,2005-2022,2022
+37128,37129,Amorphis,Finland,Active,1990.0,Progressive/Death/Doom Metal (early)| Melodic Heavy Metal/Rock (later),War (early),1990-2022,2022
+37129,37130,Anagathon,Colombia,Active,2003.0,Melodic Black Metal (early)| Black/Death Metal (later),Human degradation,2003-2022,2022
+37131,37132,Andramelech,Mexico,Active,2004.0,Black/Death Metal (early)| Black Metal (later),Chaos-Gnosticism,2004-2022,2022
+37136,37137,Anthems of Gomorrah,United States,Split-up,2003.0,Atmospheric Pagan Black Metal (early)| Progressive Black/Death Metal (later),Paganism,2003-2012,2012
+37137,37138,Anticristo,Chile,Active,2007.0,Black Metal (early)| Black/Death Metal (later),Rituals,2007-2022,2022
+37138,37139,Antim Grahan,Nepal,Active,2004.0,Symphonic Black Metal (early)| Black/Death Metal/Grindcore (later),Pain,2004-2022,2022
+37140,37141,Apollyon Mechanicus,Russia,Active,2009.0,Black/Death Metal (early)| Atmospheric Black Metal (later),History,2009-2022,2022
+37145,37146,Armoured Angel,Australia,Split-up,1982.0,Speed/Thrash Metal (early)| Death Metal (later),Satanism,1982-2001,2001
+37152,37153,Astral Sleep,Finland,Active,2004.0,Death/Doom Metal (early)| Psychedelic Doom Metal (later),Dreams,2004-2022,2022
+37155,37156,Atanab,Colombia,Active,1994.0,Gothic/Death/Black Metal (early)| Black Metal (later),Darkness,1994-2022,2022
+37156,37157,Atra Hora,Russia,Active,2006.0,Black Metal (early)| Melodic Death/Black Metal (later),Philosophy,2006-2022,2022
+37158,37159,Aurora Forrest,United States,Active,2006.0,Blackened Death Metal (2006-2007)| Industrial Black Metal (2007-),Misanthropy,2006-2022,2022
+37164,37165,Benea Reach,Norway,Split-up,2003.0,Progressive Death Metal/Metalcore (early)| Atmospheric Sludge Metal/Deathcore (later),Christianity,2003-2014,2014
+37165,37166,Benighted,France,Active,1998.0,Black Metal (early)| Death Metal/Grindcore (later),Evil (early),1998-2022,2022
+37166,37167,Bestial Torment,Switzerland,Split-up,2000.0,Black/Thrash Metal (early)| Death Metal (later),Morbid Poetry,2000-2005,2005
+37169,37170,Black Souls Death,Mexico,Active,2002.0,Thrash/Death Metal (early)| Black Metal (later),Satanism,2002-2022,2022
+37170,37171,Bloodawn,United States,Active,2005.0,Black/Death Metal (early)| Raw Black Metal (later),War,2005-2022,2022
+37172,37173,Bog Morok,Russia,Active,1997.0,Death/Doom Metal (early)| Industrial Metal (later),Madness,1997-2022,2022
+37176,37177,Burning Cross,Germany,Active,2007.0,Black/Death Metal (early)| Black Metal (later),Antireligion,2007-2022,2022
+37182,37183,Carbonized,Sweden,Split-up,1988.0,Progressive Death Metal| Progressive Rock/Metal (on Screaming Machines),Death,1988-1995,1995
+37183,37184,Carnarium,Argentina,Active,1993.0,Death Metal (early)| Black/Gothic Metal (later),Death,1993-2022,2022
+37184,37185,Catamenia,Finland,Active,1995.0,Melodic Black Metal (early)| Melodic Death/Gothic Metal (later),Darkness,1995-2022,2022
+37188,37189,Chaos Divine,Australia,Active,2005.0,Progressive/Melodic Death Metal (early)| Progressive Metal (later),Pain,2005-2022,2022
+37190,37191,Chryseis,France,Active,1996.0,Black Metal (early)| Technical Death/Thrash Metal (later),Science-Fiction,1996-2022,2022
+37193,37194,Coldbound,Sweden,Active,2012.0,Melodic Death/Black Metal (early)| Doom/Black Metal (later),Personal struggles,2012-2022,2022
+37195,37196,Coram Deo,Ukraine,Split-up,2003.0,Power Metal (2003-2005)| Melodic Death Metal (later),Christianity,2003-2010,2010
+37197,37198,Cormorant,United States,Active,2007.0,Melodic Death Metal (early)| Progressive Folk/Black Metal (later),Surrealism,2007-2022,2022
+37198,37199,Corruption,Poland,Active,1991.0,Doom/Death Metal (early)| Stoner Metal (later),Sex,1991-2022,2022
+37200,37201,Crimson Moonlight,Sweden,Active,1997.0,Symphonic Black Metal (early)| Black/Death Metal (later),Orthodox Christianity,1997-2022,2022
+37201,37202,Crize,Romania,Active,2001.0,Nu-Metal (early)| Melodic Death Metal/Deathcore (later),Life,2001-2022,2022
+37206,37207,Cursed Cemetery,Romania,Active,1997.0,Death/Black Metal (demo)| Black Metal| Ambient/Downtempo,Physical/Mental Torture,1997-2022,2022
+37207,37208,Daemogorgon,Portugal,Active,2005.0,Black Metal (early)| Black/Death Metal (later),Anti-Religion,2005-2022,2022
+37208,37209,Damage Source,Germany,Active,2007.0,Thrash Metal (early)| Death/Thrash Metal (later),Death,2007-2022,2022
+37209,37210,Dantalion,Spain,Active,2004.0,Black Metal (early)| Melodic Death/Doom Metal (later),Death,2004-2022,2022
+37214,37215,Dark Vision,Greece,Active,1996.0,Gothic/Symphonic Black Metal (early)| Death/Black Metal (later),Anger,1996-2022,2022
+37219,37220,De Profundis,United Kingdom,Active,2005.0,Doom Metal (early)| Progressive Death/Black Metal (later),Negativity,2005-2022,2022
+37227,37228,Dementia,Pakistan,Active,2007.0,Melodic Death Metal/Metalcore (early)| Thrash/Groove Metal (later),Death,2007-2022,2022
+37229,37230,Demonic Christ,United States,Active,1992.0,Black/Death Metal (1993-1999)| Black Metal (later),Gnostic Satanism,1992-2022,2022
+37230,37231,Demonic Resurrection,India,Active,2000.0,Symphonic Metal (early)| Progressive Death/Black Metal (later),Darkness,2000-2022,2022
+37232,37233,Detention,Kazakhstan,Active,2012.0,Death/Doom Metal (early)| Metal/Rock (later),Melancholy,2012-2022,2022
+37235,37236,Deviator,Ukraine,Active,2007.0,Black Metal/Ambient (early)| Black/Death Metal (later),Heathenism,2007-2022,2022
+37239,37240,Die Apokalyptischen Reiter,Germany,Active,1995.0,Death/Folk Metal (early)| Heavy Metal/Hard Rock (later),Life,1995-2022,2022
+37242,37243,Disgrace and Terror,Brazil,Active,2001.0,Thrash Metal (early)| Death/Thrash Metal (later),War and Reality,2001-2022,2022
+37244,37245,Dominus,Denmark,Split-up,1991.0,Death Metal (early)| Groove Metal/Deathrock (later),Vikings,1991-2000,2000
+37249,37250,Dying,Spain,Active,2000.0,Brutal Death Metal| Thrash Metal/Crossover (2003-2004),Hate,2000-2022,2022
+37250,37251,Dystrophy,United States,Active,2007.0,Progressive/Thrash Metal (early)| Technical Death Metal (later),Religious,2007-2022,2022
+37252,37253,Eden Beast,Italy,Split-up,2002.0,Thrash Metal (early)| Brutal Death/Black Metal (later),Death,2002-2010,2010
+37255,37256,Elenium,Poland,Active,2000.0,Symphonic Metal (early)| Symphonic/Progressive Death Metal (later),Philosophy of Mind & Culture,2000-2022,2022
+37257,37258,Empyreon,United States,Active,2006.0,Power Metal (early)| Melodic Death Metal/Metalcore (later),Self Awareness,2006-2022,2022
+37259,37260,Entropia,Spain,Active,1994.0,Death Metal/Grindcore (early)| Drone/Doom Metal (later),Anarcho-satanism,1994-2022,2022
+37264,37265,Ethereal,United Kingdom,Active,2002.0,Black Metal (early)| Symphonic Black/Death/Doom Metal (later),Darkness,2002-2022,2022
+37266,37267,Evoke Thy Lords,Russia,Active,2002.0,Gothic/Doom Metal (early)| Stoner Doom/Death Metal (later),H.P. Lovecraft,2002-2022,2022
+37272,37273,Fall of the Leafe,Finland,Split-up,1996.0,Melodic Death/Folk Metal (early)| Atmospheric Gothic Metal (later),Melancholy,1996-2007,2007
+37274,37275,Far Beyond,Germany,Active,2001.0,Symphonic Gothic/Black Metal (early)| Symphonic Melodic Death Metal (later),History,2001-2022,2022
+37276,37277,Fetal Zombie,United States,Active,2010.0,Progressive/Gothic Metal/Rock| Death Metal| Experimental,Despair,2010-2022,2022
+37279,37280,Flesh Made Sin,Netherlands,On hold,1999.0,Thrash Metal (early)| Thrash/Death Metal (later),Death,1999-2022,2022
+37284,37285,Frosthammer,Canada,Active,2009.0,Symphonic Black Metal (early)| Death/Black Metal (later),Winter,2009-2022,2022
+37287,37288,Furious Barking,Italy,Split-up,1989.0,Thrash Metal (early)| Thrash/Death Metal (later),Alienation,1989-1994,1994
+37289,37290,Gehenna,Norway,Active,1993.0,Black Metal (early| later)| Black/Death Metal (mid),Darkness,1993-2022,2022
+37291,37292,Ghost Brigade,Finland,On hold,2005.0,Melodic Death/Doom Metal| Depressive Rock| Post-Metal,Solitude,2005-2015,2015
+37295,37296,Gothic Sky,Russia,Active,1997.0,Doom/Death Metal (early)| Gothic/Black Metal (later),Vampirism,1997-2022,2022
+37298,37299,Grecco,Costa Rica,Active,1996.0,Progressive/Power Metal (early)| Death/Progressive/Power Metal (later),Insanity,1996-2022,2022
+37303,37304,GuilThee,Hungary,Active,2006.0,Thrash/Groove/Death Metal (early)| Experimental/Progressive Metal (later),Sin,2006-2022,2022
+37305,37306,Haggard,Germany,Active,1989.0,Progressive Death Metal (early)| Classical/Orchestral/Symphonic Metal (later),History,1989-2022,2022
+37310,37311,Hecatombe,France,Active,2006.0,Ambient Black Metal (early)| Experimental Black/Death Metal (later),Nature,2006-2022,2022
+37312,37313,Hellevate,United States,Active,2007.0,Death/Thrash Metal (early)| Thrash/Power Metal (later),War,2007-2022,2022
+37314,37315,Hexxed,United Kingdom,Active,1996.0,Progressive Death Metal (early)| Progressive Rock/Metal (later),Time,1996-2022,2022
+37316,37317,Humanart,Portugal,Active,1998.0,Black/Death Metal (early)| Black Metal (later),Life,1998-2022,2022
+37317,37318,Hybernoid,United Kingdom,Split-up,1989.0,Industrial Death/Doom Metal (early)| Industrial/Electronic Metal (later),Nihilism,1989-1998,1998
+37319,37320,Hyponic,China,Active,1996.0,Death/Doom Metal (early)| Funeral Doom Metal (later),Human Weakness,1996-2022,2022
+37321,37322,Ikuinen Kaamos,Finland,On hold,1997.0,Black Metal (early)| Progressive Death/Black Metal (later),Emotions,1997-2022,2022
+37323,37324,Impaktu,Philippines,Active,2005.0,Black Metal (early)| Black/Death Metal (later),Blasphemy,2005-2022,2022
+37325,37326,In Arkadia,France,Active,2005.0,Heavy Metal (early)| Melodic Death/Thrash Metal (later),Anarchy,2005-2022,2022
+37326,37327,In Flames,Sweden,Active,1990.0,Melodic Death Metal (early)| Melodic Groove Metal/Alternative Rock (later),Astronomy,1990-2022,2022
+37331,37332,InDespair,Poland,Active,2003.0,Heavy/Thrash Metal (early)| Melodic Death Metal (later),Life,2003-2022,2022
+37333,37334,Infernal Cemetery,Ecuador,Active,2009.0,Black Metal (early)| Black/Death Metal (later),Visions,2009-2022,2022
+37340,37341,Invincible Force,Chile,Active,2007.0,Thrash Metal (early)| Death/Thrash/Black Metal (later),Satan,2007-2022,2022
+37345,37346,Kadaverica,Italy,Split-up,2010.0,Black Metal (early)| Black/Death Metal (later),Darkness,2010-2012,2012
+37346,37347,Karlahan,Spain,Active,2006.0,Folk/Black Metal (early)| Symphonic/Melodic Death Metal (later),Nature (early),2006-2022,2022
+37351,37352,Kripta,Brazil,Split-up,1985.0,Heavy Metal (early)| Death/Thrash Metal (later),Wars,1985-1992,1992
+37354,37355,Kult Shock,United States,Active,1998.0,Black Metal (early)| Death/Thrash Metal (later),Death,1998-2022,2022
+37355,37356,La Pestilencia,Colombia,Active,1985.0,Death/Thrash Metal (early)| Heavy Metal/Hardcore (later),Social,1985-2022,2022
+37358,37359,Legion of Doom,Greece,Active,1990.0,Grindcore/Death Metal (early)| Black Metal (later),Anti-Christian,1990-2022,2022
+37359,37360,Letallis,United States,Active,2005.0,Thrash Metal (early) Progressive/Melodic Death Metal (later),Political,2005-2022,2022
+37364,37365,Livor Mortis,Belgium,Active,1998.0,Black/Death Metal (early)| Black Metal (later),Death,1998-2022,2022
+37365,37366,Lord Impaler,Greece,Active,1998.0,Black/Death Metal (early)| Black Metal (later),Anti-Christianity,1998-2022,2022
+37369,37370,Maelstrom,Italy,Active,2001.0,Black/Gothic Metal (early)| Death Metal (later),Sin,2001-2022,2022
+37370,37371,Malanoctem,Italy,On hold,2006.0,Thrash Metal (early)| Death/Black Metal (later),Italian History,2006-2022,2022
+37371,37372,Mammoth Grinder,United States,On hold,2005.0,Hardcore Punk/Sludge Metal (early)| Death Metal/Hardcore (later),Genocide,2005-2014,2014
+37374,37375,Mega Beardo,United States,Active,2010.0,Heavy Metal (early)| Melodic Black/Death Metal (later),Video games,2010-2022,2022
+37376,37377,Memembris,Poland,Active,1998.0,Symphonic Black Metal (early)| Black/Death Metal (later),Satanism,1998-2022,2022
+37377,37378,Mendeed,United Kingdom,Split-up,2000.0,Nu-Metal (early)| Melodic Death Metal/Metalcore (later),Anti-conformity,2000-2007,2007
+37382,37383,Misanthrofeel,Russia,Active,2009.0,Experimental Industrial Metal (early)| Funeral Doom/Death Metal (later),Instrumental,2009-2022,2022
+37384,37385,Mitosis,Argentina,Active,2003.0,Thrash/Death Metal (early)| Groove/Thrash Metal (later),Social denounce,2003-2022,2022
+37386,37387,Monument,United States,Active,1993.0,Power Metal (early) - Death/Thrash Metal (later),Death,1993-2022,2022
+37387,37388,Moonlight Scream,Brazil,Active,2012.0,Death/Black Metal (early)| Post-Black Metal (later),Death,2012-2022,2022
+37390,37391,Morgirion,United States,Active,2005.0,Black/Death Metal (early)| Black Metal (later),Battles,2005-2022,2022
+37392,37393,Mortandad,Venezuela,Active,2001.0,Death Metal/Grindcore (early)| Black Metal (later),Satan,2001-2022,2022
+37395,37396,Mr. Bungle,United States,Split-up,1985.0,Death Metal (early)| Avant-garde Metal/Fusion (later),Sex,1985-2004,2004
+37397,37398,My Dying Bride,United Kingdom,Active,1990.0,Doom/Death Metal (early)| Gothic/Doom Metal (later),Despair,1990-2022,2022
+37404,37405,Night Threat,Greece,Active,1998.0,Thrash Metal (early)| Technical Death/Thrash Metal (later),Social issues,1998-2022,2022
+37405,37406,Nightfall,Greece,Active,1991.0,Melodic Black/Death/Doom Metal| Gothic Rock/Metal (mid),Dark Feelings,1991-2022,2022
+37406,37407,Nimbatus,Germany,Active,2010.0,Melodic Doom/Death Metal| Depressive Rock/Metal,Instrumental,2010-2022,2022
+37407,37408,Noein,France,Active,2007.0,Industrial Groove Metal (early)| Groove/Death Metal (later),Futuristic Science-Fiction,2007-2022,2022
+37408,37409,Nofuck,Italy,Active,1997.0,Thrash Metal (early)| Thrash/Death Metal (later),Sex,1997-2022,2022
+37410,37411,North,Poland,Active,1992.0,Black Metal (early)| Black/Death Metal (later),Paganism,1992-2022,2022
+37415,37416,Nuclear Death,United States,Split-up,1986.0,Grindcore/Death Metal (early)| Experimental Rock/Metal (later),Gore,1986-2000,2000
+37418,37419,Obscyria,Sweden,Active,2010.0,Thrash Metal (early)| Thrash/Death Metal (later),Death,2010-2022,2022
+37419,37420,Obsidian Kingdom,Spain,Active,2005.0,Experimental Black/Death Metal (early)| Progressive Extreme Metal (later),Esotericism,2005-2022,2022
+37421,37422,Ocultan,Brazil,Active,1994.0,Black Metal (early)| Black/Death Metal (later),Quimbanda,1994-2022,2022
+37422,37423,Odin's Court,Greece,Split-up,1999.0,Black/Viking Metal (early)| Death/Viking Metal (later),Mythology,1999-2013,2013
+37423,37424,Offense,Spain,Active,1989.0,Doom/Death Metal| Gothic Metal/Rock (Absence),Society,1989-2022,2022
+37425,37426,Open Fire,Romania,Active,2005.0,Thrash Metal (early)| Death/Thrash Metal (later),Death,2005-2022,2022
+37426,37427,Opera IX,Italy,Active,1988.0,Gothic/Doom/Death Metal (early)| Melodic Black Metal (later),Occultism,1988-2022,2022
+37427,37428,Orgon,Poland,Active,2013.0,Heavy/Thrash Metal (early)| Death/Groove Metal (later),Human,2013-2022,2022
+37432,37433,Overflash,Sweden,Active,1986.0,Death Metal (early)| EBM-Gothic Metal (later),Death,1986-2022,2022
+37434,37435,Paradise Lost,United Kingdom,Active,1988.0,Doom/Death Metal (early)| Gothic Rock/Metal (later),Death,1988-2022,2022
+37435,37436,Paramite,Netherlands,Active,2008.0,Thrash Metal (early) Death Metal/Grindcore (later),Death,2008-2022,2022
+37436,37437,Pathogenic,United States,Active,2004.0,Black/Death Metal (early)| Groove Metal (later),Death,2004-2022,2022
+37437,37438,Priorato,Ecuador,Active,2006.0,Black/Thrash Metal (early)| Melodic Death Metal (later),Society,2008-2022,2022
+37439,37440,Psilocybin,Canada,Active,2005.0,Drone/Doom/Death Metal (early)| Stoner/Doom Metal (later),The Mind,2005-2022,2022
+37440,37441,Psychopathic Terror,Finland,Active,2002.0,Death/Thrash Metal (early)| Industrial Metal (later),Death,2002-2022,2022
+37442,37443,Radical Obscurity,Albania,Split-up,1991.0,Death Metal (early)| Crossover/Thrash/Groove Metal (later),Social Issues,1991-1998,1998
+37444,37445,Raices Torcidas,El Salvador,Split-up,1998.0,Groove/Nu-Metal (early)| Brutal Death Metal with Industrial influences (later),War between men & machines in the future,1998-2014,2014
+37447,37448,Requiem Aeternam,Uruguay,Active,1995.0,Melodic Black/Death Metal (early)| Extreme Progressive Metal (later),Depression/Loneliness,1995-2022,2022
+37449,37450,Retarded Noise Squad,Germany,Active,2003.0,Death Metal/Grindcore (early)| Avant-garde/Progressive Metal,Social Issues,2003-2022,2022
+37452,37453,Ritual Sacrifice,United States,Active,1987.0,Thrash Metal (early)| Thrash/Death Metal/Grindcore (later),Social Issues,1987-2022,2022
+37453,37454,Roadkill XIII,Germany,Active,2002.0,Thrash/Groove Metal (early)| Death/Thrash Metal (later),Hate,2002-2022,2022
+37457,37458,Sabbatical Goat,Netherlands,Active,1996.0,Black/Thrash Metal (early)| Death Metal (later),Satan,1996-2022,2022
+37458,37459,Sacriversum,Poland,Split-up,1992.0,Death/Thrash Metal (early)| Gothic Metal (later),History,1992-2005,2005
+37459,37460,Sadness,Switzerland,Split-up,1989.0,Doom/Death Metal (early)| Gothic/Doom Metal (later),Sadness,1989-1998,1998
+37460,37461,Sadus,United States,Active,1984.0,Death/Thrash Metal (early)| Technical Thrash Metal (later),Death,1984-2022,2022
+37464,37465,Satan's Basement,United States,Active,2006.0,Sludge/Drone Doom Metal| Grindcore| Death Metal,Human Ignorance,2006-2022,2022
+37466,37467,Saudade,Canada,Active,2014.0,Raw Black Metal (early)| Black/Death Metal (later),Depression,2014-2022,2022
+37468,37469,Schammasch,Switzerland,Active,2009.0,Black/Death Metal (early)| Avant-garde/Black Metal (later),Spirituality,2009-2022,2022
+37472,37473,Shadowdances,Lithuania,Active,1995.0,Doom/Atmospheric Death Metal (early)| Gothic Metal (later),Sadness,1995-2022,2022
+37473,37474,Silencer,United States,Active,1998.0,Power Metal (early)| Death/Thrash Metal (later),Science Fiction,1998-2022,2022
+37475,37476,Sin,Philippines,Active,2001.0,Death Metal (early)| Metalcore/Groove Metal (later),Metaphors,2001-2022,2022
+37482,37483,Solomonic Demons,United States,Active,2008.0,Heavy/Thrash Metal (early)| Melodic Death Metal (later),Evil,2008-2022,2022
+37484,37485,Soturnus,Brazil,Active,2000.0,Gothic Metal (early)| Death/Gothic Metal (later),Love,2000-2022,2022
+37485,37486,Soul Vomit,Pakistan,Split-up,2002.0,Melodic Death/Thrash Metal (early)| Heavy/Thrash Metal (later),Darkness,2002-2010,2010
+37487,37488,Spectrum,Colombia,Active,2003.0,Thrash Metal (early)| Progressive/Melodic Death Metal (later),Violence,2003-2022,2022
+37493,37494,Storm of Perception,United States,Active,2008.0,Thrash/Death Metal (early)| Progressive Metal (later),Battles,2008-2022,2022
+37495,37496,Stormlord,Italy,Active,1991.0,Death Metal (early)| Symphonic Black/Power Metal (later),Mythology,1991-2022,2022
+37499,37500,Swordmaster,Sweden,Split-up,1993.0,Black Metal (early)| Thrash/Death Metal (later),Death,1993-2000,2000
+37504,37505,Temple of Baal,France,Active,1998.0,Black Metal (early)| Black/Death Metal (later),Satanism,1998-2022,2022
+37507,37508,The Cromptons,Germany,Active,2000.0,Death 'n' Roll| Thrash 'n' Roll| Doom Metal| Sludge Metal,Hate,2000-2022,2022
+37508,37509,The Cyon Project,Italy,Active,2009.0,Melodic Death Metal (early)| Heavy/Stoner Metal (later),Pain,2009-2022,2022
+37511,37512,The Gathering,Netherlands,On hold,1989.0,Death/Doom Metal (early)| Atmospheric Doom Metal (mid)| Atmospheric Rock (later),Relationships,1989-2014,2014
+37513,37514,The Last Twilight,Spain,Active,2003.0,Black Metal (early)| Black/Death Metal (later),Tribulationism,2003-2022,2022
+37516,37517,Thou Art Lord,Greece,Active,1993.0,Black Metal (early)| Black/Death/Thrash Metal (later),Satanism,1993-2022,2022
+37521,37522,Tomorrow's Demise,Canada,Active,2004.0,Atmospheric Black Metal (early)| Doom/Death Metal (later),Nature,2004-2022,2022
+37524,37525,Tumour of Soul,Poland,Split-up,2000.0,Thrash/Death Metal (early)| Groove Metal/Hard Rock (later),War,2000-2014,2014
+37530,37531,Unearthly,Brazil,On hold,1998.0,Black Metal (early)| Black/Death Metal (later),Anti-Christianity,1998-2016,2016
+37531,37532,Unnamed,Poland,Split-up,1993.0,Doom/Death Metal (early)| Heavy/Gothic Metal (later),Dreams,1993-2003,2003
+37534,37535,Unsilence,United Kingdom,Active,1993.0,Death/Doom Metal (early)| Melodic Doom Metal (later),Sorrow,1993-2022,2022
+37536,37537,Vardøger,Norway,Active,1996.0,Melodic Black Metal (early)| Progressive/Melodic Death Metal (later),Christianity,1996-2022,2022
+37539,37540,Vercelum,Philippines,On hold,2000.0,Melodic Death Metal (early)| Depressive/Ambient Black Metal (later),Death,2000-2013,2013
+37542,37543,War Pestilence,Argentina,Active,2008.0,Black Metal (early)| Black/Death Metal (later),Anti-Christianity,2008-2022,2022
+37549,37550,Wrathage,Finland,Active,1997.0,Black Metal (early)| Black/Death Metal (later),Post-modern paradigm,1997-2022,2022
+37550,37551,Xasthur,Singapore,Split-up,1991.0,Death/Thrash Metal (early)| Black Metal (mid 90s),Necromancy,1991-1998,1998
+37552,37553,Yattering,Poland,Split-up,1991.0,Technical Brutal Death Metal (early)| Experimental Metal/Trip Hop (later),Misanthropy,1991-2006,2006
+37558,37559,Кровь на Алтаре,Ukraine,Split-up,1995.0,Thrash Metal (early)| Doom/Death Metal (later),Growth of Human Personality,1995-2009,2009
+37561,37562,Свентояр,Ukraine,Active,2008.0,Folk/Death Metal (early)| Folk Metal/Djent (later),Slavonic Paganism/Folklore,2008-2022,2022
+37563,37564,Холостой Выстрел,Russia,Split-up,1989.0,Heavy/Thrash Metal (early)| Death Metal (later),Death,1989-1994,1994
+37564,37565,Godkiller,Monaco,On hold,1994.0,Death Metal (1994)| Black Metal (1995-96)| Industrial Black Metal (1998)| Electronic Metal (2000-),War,1994-2022,2022
+37565,37566,Absurdity,France,Active,2001.0,Thrash/Death Metal/Hardcore (early)| Deathcore (later),Human misery,2001-2022,2022
+37568,37569,All That Remains,United States,Active,1998.0,Metalcore/Melodic Death Metal (early)| Metalcore/Melodic Hard Rock (later),Relationships,1998-2022,2022
+37569,37570,Amorticure,Germany,Active,2000.0,Gothic/Death Metal (early)| Gothic Rock (later),Society,2000-2022,2022
 37573,37574,Asa-Noir,Finland,Active,2004.0,Symphonic/Melodic Death Metal with Folk/Industrial elements,Asatru,2004-2022,2022
-37576,37577,Bleed from Within,United Kingdom,Active,2005.0,Deathcore ,Inner Struggles,2005-2022,2022
-37577,37578,Bleeding Heaven,Germany,Active,2007.0,Melodic Death Metal/Metalcore ,Inner struggles,2007-2022,2022
+37576,37577,Bleed from Within,United Kingdom,Active,2005.0,Deathcore (early)| Melodic Death/Groove Metal| Metalcore (later),Inner Struggles,2005-2022,2022
+37577,37578,Bleeding Heaven,Germany,Active,2007.0,Melodic Death Metal/Metalcore (early)| Deathcore (later),Inner struggles,2007-2022,2022
 37578,37579,Blitzer,Sweden,Split-up,1999.0,Heavy/Thrash/Death Metal with Drum and Bass influences,Social issues,1999-2004,2004
-37579,37580,Blood Duster,Australia,Active,1991.0,Death Metal/Grindcore ,Sex,1991-2022,2022
-37580,37581,Bloodraised,Italy,Split-up,2005.0,Crust Punk/Hardcore ,Anti-Humanity,2005-2011,2011
-37581,37582,Bloodshot,Belgium,Active,2000.0,Metalcore/Hardcore ,Serial killers,2000-2022,2022
-37584,37585,Brainwash,Spain,Active,1999.0,Thrash/Death Metal with Grindcore influences ,Sex,1999-2022,2022
-37585,37586,Burning Hate,Germany,Active,2004.0,Hardcore ,White Pride,2004-2022,2022
-37588,37589,Camlann,United States,Split-up,2008.0,Power/Melodic Death ,Despair,2008-2010,2010
-37590,37591,Cataract,Switzerland,Split-up,1998.0,Hardcore ,War,1998-2013,2013
-37591,37592,Claudio Cordero,Chile,Active,2005.0,Hard Rock ,Instrumental,2005-2022,2022
-37592,37593,Crisis,United States,Split-up,1994.0,Death/Thrash Metal ,Religion,1994-2006,2006
-37594,37595,Dead in the Water,Finland,Active,2000.0,Hardcore ,Sadness,2000-2022,2022
-37595,37596,Dedicated for Life,Macedonia,Active,2001.0,Hardcore ,Life,2001-2022,2022
+37579,37580,Blood Duster,Australia,Active,1991.0,Death Metal/Grindcore (early)| Grind 'n' Roll (later),Sex,1991-2022,2022
+37580,37581,Bloodraised,Italy,Split-up,2005.0,Crust Punk/Hardcore (early)| Death Metal/Grindcore (later),Anti-Humanity,2005-2011,2011
+37581,37582,Bloodshot,Belgium,Active,2000.0,Metalcore/Hardcore (early)| Groove/Death Metal/Hardcore (later),Serial killers,2000-2022,2022
+37584,37585,Brainwash,Spain,Active,1999.0,Thrash/Death Metal with Grindcore influences (early)| Deathcore/Grindcore (later),Sex,1999-2022,2022
+37585,37586,Burning Hate,Germany,Active,2004.0,Hardcore (early)| Deathcore/Melodic Death Metal (later),White Pride,2004-2022,2022
+37588,37589,Camlann,United States,Split-up,2008.0,Power/Melodic Death (early)| Blackened Shoegaze/Power Metal (later),Despair,2008-2010,2010
+37590,37591,Cataract,Switzerland,Split-up,1998.0,Hardcore (early) Thrash/Death Metal/Metalcore (later),War,1998-2013,2013
+37591,37592,Claudio Cordero,Chile,Active,2005.0,Hard Rock (early)| Death/Progressive Metal (later),Instrumental,2005-2022,2022
+37592,37593,Crisis,United States,Split-up,1994.0,Death/Thrash Metal (early)| Hardcore/Metalcore (later),Religion,1994-2006,2006
+37594,37595,Dead in the Water,Finland,Active,2000.0,Hardcore (early)| Melodic Doom/Death Metal (later),Sadness,2000-2022,2022
+37595,37596,Dedicated for Life,Macedonia,Active,2001.0,Hardcore (early)| Melodic Death Metal/Metalcore (later),Life,2001-2022,2022
 37597,37598,Discordant,France,Active,2005.0,Thrash/Death Metal with Grindcore/Crust Influences,Politics,2005-2022,2022
 37599,37600,Dissonance in Majesty,United States,Active,2010.0,Black/Death Metal/Metalcore with Symphonic elements,Religion through Dystopian Allegory,2010-2022,2022
-37601,37602,Eye of Solitude,United Kingdom,Active,2010.0,Doom/Death ,Sorrow,2010-2022,2022
-37603,37604,Fallujah,United States,Active,2007.0,Blackened Deathcore ,Religious Fundamentalism,2007-2022,2022
-37604,37605,Fear My Thoughts,Germany,Split-up,1998.0,Hardcore/Metalcore ,Life,1998-2010,2010
-37605,37606,Fleshgore,Ukraine,Active,2000.0,Brutal Death Metal ,Disease,2000-2022,2022
-37608,37609,Gorthaur,Poland,Active,1995.0,Death/Doom Metal ,Life,1995-2022,2022
-37610,37611,Grumo,Italy,Active,2004.0,Goregrind/Noise ,Social Alienation,2004-2022,2022
-37613,37614,Human Demise,Canada,Active,2009.0,Grindcore/Death/Doom Metal ,Abstract,2009-2022,2022
-37614,37615,I Shit on Your Face,Brazil,Split-up,2002.0,Goregrind ,Gore,2002-2013,2013
-37620,37621,Junkyard Lipstick,South Africa,Split-up,2011.0,Punk,Diverse,2011-2016,2016
-37622,37623,Lashmush,Sweden,Active,2002.0,Symphonic Death/Black Metal,Instrumental,2002-2022,2022
-37625,37626,Legion of Thor,Germany,Active,1999.0,Hardcore Punk/Metalcore ,Nationalism,1999-2022,2022
-37626,37627,Letargy Dream,Russia,Split-up,2003.0,Melodic Doom/Death Metal ,Dreams,2003-2013,2013
+37601,37602,Eye of Solitude,United Kingdom,Active,2010.0,Doom/Death (early)| Funeral Doom Metal (later),Sorrow,2010-2022,2022
+37603,37604,Fallujah,United States,Active,2007.0,Blackened Deathcore (early)| Progressive/Technical Death Metal/Deathcore (later),Religious Fundamentalism,2007-2022,2022
+37604,37605,Fear My Thoughts,Germany,Split-up,1998.0,Hardcore/Metalcore (early)| Melodic Death Metal (later),Life,1998-2010,2010
+37605,37606,Fleshgore,Ukraine,Active,2000.0,Brutal Death Metal (early/later)| Thrash/Deathcore (mid),Disease,2000-2022,2022
+37608,37609,Gorthaur,Poland,Active,1995.0,Death/Doom Metal (early)| Electro Gothic (later),Life,1995-2022,2022
+37610,37611,Grumo,Italy,Active,2004.0,Goregrind/Noise (early)| Grindcore/Death Metal (later),Social Alienation,2004-2022,2022
+37613,37614,Human Demise,Canada,Active,2009.0,Grindcore/Death/Doom Metal (early)| Grindcore (later),Abstract,2009-2022,2022
+37614,37615,I Shit on Your Face,Brazil,Split-up,2002.0,Goregrind (early)| Grindcore/Brutal Death Metal (later),Gore,2002-2013,2013
+37620,37621,Junkyard Lipstick,South Africa,Split-up,2011.0,Punk| Hard Rock (early)| Death/Thrash Metal (later),Diverse,2011-2016,2016
+37622,37623,Lashmush,Sweden,Active,2002.0,Symphonic Death/Black Metal| Electronic/Industrial,Instrumental,2002-2022,2022
+37625,37626,Legion of Thor,Germany,Active,1999.0,Hardcore Punk/Metalcore (early)| Death Metal/Deathcore (later),Nationalism,1999-2022,2022
+37626,37627,Letargy Dream,Russia,Split-up,2003.0,Melodic Doom/Death Metal (early)| Progressive Rock (later),Dreams,2003-2013,2013
 37627,37628,Lo-Ruhamah,United States,Active,2002.0,Death/Black Metal with Post-Rock Influences,Despair,2002-2022,2022
-37630,37631,Melody Maker,Indonesia,Active,2004.0,Melodic Black/Death Metal ,Motivation,2004-2022,2022
-37636,37637,Morrigu,Switzerland,Active,1999.0,Atmospheric Doom/Death Metal ,History,1999-2022,2022
-37638,37639,Napalm Death,United Kingdom,Active,1981.0,Hardcore Punk ,Political unrest,1981-2022,2022
-37639,37640,Noplacetohide,Norway,Split-up,1989.0,Death/Thrash Metal ,Hate,1989-2005,2005
-37640,37641,Obskure Torture,Denmark,Split-up,2002.0,Black/Death/Doom Metal ,Satanism,2002-2012,2012
-37645,37646,Placenta,Germany,Active,2000.0,Death/Thrash/Groove Metal ,Personal Struggles,2000-2022,2022
-37649,37650,Pulmonary Fibrosis,France,Active,1998.0,Goregrind/Noisegrind ,Disease,1998-2022,2022
+37630,37631,Melody Maker,Indonesia,Active,2004.0,Melodic Black/Death Metal (early)| Symphonic Deathcore (later),Motivation,2004-2022,2022
+37636,37637,Morrigu,Switzerland,Active,1999.0,Atmospheric Doom/Death Metal (early)| Melodic Metalcore (later),History,1999-2022,2022
+37638,37639,Napalm Death,United Kingdom,Active,1981.0,Hardcore Punk (early)| Grindcore/Death Metal (later),Political unrest,1981-2022,2022
+37639,37640,Noplacetohide,Norway,Split-up,1989.0,Death/Thrash Metal (early)| Industrial/Metalcore (later),Hate,1989-2005,2005
+37640,37641,Obskure Torture,Denmark,Split-up,2002.0,Black/Death/Doom Metal (early)| Dark Ambient/Noise (later),Satanism,2002-2012,2012
+37645,37646,Placenta,Germany,Active,2000.0,Death/Thrash/Groove Metal (early)| Deathcore (later),Personal Struggles,2000-2022,2022
+37649,37650,Pulmonary Fibrosis,France,Active,1998.0,Goregrind/Noisegrind (early)| Brutal Death Metal/Grindcore (later),Disease,1998-2022,2022
 37652,37653,Rainwound,United States,Active,2005.0,Progressive Rock/Blackened Melodic Death/Folk Metal,Conceptual Storylines,2005-2022,2022
-37653,37654,Reclusa,United States,Active,2010.0,Death/Doom Metal,Hatred,2010-2022,2022
-37655,37656,Residüs,Brazil,Active,2005.0,Hardcore/Crossover ,Social issues,2005-2022,2022
-37658,37659,Rose Rose,Japan,Active,1983.0,Hardcore Punk/Crossover,Life,1983-2022,2022
-37659,37660,Ruido de Rabia,Spain,Split-up,1985.0,Hardcore/Grindcore/Punk ,Social issues,1985-1994,1994
-37661,37662,Sanata Vopilif,Bulgaria,Active,1997.0,Industrial ,Gore,1997-2022,2022
-37665,37666,Shadowsphere,Portugal,Active,2000.0,Melodic Death/Thrash Metal ,Dreams,2000-2022,2022
-37666,37667,Silence the Messenger,United States,Active,2007.0,Melodic Death Metal/Metalcore ,Anger,2007-2022,2022
-37672,37673,Subvertor,Bolivia,Active,1990.0,Noisecore/Grindcore ,Socialism,1990-2022,2022
-37674,37675,The Faceless,United States,Active,2004.0,Technical Deathcore ,Science Fiction,2004-2022,2022
-37682,37683,Unholy Grave,Japan,Active,1993.0,Grindcore/Death Metal ,Political,1993-2022,2022
-37684,37685,Vervet Monkey,Denmark,Active,2010.0,Sludge/Stoner Metal/Rock,Blue Balls,2010-2022,2022
-37686,37687,Voidd,Japan,Active,1989.0,Death/Black/Thrash Metal ,The future,1989-2022,2022
-37689,37690,Zombie Raiders,United States,Active,2009.0,Grindcore/Noise ,Horror,2009-2022,2022
-37695,37696,Sepultura,Brazil,Active,1984.0,Death/Thrash Metal ,Satanism,1984-2022,2022
-37696,37697,Ankhagram,Russia,On hold,2005.0,Melodic Doom/Death Metal ,Darkness,2005-2013,2013
-37702,37703,Inter Arbores,Russia,Split-up,2003.0,Funeral Doom/Death Metal ,Nature,2003-2012,2012
-37704,37705,KOAMA,United States,Active,2004.0,Heavy/Thrash Metal with Progressive Influences ,Society,2004-2022,2022
-37705,37706,Massacra,France,Split-up,1986.0,Death/Thrash Metal ,Genocide,1986-1997,1997
-37706,37707,Oblivion Machine,Russia,Active,2005.0,Industrial Groove/Death Metal ,Hate,2005-2022,2022
-37709,37710,Soulfly,United States,Active,1997.0,Nu-Metal with tribal influences ,Spirituality,1997-2022,2022
-37715,37716,Yazata,United States,On hold,2009.0,Doom/Death Metal with Crust influences ,Mythology,2009-2022,2022
-37716,37717,Yuggoth,Russia,Active,2001.0,Doom/Death Metal ,Lovecraft,2001-2022,2022
-37718,37719,Gladiator,Slovakia,Active,1988.0,Death/Thrash Metal ,Sorrow,1988-2022,2022
+37653,37654,Reclusa,United States,Active,2010.0,Death/Doom Metal| Black/Noise/Industrial,Hatred,2010-2022,2022
+37655,37656,Residüs,Brazil,Active,2005.0,Hardcore/Crossover (early)| Death/Thrash Metal (later),Social issues,2005-2022,2022
+37658,37659,Rose Rose,Japan,Active,1983.0,Hardcore Punk/Crossover| Thrash/Death Metal/Grindcore,Life,1983-2022,2022
+37659,37660,Ruido de Rabia,Spain,Split-up,1985.0,Hardcore/Grindcore/Punk (early)| Grindcore/Death Metal (later),Social issues,1985-1994,1994
+37661,37662,Sanata Vopilif,Bulgaria,Active,1997.0,Industrial (early)| Experimental Death Metal/Grindcore (later),Gore,1997-2022,2022
+37665,37666,Shadowsphere,Portugal,Active,2000.0,Melodic Death/Thrash Metal (early)| Metalcore (later),Dreams,2000-2022,2022
+37666,37667,Silence the Messenger,United States,Active,2007.0,Melodic Death Metal/Metalcore (early)| Deathcore (later),Anger,2007-2022,2022
+37672,37673,Subvertor,Bolivia,Active,1990.0,Noisecore/Grindcore (early)| Death Metal/Grindcore (later),Socialism,1990-2022,2022
+37674,37675,The Faceless,United States,Active,2004.0,Technical Deathcore (early)| Progressive/Technical Death Metal (later),Science Fiction,2004-2022,2022
+37682,37683,Unholy Grave,Japan,Active,1993.0,Grindcore/Death Metal (early)| Grindcore/Noisecore (later),Political,1993-2022,2022
+37684,37685,Vervet Monkey,Denmark,Active,2010.0,Sludge/Stoner Metal/Rock| Death 'n' Roll,Blue Balls,2010-2022,2022
+37686,37687,Voidd,Japan,Active,1989.0,Death/Black/Thrash Metal (early)| Hardcore Punk/Psychobilly (later),The future,1989-2022,2022
+37689,37690,Zombie Raiders,United States,Active,2009.0,Grindcore/Noise (early)| Death Metal/Grindcore (later),Horror,2009-2022,2022
+37695,37696,Sepultura,Brazil,Active,1984.0,Death/Thrash Metal (early)| Groove/Thrash Metal| Nu-Metal (later),Satanism,1984-2022,2022
+37696,37697,Ankhagram,Russia,On hold,2005.0,Melodic Doom/Death Metal (early)| Funeral Doom Metal/Post-Rock (later),Darkness,2005-2013,2013
+37702,37703,Inter Arbores,Russia,Split-up,2003.0,Funeral Doom/Death Metal (early)| Doom Metal/Ambient/Post-Rock (later),Nature,2003-2012,2012
+37704,37705,KOAMA,United States,Active,2004.0,Heavy/Thrash Metal with Progressive Influences (early)| Progressive Death/Thrash Metal (later),Society,2004-2022,2022
+37705,37706,Massacra,France,Split-up,1986.0,Death/Thrash Metal (1986-1992)| Heavy/Thrash Metal (1994-97),Genocide,1986-1997,1997
+37706,37707,Oblivion Machine,Russia,Active,2005.0,Industrial Groove/Death Metal (early)| Industrial/Electronic Rock/Metal (later),Hate,2005-2022,2022
+37709,37710,Soulfly,United States,Active,1997.0,Nu-Metal with tribal influences (early)| Groove/Thrash/Death Metal (later),Spirituality,1997-2022,2022
+37715,37716,Yazata,United States,On hold,2009.0,Doom/Death Metal with Crust influences (early)| Black/Doom Metal (later),Mythology,2009-2022,2022
+37716,37717,Yuggoth,Russia,Active,2001.0,Doom/Death Metal (early)| Heavy Metal/Hard Rock with Funk influences (later),Lovecraft,2001-2022,2022
+37718,37719,Gladiator,Slovakia,Active,1988.0,Death/Thrash Metal (1988-93)| Grunge/Hard Rock (1994-2022),Sorrow,1988-2022,2022
